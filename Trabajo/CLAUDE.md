@@ -1,21 +1,29 @@
 # Trabajo — contexto general
 
-Esta carpeta es el "vault" de trabajo (migrado desde Obsidian). Claude Code lee este
-archivo siempre, y además el `CLAUDE.md` de cada subcarpeta en la que se trabaje.
-Por eso: acá va solo lo que aplica a TODO; lo específico va en su carpeta.
+Carpeta raíz del trabajo (migrado desde Obsidian / Cowork). Claude Code lee este archivo
+y además el `CLAUDE.md` de cada subcarpeta en la que se trabaje: acá va solo lo que aplica
+a TODO; lo específico vive en su carpeta (regla: **write once, reference many**).
 
 ## Estructura
-- `Amazon/` — ecosistema Amazon. Una carpeta por producto (`Kina/`, `Avie/`, ...).
-- `Etsy/` — ecosistema Etsy.
-- `Paginas-Web/` — sitios propios / DTC.
-- `_compartido/` — lo transversal: metas, finanzas generales, proveedores comunes, plantillas.
-- `_inbox/` — notas importadas que todavía no se clasificaron.
+| Carpeta | Qué hay | Estado |
+|---|---|---|
+| `Amazon/` | Contexto madre de Amazon (quién soy, meta, cuentas, reglas duras) | ✅ migrado |
+| `Amazon/AVIE/` | AVIE Lymphatic Contour Face Brush · B0GT75CR86 | ✅ migrado |
+| `Amazon/MT-BALL/` | MT Ball (magic meta ball, con Maxi) | ✅ migrado |
+| `Amazon/KINA/`, `Amazon/REFLEX/`, `Amazon/_CUENTA-KINAVARGAS/` | — | ⏳ pendiente (ver mapa en `Amazon/CLAUDE.md`) |
+| `Etsy/` | Ecosistema Etsy | ⏳ pendiente |
+| `Paginas-Web/` | TerpTech / DTC y otros sitios | ⏳ pendiente |
+| `_compartido/` | Lo transversal a todos los ecosistemas | vacío |
+| `_inbox/` | Notas importadas sin clasificar | vacío |
 
-## Reglas para Claude
-- Antes de investigar afuera, buscar primero en estas carpetas (grep por nombre de producto, proveedor, competidor).
-- Cada producto tiene su `CLAUDE.md` con el contexto clave: mantenerlo corto (≤ 60 líneas) y actualizado.
-- El detalle vive en notas `.md` dentro de la carpeta del producto; el `CLAUDE.md` solo resume y enlaza.
-- Los enlaces `[[nota]]` de Obsidian se mantienen; se resuelven buscando el archivo `nota.md`.
+Cada producto sigue la misma estructura: `CLAUDE.md` (lo estable) + `ESTADO.md` (dónde quedamos)
++ archivos temáticos (`listing.md`, `ppc.md`, `keywords.md`, `riesgos.md`, …) + `assets/`.
 
-## Contexto del negocio
-<!-- Completar: quién sos, meta principal (ej. 100k de beneficio neto), prioridades actuales. -->
+## Cómo trabajar
+- Abrir Claude Code en la carpeta del producto/ecosistema que toque: así se carga sólo ese contexto.
+- Antes de investigar afuera, buscar primero acá (grep por producto, ASIN, competidor, proveedor).
+- Al cerrar cada sesión, actualizar el `ESTADO.md` del producto.
+
+## Migrar más notas
+`python scripts/migrar_obsidian.py RUTA_AL_VAULT` (desde la raíz del repo) muestra el plan;
+con `--aplicar` copia. Ajustar `REGLAS` en el script al sumar productos nuevos.

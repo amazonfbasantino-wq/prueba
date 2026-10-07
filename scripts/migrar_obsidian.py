@@ -25,8 +25,10 @@ DESTINO = Path(__file__).resolve().parent.parent / "Trabajo"
 # (destino relativo a Trabajo/, palabras clave). Orden = prioridad: lo más
 # específico (productos) antes que lo general (ecosistemas).
 REGLAS = [
-    ("Amazon/Kina", ["kina"]),
-    ("Amazon/Avie", ["avie"]),
+    ("Amazon/KINA", ["kina", "kinavargas"]),
+    ("Amazon/AVIE", ["avie", "b0gt75cr86"]),
+    ("Amazon/MT-BALL", ["mt ball", "mt-ball", "mtball"]),
+    ("Amazon/REFLEX", ["reflex"]),
     ("Amazon/_comun", ["amazon", "fba", "asin", "seller central", "ppc", "acos", "helium"]),
     ("Etsy/_comun", ["etsy"]),
     ("Paginas-Web/_comun", ["shopify", "wordpress", "dtc", "dominio", "landing", "web"]),
