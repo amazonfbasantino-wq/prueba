@@ -11,8 +11,8 @@
 ## Cuentas y entidades
 | Cuenta / entidad | Qué es | Productos |
 |---|---|---|
-| **Beauty Michele** | Vendedor individual, persona natural, titular en Luján de Cuyo (Mendoza) | AVIE (50/50 con mi pareja) |
-| **KINAVARGAS** (ACC-002) | Titular Maria Eugenia Vargas (no es parte de la LLC) | KINA, Reflex Game |
+| **Beauty Michele** | Vendedor individual, persona natural, titular en Luján de Cuyo (Mendoza) | AVIE (50/50 con mi pareja) · MT Ball (en preparación) |
+| **KINAVARGAS** (ACC-002) | Titular Maria Eugenia Vargas (no es parte de la LLC) | KINA (discontinuado), Reflex Game (liquidación) |
 | Cuenta personal de Santi | Bloqueada por Sección 3 | — |
 | **VIRTUALMED SOLUTIONS LLC** | LLC de Florida (domicilio Sarasota) · miembros: Santi + Pablo · banco: Bank of America | — |
 | Socio externo | Maxi (vive en Utah) | MT Ball |
@@ -22,24 +22,19 @@
 |---|---|---|---|
 | `AVIE/` | AVIE Lymphatic Contour Face Brush | B0GT75CR86 | ✅ migrado 2026-10-06 |
 | `MT-BALL/` | MT Ball (meta ball, con Maxi) | — | ✅ migrado 2026-10-06 |
-| `REFLEX/` | Reflex Game (KINAVARGAS) | — | ⏳ pendiente |
-| `KINA/` | KINA Lymphatic Drainage Face Brush + cuenta KINAVARGAS | B0GQJLP4TB | ⏳ pendiente |
-| `_CUENTA-KINAVARGAS/` | Seguro ACC-002, casos, documentación | — | ⏳ pendiente (decidir si va dentro de KINA) |
+| `REFLEX/` | Reflex Game (KINAVARGAS) · **modo liquidación** | B0GR46X8Y8 · B0GQW5F2LL | ✅ migrado 2026-10-06 |
+| `KINA/` | KINA Lymphatic Drainage Face Brush · **liquidación fuera de Amazon** | B0GQJLP4TB | ✅ migrado 2026-10-06 |
+| `_CUENTA-KINAVARGAS/` | Cuenta KINAVARGAS: titular, seguro, casos, reglas | — | ✅ migrado 2026-10-06 |
+| `_ARCHIVO/` | Los dos vaults de Obsidian completos, en crudo (sólo consulta) | — | ver `_ARCHIVO/LEEME.md` |
 
-Fuera de esta carpeta (no migrar por ahora): TerpTech/DTC, Etsy, RapiPet. Viven en el vault viejo (`02 Negocios/`).
-
-## Estructura fija de cada producto
-```
-<PRODUCTO>/
-  CLAUDE.md   → identidad, economía, objetivo, reglas propias (lo que NO cambia seguido)
-  ESTADO.md   → dónde quedamos, pendientes, fechas, decisiones abiertas (se actualiza al cerrar cada sesión)
-  listing.md  → copy vigente listo para pegar
-  ppc.md      → campañas, pujas, reglas de PPC
-  mercado.md  → competencia y keywords
-  riesgos.md  → contradicciones y bloqueantes
-  assets/     → imágenes y entregables finales
-```
+## Estructura de cada producto
+Cada carpeta tiene siempre `CLAUDE.md` (lo estable: identidad, economía, objetivo, reglas) y `ESTADO.md` (dónde quedamos, prioridades, decisiones abiertas; se actualiza al cerrar cada sesión). El resto son archivos temáticos chicos (listing, ppc, keywords, competencia, riesgos…) listados en el `CLAUDE.md` de cada producto. Imágenes y datos en `assets/`.
 Regla: **WRITE ONCE — REFERENCE MANY.** Un dato vive en un solo archivo; los demás apuntan.
+
+## Dónde está todo
+- **Google Drive** (cuenta amazonfbasantino@gmail.com) → carpeta `AMAZON/`: **copia de trabajo para Claude Code** (versión condensada; manda ante diferencias).
+- Vault Obsidian `obsidian c` → `AMAZON/`: misma estructura, versión extendida de algunas tablas, más las imágenes.
+- `AMAZON/_ARCHIVO/` en Drive: los dos vaults completos en crudo (`obsidian c` y `PROYECTOS 100K`: CSV, imágenes, expedientes viejos). **Sólo consulta**; ante diferencias manda `AMAZON/`.
 
 ## Cómo quiero que trabajes
 - Actuá como **director comercial / dueño del capital**, no como analista. Cada métrica → impacto en dinero: cuánto, dónde se pierde, qué variable cambiar, cuánto vale corregirla.
@@ -47,6 +42,7 @@ Regla: **WRITE ONCE — REFERENCE MANY.** Un dato vive en un solo archivo; los d
 - Priorizar por **impacto económico × probabilidad de éxito × velocidad × reversibilidad**.
 - Pensar en capital invertido, retorno sobre capital, contribution margin, cash flow, rotación, riesgo y escalabilidad. Nunca tráfico, clic, conversión, economía y escala como variables aisladas.
 - **No ser pasivo:** señalá oportunidades que no pregunté y decime cuándo una hipótesis o decisión mía está mal.
+- **No inventar hechos:** lo que no está en los archivos o no lo dije yo, se marca como hipótesis o se pregunta. No escribir suposiciones como si fueran datos.
 - Análisis importante = **dos capas**: (1) completo, guardado en el archivo del producto; (2) resumen ejecutivo en el chat (situación, 3-5 hallazgos, impacto, riesgos, recomendación, datos faltantes). No repetir en el chat lo que ya quedó guardado.
 - Respuestas en **español**, estructuradas, listas para copiar y pegar.
 - **Lo guardado no se pregunta:** se lee del archivo y se sigue.
@@ -58,6 +54,7 @@ Regla: **WRITE ONCE — REFERENCE MANY.** Un dato vive en un solo archivo; los d
 - Marcas ajenas: **prohibidas** en título, bullets y backend · **permitido** pujar por ellas en PPC.
 - Términos temporales ("christmas"): no en título ni backend; sí en Recommended Uses y bullets.
 - Sin claims médicos en campos indexables ("reducer", "lymph node", "detox", "elimina toxinas").
+- Lo que se declara a Amazon, al seguro y en la caja tiene que ser **la misma verdad**.
 - Cuidado con phishing de falso soporte Amazon (ej. dominio esc-amazon.com): Amazon sólo se contacta desde Seller Central.
 
 ## Al cerrar cada sesión

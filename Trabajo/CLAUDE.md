@@ -8,11 +8,14 @@ a TODO; lo específico vive en su carpeta (regla: **write once, reference many**
 | Carpeta | Qué hay | Estado |
 |---|---|---|
 | `Amazon/` | Contexto madre de Amazon (quién soy, meta, cuentas, reglas duras) | ✅ migrado |
-| `Amazon/AVIE/` | AVIE Lymphatic Contour Face Brush · B0GT75CR86 | ✅ migrado |
-| `Amazon/MT-BALL/` | MT Ball (magic meta ball, con Maxi) | ✅ migrado |
-| `Amazon/KINA/`, `Amazon/REFLEX/`, `Amazon/_CUENTA-KINAVARGAS/` | — | ⏳ pendiente (ver mapa en `Amazon/CLAUDE.md`) |
+| `Amazon/AVIE/` | AVIE Lymphatic Contour Face Brush · B0GT75CR86 (Beauty Michele) | ✅ migrado |
+| `Amazon/MT-BALL/` | MT Ball, magic meta ball con Maxi (Beauty Michele) | ✅ migrado |
+| `Amazon/REFLEX/` | Reflex Game R46 / QW5 (KINAVARGAS) · modo liquidación | ✅ migrado |
+| `Amazon/KINA/` | KINA Lymphatic Drainage Face Brush · B0GQJLP4TB · liquidación fuera de Amazon | ✅ migrado |
+| `Amazon/_CUENTA-KINAVARGAS/` | Cuenta KINAVARGAS: titular, seguro, casos | ✅ migrado |
+| `Amazon/_ARCHIVO/` | Vaults de Obsidian en crudo (sólo consulta) | ⚠️ en Drive sólo está el `LEEME.md`; los vaults todavía no se subieron |
 | `Etsy/` | Ecosistema Etsy | ⏳ pendiente |
-| `Paginas-Web/` | TerpTech / DTC y otros sitios | ⏳ pendiente |
+| `Paginas-Web/` | TerpTech / DTC, RapiPet y otros sitios | ⏳ pendiente |
 | `_compartido/` | Lo transversal a todos los ecosistemas | vacío |
 | `_inbox/` | Notas importadas sin clasificar | vacío |
 
