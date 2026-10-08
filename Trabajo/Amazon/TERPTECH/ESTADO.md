@@ -1,6 +1,6 @@
 # TERPTECH — ESTADO
 
-**Última actualización:** 2026-10-08 (tarde)
+**Última actualización:** 2026-10-08 (cierre)
 
 ## Dónde estamos
 - 🔴 **URGENTE: vender las 3.300 u antes del 31-dic-2026** (stock comprado con deuda). Plan y puntos de control: `canales.md` › Plan de liquidación.
@@ -17,7 +17,7 @@
 2b. Cotizar puntas de soldar 510 sueltas a la fábrica (costo + flete), por si la prueba DTC funciona y hay que armar kits con las 3.300.
 3. Corregir el line sheet: foto real, contacto y **precios nuevos** (el "Full lot $6–8" actual está por debajo del costo).
 4. Armar web vidriera B2B (catálogo + wholesale inquiry, sin checkout).
-5. ✅ Lista de prospectos y kit de contacto armados (`mayoristas/`). **Pendiente de Santi:** pegar 1–2 mails viejos, decir a quién se mandaron y quién puede visitar smoke shops en Florida. **Próximo:** buscar el contacto de compras de los prospectos A y arrancar la secuencia.
+5. ✅ Outreach en marcha (ver abajo).
 6. Pedir a la fábrica UN38.3 y MSDS.
 
 ## Qué NO hacer
@@ -26,13 +26,17 @@
 - No usar USPS para ningún envío posicionado como vape.
 - **No vender al consumidor ni en Amazon las 3.300 u sin punta como "soldador":** la caja promete una punta que no trae (producto distinto a lo declarado: reclamos, devoluciones y riesgo de cuenta). Esas van a mayoristas, o se arman kits agregando la punta.
 
-## Outreach online (2026-10-08)
-- Santi: no hay nadie en EE.UU.: **todo online**. Objetivo: escribirle a todas las smoke shops posibles (~1.000), con muestra gratis **sólo a calificados** (≥2 respuestas con contenido + tienda "popular").
-- ✅ `mayoristas/plantillas.md`: borrador con emoción + preguntas de calificación + criterio de muestra. **Pendiente: aprobación de Santi.**
-- ⛔ Automatizar envíos (skill/rutina que manda mails solos): **bloqueado por permisos de la sesión**. Necesita: (1) conectar la casilla de TerpTech como conector de Gmail; (2) que Santi apruebe las plantillas; (3) que Santi habilite el permiso de envío automático. Mientras tanto: borradores en Gmail que Santi envía.
-- Excepción explícita a la regla "nada de tareas programadas" para este frente, pedida por Santi.
-- Fuente de leads: Google Maps → export (Outscraper/Apify) → `scripts/terptech_leads.py` → `mayoristas/leads.csv`.
-- Faltan: export de Google Maps (acción de Santi), dirección postal para la firma (CAN-SPAM), **transportista B2B de Skytrader** (bloqueo #1) y la tasa de la deuda.
-- ✅ 2026-10-08: Gmail de TerpTech (terptech.company@gmail.com) conectado y leído. Diagnóstico en `mayoristas/outreach.md` §7. **10 borradores de seguimiento** listos en Gmail: falta poner la dirección postal y enviarlos (Santi).
-- ⚠️ En la misma casilla: **cuenta de eBay "santerp_0" suspendida** (26-ago, "security concerns") y un mail de ZIK Analytics con una **contraseña en texto plano**: cambiarla.
+## Outreach online — estado al cierre del 2026-10-08
+- Gmail de TerpTech (terptech.company@gmail.com) conectado como conector. Firma con dirección física: 2970 NW 75th Ave, Miami, FL 33122 (depósito de Skytrader).
+- **50 mails enviados hoy:** 10 seguimientos a los contactados en agosto + 40 primeros contactos (distribuidores, tiendas online con baterías novelty y tanda Florida). Bitácora: `mayoristas/outreach.md` §8.
+- Lista y seguimiento: `mayoristas/leads.csv` (62 leads: 50 contactados, 12 sin contactar). Rotación: `scripts/terptech_cola.py` (toque 1 a toda la lista → después toque 2, mínimo 3 días entre toques, máximo 6).
+- Plantillas T1–T6 + respuestas: `mayoristas/plantillas.md`. Muestra gratis = gancho; el envío lo paga el comprador y se descuenta de la 1.ª caja; se envía sólo a calificados.
+- ⛔ Envío automático (rutina de 10 por hora): bloqueado por los permisos de la sesión. Por ahora los envíos se hacen a mano y a pedido de Santi.
+- ⚠️ eBay "santerp_0": suspensión permanente (no fue un hackeo; los inicios de sesión eran de Santi en Maipú). **No abrir otra cuenta de eBay.** Cambiar la contraseña de ZIK Analytics, que llegó en texto plano.
 
+## Próxima sesión (en orden)
+1. Revisar respuestas en Gmail y contestar rápido (plantillas R1–R7). Escalar a Santi pedidos y muestras.
+2. Mandar las 12 tiendas que faltan (toque 1).
+3. Desde el 2026-10-11: mail fresco en HILO NUEVO a los contactados en agosto (pedido de Santi).
+4. Más tiendas: exportación de Google Maps (Florida y sudeste primero) → `scripts/terptech_leads.py`.
+5. Pendientes de Santi con Max: courier B2B, peso y medidas, cotización de envío y saldo de $1.225.
