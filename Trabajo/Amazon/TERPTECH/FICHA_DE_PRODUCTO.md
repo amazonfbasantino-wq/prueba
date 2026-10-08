@@ -44,7 +44,8 @@ fuentes: vault "proyectos 100k" (AMZ-P003 PRODUCT_INFO, VISUAL_EVIDENCE, MASTER_
 | Usos declarados (Amazon) | Electronics Repair, Jewelry Soldering, Residential Use | listing |
 | **Dimensiones** | `UNKNOWN` — no hay ficha dimensional en ningún vault | — |
 | **Peso** | `UNKNOWN` | — |
-| **Packaging / caja / case pack** | `UNKNOWN` (line sheet dice "Case pack: 50 / 100 — definir") | line sheet |
+| **Packaging / caja** | La caja dice "Mini Solder", muestra la punta de soldar impresa y trae instrucciones de soldado. **Lote de 3.300 u: la punta NO viene adentro** (Santi la sacó en esa producción). **Lote de 300 u devueltas: SÍ trae punta.** | Santi 2026-10-08 |
+| Case pack | `UNKNOWN` (line sheet dice "Case pack: 50 / 100 — definir") | line sheet |
 | **Certificados** (FCC, CE, RoHS, UN38.3, MSDS/SDS) | `UNKNOWN` — **no hay ningún certificado en los vaults**. Pedírselos a la fábrica | — |
 | Fábrica / proveedor | `UNKNOWN` — solo foto de la planta (cartelería en chino) | imagen 06 |
 

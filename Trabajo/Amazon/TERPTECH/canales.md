@@ -162,3 +162,18 @@ también van a mayoristas.
 
 3PL: **Skytrader USA** (Miami). No aparece en búsquedas web. Preguntarle: ¿despacha B2B por caja o pallet (LTL)? ¿hace
 kitting? ¿se integra con Shopify? ¿acepta baterías de litio 510?
+
+## Anexo 2026-10-08 — Punta de soldar: qué cambia
+
+HECHO (Santi): la caja dice "Mini Solder", muestra la punta impresa y trae instrucciones de soldado. En las 3.300 u
+**la punta no viene adentro**. Hay **300 u devueltas que sí la traen**.
+
+| Lote | Canal | Por qué |
+|---|---|---|
+| **300 u con punta** | **Prueba DTC modelo BatteryMods** | Ya cumplen lo que promete la caja: no hace falta armar kits ni comprar puntas. Costo de la prueba ≈ $0 en stock nuevo |
+| **3.300 u sin punta** | **Mayoristas (smoke shops y distribuidores)** | El comprador B2B las compra como batería 510 y la punta no le importa. Venderlas al consumidor como soldador sería entregar algo distinto a lo que promete la caja |
+| 3.300 u (si la prueba funciona) | Kitting: agregar la punta en Skytrader | Costo a cotizar (punta + armado). Vuelve "honesta" la caja y libera stock para DTC |
+
+Riesgo de las 300: son **devoluciones**. Inspeccionar y clasificar en cerradas/como nuevas (se venden como nuevas),
+abiertas (se venden como "open box" con descuento) y falladas (descarte). Recién ahí se sabe cuántas hay de verdad para la prueba.
+Stock total: **3.600 u** (3.300 + 300).

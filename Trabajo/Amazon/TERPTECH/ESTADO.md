@@ -3,7 +3,8 @@
 **Última actualización:** 2026-10-08 (tarde)
 
 ## Dónde estamos
-- Stock en el 3PL de Miami: **3.300 u (1.100 por color)**, confirmado por Santi el 2026-10-08.
+- Stock en el 3PL de Miami: **3.300 u (1.100 por color) sin punta de soldar adentro**, aunque la caja la muestra. Confirmado por Santi el 2026-10-08.
+- **+300 u devueltas (de Amazon) con punta de soldar.** Estado y colores sin revisar. Son las unidades para la prueba DTC.
 - Costo puesto en Miami: **máx. $7/u todo incluido** (incluye almacenaje hasta hoy; no incluye el flete al comprador). Capital inmovilizado: **≈ $23.100**.
 - **Precios mayoristas definidos** (FOB Miami, flete a cargo del comprador): ver `canales.md` › Precios mayoristas.
 - No está publicado en ningún canal.
@@ -11,7 +12,8 @@
 
 ## Qué sigue (en orden)
 1. 3PL = **Skytrader USA** (Miami). Preguntarle: ¿despacha B2B por caja o pallet (LTL)? ¿hace kitting? ¿se integra con Shopify?
-2. Santi confirma si la caja de TerpTech trae punta de soldar (define si es viable el modelo BatteryMods).
+2. Inspeccionar las 300 devueltas en Skytrader: cuántas están cerradas o como nuevas, cuántas abiertas o falladas, y de qué colores. Sólo las cerradas se venden como nuevas.
+2b. Cotizar puntas de soldar 510 sueltas a la fábrica (costo + flete), por si la prueba DTC funciona y hay que armar kits con las 3.300.
 3. Corregir el line sheet: foto real, contacto y **precios nuevos** (el "Full lot $6–8" actual está por debajo del costo).
 4. Armar web vidriera B2B (catálogo + wholesale inquiry, sin checkout).
 5. Armar una lista de smoke shops y distribuidores en EE.UU. (empezar por el sur de Florida, cerca del stock) y redactar el mensaje de contacto.
@@ -20,4 +22,5 @@
 ## Qué NO hacer
 - No abrir tienda DTC posicionada como vape/cartuchos. Prueba DTC sólo con el modelo BatteryMods (accesorio real en la caja, mensajes de herramienta) y con 300 u como máximo (ver `canales.md`).
 - No volver a publicarlo en Amazon como "soldering iron" ni bajo "Generic": es una categorización falsa y pone en riesgo la cuenta entera.
-- No usar USPS para ningún envío.
+- No usar USPS para ningún envío posicionado como vape.
+- **No vender al consumidor ni en Amazon las 3.300 u sin punta como "soldador":** la caja promete una punta que no trae (producto distinto a lo declarado: reclamos, devoluciones y riesgo de cuenta). Esas van a mayoristas, o se arman kits agregando la punta.
