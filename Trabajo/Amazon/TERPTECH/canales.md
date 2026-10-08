@@ -58,9 +58,9 @@ Precios tentativos del line sheet:
 
 ## Datos faltantes (en orden de impacto)
 
-1. **CONFLICT de stock:** Santi dice "1.100 unidades en 3 colores". La ficha dice 1.100 de **cada** color y el line sheet dice
+1. ~~CONFLICT de stock~~ RESUELTO 2026-10-08: 3.300 u (1.100 por color). Santi dice "1.100 unidades en 3 colores". La ficha dice 1.100 de **cada** color y el line sheet dice
    "3,300 units in stock in Miami, FL". ¿Son 1.100 o 3.300 en total? Cambia el valor del stock entre 1x y 3x.
-2. **Costo unitario puesto en Miami** (producto + flete + aduana): define el piso del precio mayorista.
+2. ~~Costo unitario~~ RESUELTO: máx. $7/u todo incluido (sin flete al comprador).
 3. **3PL:** nombre, si acepta productos de vapeo y si despacha por caja o pallet (LTL).
 4. Documentos que piden los compradores B2B: UN38.3 y MSDS de la batería, specs del lote.
 5. Si no hay comprador: ¿hasta qué precio se acepta liquidar el lote completo para recuperar caja?
@@ -92,3 +92,29 @@ formulario "wholesale inquiry", sin checkout al consumidor).
 **Camuflarlo como soldador:** descartado. Que otros lo hagan no lo vuelve seguro. Es declarar algo falso a la plataforma
 (va contra la regla dura "misma verdad"), la evidencia está en las propias reviews y las bajas de Amazon llegan en barridas.
 Con una cuenta ya bloqueada por Sección 3, el riesgo de asociación es cuenta entera más stock retenido.
+
+## Precios mayoristas (2026-10-08, con costo real)
+
+HECHO: 3.300 u · costo máx. $7/u puesto en Miami, todo incluido · capital ≈ $23.100.
+Regla: **precios FOB Miami** (el comprador retira o paga el flete), así el envío no come margen.
+
+| Tier | Precio actual en el line sheet | Margen/u con ese precio | **Precio nuevo** | Margen/u |
+|---|---|---|---|---|
+| Smoke shop (por caja de 50) | $9–13 | $2–6 | **$12** (desde 2 cajas: $11) | $4–5 |
+| Distribuidor (500–1.500 u) | $7–10 | $0–3 | **$9,50** | $2,50 |
+| Lote completo (3.300 u) | $6–8 | **−$1 a +$1 ⚠️** | **$8,50 piso** | $1,50 |
+
+⚠️ El "Full lot $6–8" actual puede perder plata: hay que sacarlo del line sheet.
+Margen del comprador: a $12 contra un MSRP de $24,99, el smoke shop duplica su inversión (keystone), que es lo que el canal espera.
+
+### Escenarios para las 3.300 u (ganancia = precio − $7)
+
+| Escenario | Ingreso | Ganancia | ROI sobre $23.100 | Velocidad |
+|---|---|---|---|---|
+| A. Todo a smoke shops a $11–12 | $36–40K | **$13–16K** | 57–71% | lenta (66 cajas) |
+| B. Mixto: 1.000 smoke shops a $12 + 2.300 a un distribuidor a $9,50 | $33,9K | **$10,8K** | 47% | media |
+| C. Lote completo a $8,50 | $28K | **$5K** | 21% | 1 operación |
+
+INFERENCIA: B es el mejor equilibrio. Las cajas sueltas a smoke shops validan el precio y sirven de prueba social para el
+distribuidor, y el distribuidor rota el grueso del stock. C queda como salida si en ~60 días no hay tracción.
+Referencia de demanda: en Amazon se vendían ~1.900 u/mes, así que el stock equivale a menos de 2 meses de esa demanda.
