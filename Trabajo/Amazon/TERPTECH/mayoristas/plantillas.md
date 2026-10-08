@@ -26,7 +26,7 @@ Most novelty 510 batteries are cute for a week and dead in a month. TerpTech is 
 
 It held **4.4★ across 80+ verified Amazon reviews** at ~$24 retail before it sold out there, so there's no marketplace price war undercutting you.
 
-If it sounds like a fit, **we can send you a free unit to test** (you only cover shipping). Just reply and tell me a bit about the shop.
+If it sounds like a fit, **we can send you a free unit to test**. Just reply and tell me a bit about the shop.
 
 {Your name}
 TerpTech · {email}
@@ -45,6 +45,7 @@ Hi {Name}, I'll close the loop. If a free test unit or a trial case makes sense 
 ---
 
 ## R1 — Respondió con interés / "send info" (1.ª respuesta → `calificando`)
+> Regla: la muestra gratis es el **gancho** del T1. La condición (envío a cargo del comprador, descontado de la 1.ª caja) se aclara **acá**, antes de pedir cualquier dato o pago, para que nadie lo sienta como trampa.
 Thanks {Name}, love that.
 
 Quick snapshot:
@@ -52,7 +53,7 @@ Quick snapshot:
 - Orange, black and pink, all with the same character design
 - Suggested retail $24.99, wholesale **$12/unit by the case of 50**, so your margin roughly doubles
 
-So I can see if the free test unit makes sense: **how many locations do you have, and about how many 510 batteries do you sell a month?**
+About the free test unit: the unit is on us, you'd just cover shipping from Miami (~$8–15), and we credit that back on your first case. So I can see if it makes sense: **how many locations do you have, and about how many 510 batteries do you sell a month?**
 
 ## R2 — Respondió con datos (2.ª respuesta → puntuar)
 **Si puntaje ≥ 6 → `calificado`:**
