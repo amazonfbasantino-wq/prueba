@@ -1,6 +1,6 @@
 # Trabajo — contexto general
 
-Carpeta raíz del trabajo (migrado desde Obsidian / Cowork). Claude Code lee este archivo
+Carpeta raíz del trabajo (migrado desde Obsidian / Cowork). **Fuente única: esta carpeta en la compu de Santi; Google Drive no se usa.** Claude Code lee este archivo
 y además el `CLAUDE.md` de cada subcarpeta en la que se trabaje: acá va solo lo que aplica
 a TODO; lo específico vive en su carpeta (regla: **write once, reference many**).
 
@@ -13,9 +13,9 @@ a TODO; lo específico vive en su carpeta (regla: **write once, reference many**
 | `Amazon/REFLEX/` | Reflex Game R46 / QW5 (KINAVARGAS) · modo liquidación | ✅ migrado |
 | `Amazon/KINA/` | KINA Lymphatic Drainage Face Brush · B0GQJLP4TB · liquidación fuera de Amazon | ✅ migrado |
 | `Amazon/_CUENTA-KINAVARGAS/` | Cuenta KINAVARGAS: titular, seguro, casos | ✅ migrado |
-| `Amazon/_ARCHIVO/` | Vaults de Obsidian en crudo (sólo consulta) | ⚠️ en Drive sólo está el `LEEME.md`; los vaults todavía no se subieron |
+| `Amazon/_ARCHIVO/` | Vaults de Obsidian en crudo (sólo consulta) | ⏳ pendiente: copiar desde los vaults en la compu |
 | `Etsy/` | Ecosistema Etsy | ⏳ pendiente |
-| `Paginas-Web/` | TerpTech / DTC, RapiPet y otros sitios | ⏳ pendiente |
+| `Paginas-Web/` | TerpTech / DTC, RapiPet y otros sitios | ⏳ pendiente: migrar desde `02 Negocios/` del vault |
 | `_compartido/` | Lo transversal a todos los ecosistemas | vacío |
 | `_inbox/` | Notas importadas sin clasificar | vacío |
 

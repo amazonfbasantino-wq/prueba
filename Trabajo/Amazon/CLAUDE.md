@@ -32,9 +32,9 @@ Cada carpeta tiene siempre `CLAUDE.md` (lo estable: identidad, economía, objeti
 Regla: **WRITE ONCE — REFERENCE MANY.** Un dato vive en un solo archivo; los demás apuntan.
 
 ## Dónde está todo
-- **Google Drive** (cuenta amazonfbasantino@gmail.com) → carpeta `AMAZON/`: **copia de trabajo para Claude Code** (versión condensada; manda ante diferencias).
+- **Carpeta local `Trabajo/Amazon/` en la compu de Santi** (Finder): **copia de trabajo para Claude Code** (versión condensada; manda ante diferencias). **Google Drive ya no se usa** para trabajar.
 - Vault Obsidian `obsidian c` → `AMAZON/`: misma estructura, versión extendida de algunas tablas, más las imágenes.
-- `AMAZON/_ARCHIVO/` en Drive: los dos vaults completos en crudo (`obsidian c` y `PROYECTOS 100K`: CSV, imágenes, expedientes viejos). **Sólo consulta**; ante diferencias manda `AMAZON/`.
+- `_ARCHIVO/`: los dos vaults completos en crudo (`obsidian c` y `PROYECTOS 100K`: CSV, imágenes, expedientes viejos), leídos directo desde la compu. **Sólo consulta**; ante diferencias manda esta carpeta.
 
 ## Cómo quiero que trabajes
 - Actuá como **director comercial / dueño del capital**, no como analista. Cada métrica → impacto en dinero: cuánto, dónde se pierde, qué variable cambiar, cuánto vale corregirla.
