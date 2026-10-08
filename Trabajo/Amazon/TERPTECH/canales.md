@@ -1,0 +1,66 @@
+---
+tipo: analisis-canal
+producto: TerpTech Premium 650mAh
+fecha: 2026-10-08
+pregunta: ¿Vale la pena vender TerpTech en Shopify (DTC, EE.UU.) despachando desde el 3PL?
+---
+
+# TERPTECH — ANÁLISIS DE CANALES
+
+## Conclusión
+
+**Shopify DTC: NO.** No es un problema de marketing ni de ejecución: el canal está cerrado para esta
+categoría por la plataforma, por los procesadores de pago, por los transportistas y por la ley federal.
+**Canal recomendado: B2B mayorista** (smoke shops y distribuidores), que ya está armado en
+`07_line_sheet_mayorista.pdf`.
+
+## Por qué no Shopify (HECHO, verificado 2026-10-08 con fuentes externas)
+
+TerpTech es una **batería 510 para cartuchos** (line sheet: "510-Thread Cart Battery"; review 5★: "great for cartridges";
+keyword top del listing: "vape pen"). Para la ley y para las plataformas es un **componente de ENDS** (vapeo),
+aunque no lleve nicotina.
+
+| Bloqueo | Qué dice | Consecuencia |
+|---|---|---|
+| **Shopify** | Desde junio-julio 2026 prohíbe la categoría vape entera, incluido hardware, partes y accesorios, con o sin nicotina | Riesgo alto de que bajen la tienda. Antes ya estaba prohibido en Shopify Payments |
+| **Pagos** | Stripe, PayPal y Square lo restringen. Queda sólo una cuenta "high-risk": ~3,5%+ de comisión, $25–50 por contracargo y reserva retenida de 5–20% durante 90–180 días | Margen y caja comprometidos |
+| **PACT Act** (ley federal) | Cubre ENDS **y sus componentes, incluidas las baterías**, también si se usan con cannabis. Para vender a consumidores exige registro en la ATF, reportes mensuales a cada estado, verificar edad 21+ al comprar **y** al entregar (DNI + firma de un adulto) y no usar USPS | Carga legal y administrativa desproporcionada para 1 SKU |
+| **Transportistas** | USPS tiene prohibido enviarlo a consumidores. FedEx y UPS dejaron de transportar vapes desde 2021. DHL, sólo B2B con aprobación previa | **No hay forma estándar de hacer la entrega final al cliente.** Hay que confirmar si el 3PL siquiera puede despacharlo |
+| **Publicidad** | Meta, Google y TikTok no permiten anunciar productos de vapeo (*a confirmar al lanzar*) | Sin tráfico pago, una tienda propia no vende |
+
+Fuentes: Shopify vape ban (rigbyjs.com, bsscommerce.com); PACT Act (natlawreview.com, cdtfa.ca.gov,
+cstoredecisions.com); transportistas (convenience.org ago-2025, vaping360.com). Son fuentes secundarias:
+antes de cualquier decisión irreversible, confirmar con un abogado en EE.UU.
+
+## Riesgo que hay que mirar: volver a Amazon
+
+- HECHO: el listing anterior estaba como **"Generic" › Soldering Irons** ("Mini Solder") y vendía por "vape pen" y "510 threaded battery".
+- INFERENCIA: Amazon prohíbe los productos de vapeo. Volver a publicarlo como soldador es una **categorización
+  falsa**. Además, las reviews dicen "great for cartridges", así que la evidencia contra el listing está en la página misma.
+- Va contra la regla dura "lo que se declara a Amazon tiene que ser la misma verdad". Con la cuenta personal ya bloqueada
+  por la Sección 3, **arriesgar una cuenta nueva con este producto puede costar la cuenta entera**, no sólo el ASIN.
+
+## Canal recomendado: B2B mayorista
+
+Por qué funciona: la venta a comercios no es venta al consumidor (las exigencias del PACT para consumidores no aplican igual), se despacha
+por caja o pallet (flete LTL o retiro), no necesita anuncios y el line sheet ya existe con la prueba social
+(4,4★, 80+ reviews, ~1.900 u/mes, ~$46K/mes en Amazon, sin guerra de precios porque ya no está publicado).
+
+Precios tentativos del line sheet:
+
+| Tier | Precio/u | 1.100 u | 3.300 u |
+|---|---|---|---|
+| Smoke shop (por caja) | $9–13 | $9.900–14.300 | $29.700–42.900 |
+| Distribuidor (500–1.500 u) | $7–10 | $7.700–11.000 | $23.100–33.000 |
+| Lote completo | $6–8 | $6.600–8.800 | $19.800–26.400 |
+
+*Ingreso bruto. No se puede calcular el margen porque el costo unitario es `UNKNOWN`.*
+
+## Datos faltantes (en orden de impacto)
+
+1. **CONFLICT de stock:** Santi dice "1.100 unidades en 3 colores". La ficha dice 1.100 de **cada** color y el line sheet dice
+   "3,300 units in stock in Miami, FL". ¿Son 1.100 o 3.300 en total? Cambia el valor del stock entre 1x y 3x.
+2. **Costo unitario puesto en Miami** (producto + flete + aduana): define el piso del precio mayorista.
+3. **3PL:** nombre, si acepta productos de vapeo y si despacha por caja o pallet (LTL).
+4. Documentos que piden los compradores B2B: UN38.3 y MSDS de la batería, specs del lote.
+5. Si no hay comprador: ¿hasta qué precio se acepta liquidar el lote completo para recuperar caja?
