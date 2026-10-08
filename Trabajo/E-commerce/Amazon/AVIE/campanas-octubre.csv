@@ -104,18 +104,37 @@ AVIE_OCT_RIVALES_EX,marcas y errores,kojevs lymphatic face brush,Exacta,0.6,AVIE
 AVIE_OCT_RIVALES_EX,marcas y errores,eteross lymphatic face brush,Exacta,0.6,AVIE orgánico #121
 AVIE_OCT_RIVALES_EX,marcas y errores,vddo lymphatic contour face brush,Exacta,0.6,AVIE orgánico #121
 AVIE_OCT_RIVALES_EX,marcas y errores,vellorra lymphatic contour face brush,Exacta,0.6,AVIE orgánico #128
-AVIE_OCT_ASIN,asin,B0GFSMWTPK,Producto (ASIN),0.7,"Aeki 16,99 · rival más débil"
-AVIE_OCT_ASIN,asin,B0GVBQ7P79,Producto (ASIN),0.7,"Cheersendex 19,95"
-AVIE_OCT_ASIN,asin,B0G3685P2S,Producto (ASIN),0.7,"ya convirtió (ACOS 46,7 %)"
+AVIE_OCT_ASIN,asin,B0GFSMWTPK,Producto (ASIN),0.65,"Aeki 16,99 · rival más débil"
+AVIE_OCT_ASIN,asin,B0GVBQ7P79,Producto (ASIN),0.65,"Cheersendex 19,95"
+AVIE_OCT_ASIN,asin,B0G3685P2S,Producto (ASIN),0.65,"ya convirtió (ACOS 46,7 %)"
 AVIE_OCT_DESCUBRIR_PH,descubrir,lymphatic face brush,Frase,0.55,Encuentra términos nuevos baratos; cosechar a exacta los que vendan
 AVIE_OCT_DESCUBRIR_PH,descubrir,lymphatic drainage brush,Frase,0.55,Encuentra términos nuevos baratos; cosechar a exacta los que vendan
 AVIE_OCT_DESCUBRIR_PH,descubrir,gua sha brush,Frase,0.55,Encuentra términos nuevos baratos; cosechar a exacta los que vendan
 AVIE_OCT_DESCUBRIR_PH,descubrir,face sculpting brush,Frase,0.55,Encuentra términos nuevos baratos; cosechar a exacta los que vendan
 AVIE_OCT_DESCUBRIR_PH,descubrir,depuff brush,Frase,0.55,Encuentra términos nuevos baratos; cosechar a exacta los que vendan
-AVIE_OCT_AUTO_COSECHA,auto,Coincidencia cercana (close match),Automática,0.7,Búsquedas muy parecidas al listing: la fuente principal de keywords nuevas
-AVIE_OCT_AUTO_COSECHA,auto,Coincidencia amplia (loose match),Automática,0.5,"Búsquedas relacionadas más lejanas: barato, explora"
-AVIE_OCT_AUTO_COSECHA,auto,Sustitutos (substitutes),Automática,0.6,Páginas de productos rivales: encuentra ASINs para la campaña ASIN
-AVIE_OCT_AUTO_COSECHA,auto,Complementos (complements),Automática,0.3,"Páginas de productos que se compran juntos (aceites, piedras): mínimo, sólo para ver"
+AVIE_OCT_PROBADAS_EX,probadas,lymphatic contour face brush,Exacta,0.5,"Keyword principal (55.000/mes). CVR histórico 9,5 % → CPC máx. ~0,50 (regla precio × 33 % × CVR)"
+AVIE_OCT_QUICKWIN_EX,long-tail,glow brush lymphatic,Exacta,0.75,Keyword Tracker 08-oct: AVIE orgánico #23
+AVIE_OCT_QUICKWIN_EX,long-tail,korean lymphatic brush,Exacta,0.75,Keyword Tracker 08-oct: AVIE orgánico #24
+AVIE_OCT_QUICKWIN_EX,long-tail,glow brush for face,Exacta,0.75,Keyword Tracker 08-oct: AVIE orgánico #35
+AVIE_OCT_QUICKWIN_EX,long-tail,counter glow face brush,Exacta,0.75,Keyword Tracker 08-oct: AVIE orgánico #44
+AVIE_OCT_QUICKWIN_EX,long-tail,counterglow face brush,Exacta,0.75,Keyword Tracker 08-oct: AVIE orgánico #50
+AVIE_OCT_QUICKWIN_EX,long-tail,face massager brush,Exacta,0.75,Keyword Tracker 08-oct: AVIE orgánico #59
+AVIE_OCT_QUICKWIN_EX,long-tail,contour face brush for lymphatic drainage,Exacta,0.75,Keyword Tracker 08-oct: AVIE orgánico #75
+AVIE_OCT_QUICKWIN_EX,long-tail,lymphatic drainage face brush,Exacta,0.7,Keyword Tracker 08-oct: AVIE orgánico #82 · 2.474/mes
+AVIE_OCT_QUICKWIN_EX,long-tail,lymph brush for face and neck,Exacta,0.75,Keyword Tracker 08-oct: AVIE orgánico #89 · 634/mes
+AVIE_OCT_QUICKWIN_EX,long-tail,face brush for lymphatic drainage,Exacta,0.6,Keyword Tracker 08-oct: AVIE orgánico #45 · 5.849/mes · CVR histórico bajo
+AVIE_OCT_QUICKWIN_EX,long-tail,soft bristle face brush,Exacta,0.6,Keyword Tracker 08-oct: AVIE orgánico #100 · 607/mes
+AVIE_OCT_QUICKWIN_EX,long-tail,lymphatic dry brush for face,Exacta,0.7,Keyword Tracker 08-oct: AVIE orgánico #100 · 522/mes
+AVIE_OCT_QUICKWIN_EX,long-tail,face sculpting brush lymphatic,Exacta,0.65,Keyword Tracker 08-oct: AVIE orgánico 600/mes (antes en AVIE_SCULPT_EX_US)
+AVIE_OCT_RIVALES_EX,marcas y errores,nuvetra contour glow brush,Exacta,0.6,Keyword Tracker 08-oct: AVIE orgánico #30
+AVIE_OCT_RIVALES_EX,marcas y errores,kojeva lymphatic brush face,Exacta,0.6,Keyword Tracker 08-oct: AVIE orgánico #71
+AVIE_OCT_RIVALES_EX,marcas y errores,akei lymphatic brush,Exacta,0.6,Keyword Tracker 08-oct: AVIE orgánico #74
+AVIE_OCT_RIVALES_EX,marcas y errores,koniva face brush,Exacta,0.6,Keyword Tracker 08-oct: AVIE orgánico #75
+AVIE_OCT_RIVALES_EX,marcas y errores,soothesilk facial brush,Exacta,0.6,Keyword Tracker 08-oct: AVIE orgánico #86
+AVIE_OCT_AUTO_COSECHA,auto,Coincidencia amplia (loose match),Automática,0.4,"RED DE TENDENCIAS: búsquedas nuevas o de temporada (gift, stocking stuffer, halloween…) a puja baja"
+AVIE_OCT_AUTO_COSECHA,auto,Coincidencia cercana (close match),Automática (pausada),,Pausada: ya la cubre la SP-(CloseMatch) existente
+AVIE_OCT_AUTO_COSECHA,auto,Sustitutos (substitutes),Automática (pausada),,Pausada: ya la cubre la SP-(Substitutes) existente (18 pedidos)
+AVIE_OCT_AUTO_COSECHA,auto,Complementos (complements),Automática (pausada),,Pausada: históricamente sin rentabilidad
 AVIE_OCT_AUTO_COSECHA,auto,dry brush for lymphatic drainage,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
 AVIE_OCT_AUTO_COSECHA,auto,lymphatic drainage brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
 AVIE_OCT_AUTO_COSECHA,auto,lymphatic face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
@@ -221,11 +240,32 @@ AVIE_OCT_AUTO_COSECHA,auto,kojevs lymphatic face brush,Negativa exacta,,Ya está
 AVIE_OCT_AUTO_COSECHA,auto,eteross lymphatic face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
 AVIE_OCT_AUTO_COSECHA,auto,vddo lymphatic contour face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
 AVIE_OCT_AUTO_COSECHA,auto,vellorra lymphatic contour face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,lymphatic contour face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,glow brush lymphatic,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,korean lymphatic brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,glow brush for face,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,counter glow face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,counterglow face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,face massager brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,contour face brush for lymphatic drainage,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,lymphatic drainage face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,lymph brush for face and neck,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,face brush for lymphatic drainage,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,soft bristle face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,lymphatic dry brush for face,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,face sculpting brush lymphatic,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,nuvetra contour glow brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,kojeva lymphatic brush face,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,akei lymphatic brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,koniva face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,soothesilk facial brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
 AVIE_OCT_AUTO_COSECHA,auto,gua sha facial tools,Negativa exacta,,14 clics 0 ventas
 AVIE_OCT_AUTO_COSECHA,auto,kojeva lymphatic face brush,Negativa exacta,,10 clics 0 ventas
 AVIE_OCT_AUTO_COSECHA,auto,kitsch lymphatic contour face brush,Negativa exacta,,7 clics 0 ventas
 AVIE_OCT_AUTO_COSECHA,auto,facial brush,Negativa exacta,,"7 clics 0 ventas, intención limpieza"
 AVIE_OCT_AUTO_COSECHA,auto,guasha tool for face,Negativa exacta,,"8 clics 0 ventas, intención piedra"
+AVIE_OCT_AUTO_COSECHA,auto,contour brush,Negativa exacta,,Regla AVIE: otra intención (maquillaje)
+AVIE_OCT_AUTO_COSECHA,auto,face mask brush,Negativa exacta,,Regla AVIE: otra intención (mascarilla)
 AVIE_OCT_AUTO_COSECHA,auto,electric,Negativa frase,,Otra intención de compra
 AVIE_OCT_AUTO_COSECHA,auto,makeup,Negativa frase,,Otra intención de compra
 AVIE_OCT_AUTO_COSECHA,auto,body,Negativa frase,,Otra intención de compra
@@ -237,5 +277,7 @@ AVIE_OCT_AUTO_COSECHA,auto,cleansing,Negativa frase,,Otra intención de compra
 AVIE_OCT_AUTO_COSECHA,auto,exfoliating,Negativa frase,,Otra intención de compra
 AVIE_OCT_AUTO_COSECHA,auto,powder,Negativa frase,,Otra intención de compra
 AVIE_OCT_AUTO_COSECHA,auto,ice roller,Negativa frase,,Otra intención de compra
+AVIE_OCT_AUTO_COSECHA,auto,foundation,Negativa frase,,Otra intención de compra
+AVIE_OCT_AUTO_COSECHA,auto,peel,Negativa frase,,Otra intención de compra
 AVIE_OCT_AUTO_COSECHA,auto,B0FD354L27,ASIN negativo,,"FLAHOLD 8,99: ACOS 81 %, 8,44 USD de ads por unidad"
 AVIE_OCT_AUTO_COSECHA,auto,B0FD6Y9BX5,ASIN negativo,,7 clics 0 ventas

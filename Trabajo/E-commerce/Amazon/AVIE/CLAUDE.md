@@ -13,14 +13,15 @@
 | `estrategia-ticket-2pack.md` | Promo "compra 2" vs 2-pack ASIN, números, logística, proyección de stock Q4 |
 | `resumen-tarjeta.md` | Cargos de Amazon a la tarjeta del tío (995,63 USD, 25-may→7-oct) y en qué se fue la plata |
 | `plan-octubre-expansion.md` | **Plan vigente de octubre:** expansión, presupuesto diario que se paga con las ventas, 5 campañas, rutina diaria, precio 14,99 → 13,99 → 9,99 (−33 %) |
-| `campanas-octubre.csv` | 117 objetivos + 123 negativas (fuente) → `AVIE_OCT_bulk_carga.xlsx` para subir en Amazon Ads (exactas long-tail, rivales, ASIN, frase, automática de cosecha) |
-| `AVIE_OCT_bulk_carga.xlsx` · `scripts/generar_bulk.py` | Archivo masivo de Amazon Ads (259 filas) y el script que lo arma desde el CSV |
+| `campanas-existentes-semaforo.md` | 🔴🟡🟢 qué hacer con cada campaña vieja (Marvin y SP-(N)) |
+| `campanas-octubre.csv` | 133 objetivos + 146 negativas (fuente) → `AVIE_OCT_bulk_carga.xlsx` para subir en Amazon Ads (exactas long-tail, rivales, ASIN, frase, automática de cosecha) |
+| `AVIE_OCT_bulk_carga.xlsx` · `scripts/generar_bulk.py` | Archivo masivo de Amazon Ads (301 filas) y el script que lo arma desde el CSV |
 | `plan-q4-pulsos.md` | Plan de pulsos de 8 días (nov-dic o vuelta atrás si octubre falla) |
 | `ppc.md` | Plan anterior de 900 USD/mes (versiones A/B) y reglas de PPC heredadas |
 | `competencia.md` | Los 9 ASINs rivales, los dos mercados, a quién atacar |
 | `keywords.md` | GAP de indexación, ángulo regalo, capas de puja |
 | `riesgos.md` | 14 contradicciones/bloqueantes + compliance |
-| `datos/` | CSV de Marvin (search terms, Cerebro) · transacciones 25-may→7-oct · portfolios 7 días · plan HTML del 21-sep |
+| `datos/` | CSV de Marvin (search terms, Cerebro) · Keyword Tracker H10 08-oct · transacciones 25-may→7-oct · portfolios 7 días · plan HTML del 21-sep |
 | `assets/aplus/` | 10 imágenes finales del A+ Premium (5 desktop + 5 mobile) |
 
 ## Identidad
@@ -53,6 +54,11 @@
 **Zona muerta 10,00-11,80:** te pagan menos que a 9,99 (5,25 a 10,99 contra 5,95 a 9,99). No usar.
 
 **El precio es la palanca, no el PPC.** Vendía más caro y más rápido: mayo 134 + junio 346 uds a 12,99-13,99; ago-sep a 9,99 → 104/mes.
+
+## Foto actual (08-oct-2026)
+- **Stock FBA: 3.923 uds** (dato de Santi) · precio 14,99 · 41 reseñas 4,4★ · **Amazon's Choice** (keyword sin confirmar) · BSR Beauty #152.554 · Contour Brushes #122 · H10 30 días: 43 uds
+- **Título actual (de Marvin):** "Lymphatic Contour Face Brush - Gua Sha Glow, Massager, Drainage, Pink." · Destacado: "Dry brushing for drainage and de-puffing. Guasha tool for jawline sculpting and double chin. Travel case included"
+- Mejores puestos orgánicos (Keyword Tracker): gua sha brush #33 · face brush for lymphatic drainage #45 · glow brush lymphatic #23 · korean lymphatic brush #24 · lymphatic contour face brush #141 → `datos/2026-10-08_h10_keyword_tracker_full.csv`
 
 ## Foto base (al 15-sep-2026)
 | Dato | Valor |

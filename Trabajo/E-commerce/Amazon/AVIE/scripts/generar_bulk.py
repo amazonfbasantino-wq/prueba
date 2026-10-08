@@ -9,9 +9,10 @@ H = ['Product','Entity','Operation','Campaign ID','Ad Group ID','Portfolio ID','
      'Bidding Strategy','Placement','Percentage','Product Targeting Expression']
 SKU, INICIO = 'avie 011', '20261009'
 # campaña: (USD/día, tipo, puja por defecto, % extra primera posición)
-CAMPS = {'AVIE_OCT_PROBADAS_EX': (10, 'Manual', 0.85, 30), 'AVIE_OCT_QUICKWIN_EX': (8, 'Manual', 0.75, 0),
-         'AVIE_OCT_RIVALES_EX': (3, 'Manual', 0.60, 0), 'AVIE_OCT_ASIN': (4, 'Manual', 0.70, 0),
-         'AVIE_OCT_DESCUBRIR_PH': (3, 'Manual', 0.55, 0), 'AVIE_OCT_AUTO_COSECHA': (6, 'Auto', 0.50, 0)}
+# total 25 USD/día + 5 de las autos existentes SP-(Substitutes) y SP-(CloseMatch) = 30 (regla: pedidos de ayer × 8,65 − 5)
+CAMPS = {'AVIE_OCT_PROBADAS_EX': (8, 'Manual', 0.85, 30), 'AVIE_OCT_QUICKWIN_EX': (7, 'Manual', 0.75, 0),
+         'AVIE_OCT_RIVALES_EX': (2, 'Manual', 0.60, 0), 'AVIE_OCT_ASIN': (3, 'Manual', 0.65, 0),
+         'AVIE_OCT_DESCUBRIR_PH': (2, 'Manual', 0.55, 0), 'AVIE_OCT_AUTO_COSECHA': (3, 'Auto', 0.40, 0)}
 AUTO = {'Coincidencia cercana (close match)': 'close-match', 'Coincidencia amplia (loose match)': 'loose-match',
         'Sustitutos (substitutes)': 'substitutes', 'Complementos (complements)': 'complements'}
 MATCH = {'Exacta': 'exact', 'Frase': 'phrase', 'Negativa exacta': 'negativeExact', 'Negativa frase': 'negativePhrase'}
@@ -46,6 +47,8 @@ for c, (budget, tipo, puja, top) in CAMPS.items():
             fila(Entity='Negative Product Targeting', **base, **{'Product Targeting Expression': f'asin="{k}"'})
         elif m == 'Automática':
             fila(Entity='Product Targeting', **base, Bid=b, **{'Product Targeting Expression': AUTO[k]})
+        elif m == 'Automática (pausada)':
+            fila(Entity='Product Targeting', **{**base, 'State': 'paused'}, Bid=puja, **{'Product Targeting Expression': AUTO[k]})
 
 wb = openpyxl.Workbook(); ws = wb.active; ws.title = 'Sponsored Products Campaigns'
 ws.append(H)
