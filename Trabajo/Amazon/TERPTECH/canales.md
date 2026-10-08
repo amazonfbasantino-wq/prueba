@@ -64,3 +64,31 @@ Precios tentativos del line sheet:
 3. **3PL:** nombre, si acepta productos de vapeo y si despacha por caja o pallet (LTL).
 4. Documentos que piden los compradores B2B: UN38.3 y MSDS de la batería, specs del lote.
 5. Si no hay comprador: ¿hasta qué precio se acepta liquidar el lote completo para recuperar caja?
+
+## Anexo 2026-10-08 — ¿Web propia (no Shopify) como Yocan / Ooze? ¿O camuflar como soldador?
+
+**Cómo venden esas marcas (HECHO parcial):** venden sobre todo **por mayoristas**: distribuidores, smoke shops y grandes
+tiendas online de vapeo (ej. ElementVape vende Ooze y Yocan). Su web propia es secundaria y funciona con
+plataforma no-Shopify (típicamente WooCommerce), procesador high-risk, verificación de edad y transportistas privados
+caros, sólo en zonas pobladas. Además están registradas según el PACT Act.
+
+**Web propia DTC: números por unidad a $24,99 (HIPÓTESIS, todo a confirmar con cotizaciones):**
+
+| Concepto | $/u |
+|---|---|
+| Precio | 24,99 |
+| Procesador high-risk (~5%) | −1,25 |
+| Verificación de edad | −0,50 a −1 |
+| Pick & pack del 3PL | −3 |
+| Envío con transportista privado + firma de adulto | −8 a −12 |
+| Captación sin Meta/Google (influencers, SEO, cupones) | −5 a −10 |
+| **Queda antes del costo del producto** | **≈ −1 a +7** |
+
+A eso se suman costos fijos: abogado, registro ATF, reportes mensuales a cada estado e impuestos estatales al vapeo.
+**Mayorista a $9–13/u** deja más por unidad, se cobra de una vez, no necesita anuncios ni entrega puerta a puerta y rota
+el stock en semanas, no en meses. **Decisión: mayorista primero.** Web propia sólo como vidriera B2B (catálogo y
+formulario "wholesale inquiry", sin checkout al consumidor).
+
+**Camuflarlo como soldador:** descartado. Que otros lo hagan no lo vuelve seguro. Es declarar algo falso a la plataforma
+(va contra la regla dura "misma verdad"), la evidencia está en las propias reviews y las bajas de Amazon llegan en barridas.
+Con una cuenta ya bloqueada por Sección 3, el riesgo de asociación es cuenta entera más stock retenido.
