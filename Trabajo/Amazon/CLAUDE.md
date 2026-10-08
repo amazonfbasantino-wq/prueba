@@ -33,7 +33,7 @@ Cada carpeta tiene siempre `CLAUDE.md` (lo estable: identidad, economía, objeti
 Regla: **WRITE ONCE — REFERENCE MANY.** Un dato vive en un solo archivo; los demás apuntan.
 
 ## Dónde está todo
-- **Carpeta local `Trabajo/Amazon/` en la compu de Santi** (Finder): **copia de trabajo para Claude Code** (versión condensada; manda ante diferencias). **Google Drive ya no se usa** para trabajar.
+- **Carpeta local `Trabajo/Amazon/` en la compu de Santi** (Finder): **copia de trabajo para Claude Code** (versión condensada; manda ante diferencias). **Google Drive `AMAZON/`** = copia espejo para que Claude la lea desde Cowork/app; mantenerla al día.
 - Vault Obsidian `obsidian c` → `AMAZON/`: misma estructura, versión extendida de algunas tablas, más las imágenes.
 - `_ARCHIVO/`: los dos vaults completos en crudo (`obsidian c` y `PROYECTOS 100K`: CSV, imágenes, expedientes viejos), leídos directo desde la compu. **Sólo consulta**; ante diferencias manda esta carpeta.
 
