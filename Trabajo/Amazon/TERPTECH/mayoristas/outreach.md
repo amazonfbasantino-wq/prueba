@@ -147,3 +147,9 @@ Prioridad de Santi (2026-10-08): **arrancar por las zonas cercanas al stock** (F
 | 2026-10-08 | Últimos 12 de la lista (T1) | Platte Hemp, 520 Hemp, BattSkins, DankStop, Toker Supply, Glass Warehouse, Stoked, Shag, Badass Glass, Brothers With Glass, Aqua Lab, Thick Ass Glass | enviados |
 
 **Total del día: 63 mails.** Tasa de rebote 4/52 ≈ 8% (los emails salieron de búsquedas web sin verificar): con listas nuevas hay que verificar los emails antes de mandar.
+
+## 9. Kit NEPA (Basant K Sah, Purchasing Manager)
+- Canal: por escrito (Santi no habla inglés). Mail enviado 2026-10-08 11:30 ET. Si no responde: WhatsApp al (561) 345-5227 el viernes 9-oct a las 10:00 ET.
+- Texto de WhatsApp (EN):
+  > Hi Basant, this is Santino from TerpTech. Suraj from NEPA Member Care gave me your contact for vendor requests, and I sent you an email yesterday. Quick summary: we have 3,300 units of a character 510 battery (650mAh, digital display) in Doral, Miami, about an hour from your warehouse. It sold ~1,900 units/month on Amazon with 4.4★. I'm the founder and I'm based in Argentina; our company and stock are in Miami. Writing works best for me. Can I send you the line sheet and a free test unit?
+- Si dice que sí: mandar `catalogo/TerpTech_Wholesale_Line_Sheet.pdf`. Precio distribuidor $9,50 (500+), piso $8,50 para el lote completo (no ponerlo por escrito de entrada).

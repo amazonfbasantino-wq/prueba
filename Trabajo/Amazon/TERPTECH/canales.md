@@ -228,7 +228,7 @@ Presupuesto sugerido: 30 muestras ≈ $400–450, sólo para tiendas calificadas
 
 `DATO FALTANTE:` **con qué courier despachan** y si acepta baterías 510 entre comercios. La cotización no lo dice.
 
-⚠️ **Deuda con Skytrader:** el chat muestra "Total adeudado: $1225" y un recordatorio de Max sobre el saldo pendiente
+~~⚠️ Deuda con Skytrader~~ (ACLARADO 2026-10-08: los $1.225 son de otro producto, no de TerpTech). el chat muestra "Total adeudado: $1225" y un recordatorio de Max sobre el saldo pendiente
 ("que NO repitamos lo de la última vez"). INFERENCIA: si no se paga, el 3PL puede frenar despachos o retener stock
 justo cuando empiecen las ventas. Cancelarlo (o acordar un plan de pago) antes del primer pedido.
 

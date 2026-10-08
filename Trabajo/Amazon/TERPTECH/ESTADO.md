@@ -12,10 +12,10 @@
 - **Decisión 2026-10-08: Shopify DTC descartado.** Shopify prohíbe la categoría vape, el PACT Act exige mucho para vender al consumidor y los transportistas no hacen la entrega final. Detalle en `canales.md`.
 
 ## Qué sigue (en orden)
-1. 3PL = **Skytrader USA** (Miami, contacto Max). Costos recibidos: $1,50/orden + envío (ver `canales.md`). **Falta:** qué courier usan y si acepta baterías 510 B2B · **saldo adeudado $1.225: pagarlo o acordar antes del primer despacho.**
+1. 3PL = **Skytrader USA** (Miami, contacto Max). Costos recibidos: $1,50/orden + envío (ver `canales.md`). **Falta:** qué courier usan y si acepta baterías 510 B2B · (el saldo de $1.225 con Skytrader es de otro producto, no de TerpTech: aclarado por Santi el 2026-10-08).
 2. Inspeccionar las 300 devueltas en Skytrader: cuántas están cerradas o como nuevas, cuántas abiertas o falladas, y de qué colores. Sólo las cerradas se venden como nuevas.
 2b. Cotizar puntas de soldar 510 sueltas a la fábrica (costo + flete), por si la prueba DTC funciona y hay que armar kits con las 3.300.
-3. Corregir el line sheet: foto real, contacto y **precios nuevos** (el "Full lot $6–8" actual está por debajo del costo).
+3. ✅ Line sheet nuevo: `catalogo/TerpTech_Wholesale_Line_Sheet.pdf` (2 páginas, 3 colores, precios $12 / $11 / $9,50, lote completo "Ask us"). El viejo `07_line_sheet_mayorista.pdf` NO se usa más.
 4. Armar web vidriera B2B (catálogo + wholesale inquiry, sin checkout).
 5. ✅ Outreach en marcha (ver abajo).
 6. Pedir a la fábrica UN38.3 y MSDS.
@@ -39,4 +39,5 @@
 2. Mandar las 12 tiendas que faltan (toque 1).
 3. Desde el 2026-10-11: mail fresco en HILO NUEVO a los contactados en agosto (pedido de Santi).
 4. Más tiendas: exportación de Google Maps (Florida y sudeste primero) → `scripts/terptech_leads.py`.
-5. Pendientes de Santi con Max: courier B2B, peso y medidas, cotización de envío y saldo de $1.225.
+5. Pendientes de Santi con Max: courier B2B, peso y medidas, cotización de envío y retiro en Doral para NEPA.
+6. 🔥 NEPA: Basant K Sah (Purchasing Manager). Mail enviado 2026-10-08. Si no responde: WhatsApp el viernes 9-oct 10:00 ET (texto en `mayoristas/outreach.md` §9).
