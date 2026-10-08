@@ -1,6 +1,6 @@
 # Trabajo — contexto general
 
-Carpeta raíz del trabajo (migrado desde Obsidian / Cowork). **Fuente única: esta carpeta en la compu de Santi; Google Drive no se usa.** Claude Code lee este archivo
+Carpeta raíz del trabajo (migrado desde Obsidian / Cowork). **Fuente principal: esta carpeta en la compu de Santi. Google Drive (`AMAZON/`) es copia de lectura para Claude en Cowork/app: al cambiar algo acá, subirlo también allá.** Claude Code lee este archivo
 y además el `CLAUDE.md` de cada subcarpeta en la que se trabaje: acá va solo lo que aplica
 a TODO; lo específico vive en su carpeta (regla: **write once, reference many**).
 
