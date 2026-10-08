@@ -1,9 +1,19 @@
 # AVIE — ESTADO
 
-**Actualizado:** 2026-10-06 (migración) · **Último trabajo real:** 2026-09-22 · **Frente:** ⏸️ EN PAUSA por límite de 2 frentes
+**Actualizado:** 2026-10-08 · **Último trabajo real:** 2026-09-22 · **Frente:** ⏸️ EN PAUSA por límite de 2 frentes
 
 ## 🔻 Cambio de objetivo (2026-10-08)
 Beauty Michele entra en **modo salida**: vender el stock de AVIE hasta que se acabe (Q4 es la ventana) y después dejar de pagar el plan y de operar la cuenta (no se cierra) (motivo: `../../TERPTECH/_CUENTA-DECOHOUSE/ESTADO.md`). Todo lo de abajo se evalúa contra eso: rotar stock a buen precio en Q4 sí; inversiones de largo plazo (ranking, A+ módulos nuevos, IP Accelerator) sólo si se pagan antes de que se acabe el stock.
+
+## 🆕 Novedades que trae Santi (2026-10-08)
+- Pagó un mes de **Marvin.42** (IA de PPC). Le hizo caso: cambió el listing ("quedó de 10") y **AVIE ganó Amazon's Choice**.
+- **Hay campañas activas armadas por Marvin** (no son la versión A ni B de `ppc.md` — falta ver cuáles).
+- Problema: poca visibilidad con el PPC actual. **Restricción dura: tarjeta de crédito** → gasto de ads con tope fijo, nada de ACOS malo.
+- Objetivo confirmado: vender el stock **antes del 31-dic** al precio más alto posible.
+- Gmail de Beauty Michele: el conector Gmail de esta sesión falló (auth). Prioridad igual: reportes de Seller Central > mails.
+
+## TAREA EN CURSO
+Esperando de Santi: precio hoy · stock FBA · listing actual (título/imágenes que dejó Marvin) · export de campañas (bulk o Campaign Manager 30 días) · Search Term Report 30 días · Business Report 30 días · qué tope de gasto mensual aguanta la tarjeta. Siguiente paso: auditar campañas de Marvin contra break-even y armar plan oct-dic con tope por portfolio.
 
 ## ⚠️ Primero: datos que faltan (las fechas duras ya pasaron)
 Al 06-oct no hay registro de que se haya ejecutado nada. Antes de cualquier análisis, confirmar:
@@ -34,6 +44,7 @@ Tocar el nodo · meter marcas ajenas en backend · reestructurar campañas antes
 El problema de AVIE no es el PPC: es **precio + existencia**. A 9,99 sólo 2 de 18 términos son rentables y el producto es invisible (0,34 % del volumen en top 50). Q4 regalo es la única ventana del año para rotar 10.805 USD de stock parado a precio alto. Cada semana de octubre sin precio 16,99 + imagen + título es Q4 perdido, no postergado.
 
 ## Historial
+- 2026-10-08 · Santi retoma AVIE: Amazon's Choice ganado tras cambios de Marvin.42; campañas activas de Marvin; pide auditoría PPC + mercado. Pendiente recibir datos.
 - 2026-10-06 · Migrado a `AMAZON/AVIE/` desde `02 Negocios/Amazon-FBA/Productos/AVIE-B0GT75CR86/`.
 - 2026-09-22 · Alt text A+ Premium final + headline/body módulo 1. Imágenes mobile generadas.
 - 2026-09-21 · Título v3 (63 car.), backend v3, Cerebro 9 ASINs, auditoría de atributos. Manual entregado (`plan-ejecucion-B0GT75CR86.html`).
