@@ -13,12 +13,11 @@ Beauty Michele entra en **modo salida**: vender el stock de AVIE hasta que se ac
 - Gmail de Beauty Michele: el conector Gmail de esta sesión falló (auth). Prioridad igual: reportes de Seller Central > mails.
 
 ## TAREA EN CURSO
-Análisis con datos reales hecho → `analisis-2026-10-08.md`. **Precio hoy 14,99** (HECHO, ventas de ads 7 días). Ads 7 días: 158,48 USD → 7 pedidos, **ACOS 151 %**, CPC 1,58, CTR 0,38 %. Velocidad 2,3 pedidos/día. Cuenta en saldo negativo → los ads hoy los paga la tarjeta.
-Meta de Santi: 500-1.000 uds en 20 días → **no viable** con la eficiencia actual (costaría 2.400-5.650 USD en ads, a pérdida). Meta realista oct: 150-250. Ventana grande: BFCM 27-30 nov.
-**2-pack / compra 2 (2026-10-08)** → `estrategia-ticket-2pack.md`: "compra 2" NO baja tarifas (Amazon cobra por unidad, HECHO); sí sube la plata por pedido (+37-48 % con 10 % off). Recomendado YA: promo "Compra 2, ahorrá 10 %" + límite de compra 5→30. 2-pack ASIN: decidir antes del 15-oct (depende de que la herramienta de variaciones lo permita con marca "Generic" + cotización del 3PL + si hay unidades fuera de FBA).
-**Tarjeta del tío** → `resumen-tarjeta.md`: Amazon cobró 3 veces = **995,63 USD** (10-jun, 24-jun, 28-sep). Falta cruzarlo con el resumen de la tarjeta.
-**Proyección Q4 realista: ≈1.000-1.400 uds al 31-dic** → quedan ~2.500: Santi decide el plan de salida antes del 30-nov.
-**Siguiente paso:** (1) informes de 7 días de Amazon Ads: campañas, términos de búsqueda, ubicaciones; (2) OK para promo compra 2 + límite 30; (3) medidas/peso del producto y unidades fuera de FBA (para el 2-pack); (4) resumen de la tarjeta de mayo a octubre.
+**Octubre = expansión (decisión de Santi 2026-10-08).** Plan → `plan-octubre-expansion.md` · campañas listas → `campanas-octubre.csv` (5 campañas, 114 objetivos: 17 probadas, 53 long-tail con poca competencia donde AVIE ya rankea #42-110, 35 marcas rivales y errores de tipeo, 3 ASIN, 5 de descubrimiento).
+- Presupuesto diario = pedidos de ayer × pago por pedido − 5 (piso 20, techo 45). Freno: saldo negativo → piso.
+- Precio de prueba **12,99 del 9 al 15-oct**; el 16-oct se compara contra 14,99. Zona muerta 10-11,80.
+- **Siguiente paso:** Santi carga las campañas (con OK puntual) y pausa las de Marvin que se pisan → al día siguiente sube el informe de términos de búsqueda de las campañas nuevas y se hace la rutina diaria (§4).
+- Siguen pendientes: OK para "compra 2" 10 % + límite 30 (`estrategia-ticket-2pack.md`), decisión 2-pack antes del 15-oct, resumen de la tarjeta para cruzar (`resumen-tarjeta.md`).
 
 ## ⚠️ Primero: datos que faltan (las fechas duras ya pasaron)
 Al 06-oct no hay registro de que se haya ejecutado nada. Antes de cualquier análisis, confirmar:
@@ -50,6 +49,7 @@ Tocar el nodo · meter marcas ajenas en backend · reestructurar campañas antes
 El problema de AVIE no es el PPC: es **precio + existencia**. A 9,99 sólo 2 de 18 términos son rentables y el producto es invisible (0,34 % del volumen en top 50). Q4 regalo es la única ventana del año para rotar 10.805 USD de stock parado a precio alto. Cada semana de octubre sin precio 16,99 + imagen + título es Q4 perdido, no postergado.
 
 ## Historial
+- 2026-10-08 · Santi define octubre = expansión. Keywords long-tail con poca competencia (Cerebro) → 5 campañas listas, rutina diaria, presupuesto que se paga solo, análisis de pago por precio (9,99 → 5,95; zona muerta 10-11,80).
 - 2026-10-08 · Análisis compra 2 / 2-pack, resumen de la tarjeta para el tío, proyección Q4 ≈1.000-1.400 uds.
 - 2026-10-08 · Transacciones + portfolios 7 días: FBA real 4,09 por encima de 10 USD (break-even a 14,99 = 38,6 %, no 44 %); ads se pagan del saldo y la tarjeta cubre los negativos; regla de escala por ROAS reemplaza el tope fijo. → `analisis-2026-10-08.md`.
 - 2026-10-08 · Tope ads 500 USD/mes. Análisis de los CSV de Marvin: ACOS 84,5 %, 32 % del gasto sin venta, AVIE 0/42 keywords núcleo en top 20, Aeki B0GFSMWTPK = rival más débil (0 top 20). Plan por pulsos → `plan-q4-pulsos.md`. Datos en `datos/`.
