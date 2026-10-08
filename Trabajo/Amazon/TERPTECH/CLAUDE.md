@@ -6,6 +6,7 @@
 | Archivo | Para qué |
 |---|---|
 | `FICHA_DE_PRODUCTO.md` | Identidad, specs, variantes, bullets, cómo estuvo expuesto, reviews, datos faltantes |
-| `imagenes/` | Pendiente: las 7 imágenes de la ficha todavía no se migraron |
+| `imagenes/` | 6 imágenes: 3 colores, infografía, listing (Seller Central y público), review 5★ con foto, fábrica |
+| `07_line_sheet_mayorista.pdf` | Line sheet B2B original |
 
 Sin `ESTADO.md` todavía: no hay registro de estado de cuenta, stock ni objetivo. No inventarlo; preguntar a Santi.
