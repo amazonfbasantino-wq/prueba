@@ -2,6 +2,12 @@
 
 **Actualizado:** 2026-10-08 (2ª pasada: US$ 3.000 retenidos, objetivo LLC)
 
+## TAREA EN CURSO (stand-by desde 2026-10-08)
+- En pausa por decisión de Santi; se retoma más tarde.
+- Hecho: historia desde el Gmail, plan (Opción 1), borrador de apelación, carpeta E-commerce, tablero privado: https://claude.ai/artifact/117FrTRcikxdUP4ibMjZHD
+- Al retomar, empezar por: (1) ¿se actualizó la tarjeta?; (2) ¿de qué cuenta es el merchant AK0H81VYQPLMY?; (3) datos de las cuentas caídas para la apelación; (4) MT Ball con Maxi.
+- Pendiente de Santi: abrir el repo como carpeta local en la app de Claude (GitHub Desktop → Clone `prueba` → elegir la carpeta en la app).
+
 ## Datos confirmados por Santi (2026-10-08)
 - **Retenido: ~US$ 3.000.** Sin deuda (según Santi).
 - Objetivo real: **abrir una cuenta a nombre de la LLC (50% Santi / 50% socio)**. Recuperar DecoHOUSE para vender no es prioridad.
