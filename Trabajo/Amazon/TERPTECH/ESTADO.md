@@ -38,6 +38,6 @@
 1. Revisar respuestas en Gmail y contestar rápido (plantillas R1–R7). Escalar a Santi pedidos y muestras.
 2. Mandar las 12 tiendas que faltan (toque 1).
 3. Desde el 2026-10-11: mail fresco en HILO NUEVO a los contactados en agosto (pedido de Santi).
-4. Más tiendas: exportación de Google Maps (Florida y sudeste primero) → `scripts/terptech_leads.py`.
+4. ✅ 126 tiendas nuevas investigadas (2026-10-08): `mayoristas/investigacion_florida.csv` (24, incluye cadenas World of Smoke & Vape 15+, VSS 10, New Leaf 6, 535 Smoke 5), `investigacion_sudeste.csv` (45) y `investigacion_oeste_norte.csv` (57). Envío desde el 2026-10-09: Florida → sudeste → resto, ~50 por día. Emails sin verificar: esperar algún rebote.
 5. Pendientes de Santi con Max: courier B2B, peso y medidas, cotización de envío y retiro en Doral para NEPA.
 6. 🔥 NEPA: Basant K Sah (Purchasing Manager). Mail enviado 2026-10-08. Si no responde: WhatsApp el viernes 9-oct 10:00 ET (texto en `mayoristas/outreach.md` §9).
