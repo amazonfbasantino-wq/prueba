@@ -259,3 +259,18 @@ Para confirmar con Skytrader: peso y medidas de 1 u y de la caja master, courier
 - Además sirve de filtro: el que paga $8–15 de envío está interesado en serio.
 - Para que no se caigan por eso: **el envío pagado se descuenta del primer pedido de una caja.** Ya está en las plantillas T1 y R2.
 - Cobro: link de pago antes del despacho (medio de pago a definir).
+
+### Tarifas UPS Ground 2026 publicadas (lista, sin descuento) — referencia
+Fuentes: UPS daily rates 2026 (1 lb) y atoship.com (5 y 10 lb). Caja de 50 ≈ 8 lb, interpolado entre 5 y 10 lb.
+
+| Desde Miami a | Zona | Muestra 1 lb | Caja ~8 lb | Por unidad |
+|---|---|---|---|---|
+| Florida | 2 | $11,99 | ≈ $15 | $0,30 |
+| GA / Carolinas | 3–4 | $12,38–13,51 | ≈ $17–19 | $0,34–0,38 |
+| Texas | 5–6 | $14,10–14,60 | ≈ $20–22 | $0,40–0,44 |
+| California | 8 | $15,03 | ≈ $28 | $0,56 |
+
+⚠️ **UPS no se puede usar:** su política oficial dice que no acepta "any Vaping Product … regardless of nicotine content"
+dentro de EE.UU. FedEx tampoco. DHL acepta sólo envíos entre empresas **con aprobación previa**. USPS sólo entre empresas con
+"mailing exception" aprobada. Los números sirven para presupuestar: un courier habilitado debería estar en un rango
+parecido o algo más caro. **El bloqueo sigue siendo encontrar un courier habilitado** (preguntar a Skytrader o pedir aprobación a DHL).
