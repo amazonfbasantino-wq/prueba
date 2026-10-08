@@ -9,10 +9,12 @@
 | `ESTADO.md` | Dónde quedamos, pendientes, fechas, decisiones abiertas |
 | `listing.md` | Título, destacado, backend, bullets, atributos, imágenes — copy vigente |
 | `aplus.md` | A+ Premium: alt text final, headline/body, pendientes |
-| `ppc.md` | Plan 900 USD/mes, versiones A/B, reglas de PPC |
+| `plan-q4-pulsos.md` | **Plan vigente oct-dic:** tope 500 USD/mes, base + pulsos de 8 días, cupón, competidores a atacar |
+| `ppc.md` | Plan anterior de 900 USD/mes (versiones A/B) y reglas de PPC heredadas |
 | `competencia.md` | Los 9 ASINs rivales, los dos mercados, a quién atacar |
 | `keywords.md` | GAP de indexación, ángulo regalo, capas de puja |
 | `riesgos.md` | 14 contradicciones/bloqueantes + compliance |
+| `datos/` | CSV de Marvin (search terms ads, Cerebro 16 comp y 10x10) + plan HTML del 21-sep |
 | `assets/aplus/` | 10 imágenes finales del A+ Premium (5 desktop + 5 mobile) |
 
 ## Identidad
@@ -56,7 +58,7 @@
 
 ## Objetivo declarado (2026-09-16)
 Vender el máximo **por vía orgánica**, a precio **> 14,99 USD**, subiendo de a poco. Límite **31-dic-2026**.
-- Presupuesto ads: **900 USD en octubre** (camino A); nov-dic según resultados.
+- Presupuesto ads: **tope 500 USD/mes** (límite de la tarjeta, 2026-10-08) → `plan-q4-pulsos.md`. (Antes: 900 USD en octubre.)
 - Señal de victoria del dueño: 50 uds/día nov · 80-100/día Navidad · 2.000 uds dic · TACOS 5 % dic.
 - **Acta de discrepancia (vigente):** con 900 USD en oct, el análisis proyecta **≈1.380 uds en Q4**, TACOS 25-30 %, ≈2.400 uds en stock al 31-dic, cierre real ~31-mar-2027.
 - **Ángulo:** REGALO FEMENINO (62 kw · 74.747 búsq./mes · nadie en el nicho lo trabaja).

@@ -13,7 +13,9 @@ Beauty Michele entra en **modo salida**: vender el stock de AVIE hasta que se ac
 - Gmail de Beauty Michele: el conector Gmail de esta sesión falló (auth). Prioridad igual: reportes de Seller Central > mails.
 
 ## TAREA EN CURSO
-Esperando de Santi: precio hoy · stock FBA · listing actual (título/imágenes que dejó Marvin) · export de campañas (bulk o Campaign Manager 30 días) · Search Term Report 30 días · Business Report 30 días · qué tope de gasto mensual aguanta la tarjeta. Siguiente paso: auditar campañas de Marvin contra break-even y armar plan oct-dic con tope por portfolio.
+Plan nuevo armado: `plan-q4-pulsos.md` (tope **500 USD/mes**, gasto base chico + pulsos de 8 días con cupón; Gmail descartado por Santi).
+Para pasar a números finales falta de Santi: **precio hoy** · **gasto del 1 al 8-oct** · **campañas activas de Marvin** (export o captura) · resultados de la última semana · **para qué keyword es el Amazon's Choice** · captura del listing actual.
+Siguiente paso: con eso, armar las campañas exactas del Pulso 1 (Familia B "gua sha brush", 20 al 27-oct) y la lista de pausas/negativas, y pedir OK puntual antes de tocar Ads.
 
 ## ⚠️ Primero: datos que faltan (las fechas duras ya pasaron)
 Al 06-oct no hay registro de que se haya ejecutado nada. Antes de cualquier análisis, confirmar:
@@ -33,6 +35,7 @@ Al 06-oct no hay registro de que se haya ejecutado nada. Antes de cualquier aná
 7. **PPC:** elegir versión A o B (`ppc.md`) y lanzar 29 USD/día **después** del precio.
 
 ## Decisiones abiertas (de Santi)
+- Aprobar el plan por pulsos (`plan-q4-pulsos.md`): fechas de los pulsos, cupón sólo en pulsos, precio de lista.
 - Versión A (6 campañas) o B (8 campañas) del plan PPC.
 - Aceptar o rebatir el acta: criterio de victoria 2.000 uds / TACOS 5 % vs proyección ≈1.380 uds / TACOS 25-30 %.
 - Qué hacer con el capital inmovilizado (≈2.400 uds proyectadas al 31-dic): ¿segundo canal, liquidación parcial, 2-pack?
@@ -44,6 +47,7 @@ Tocar el nodo · meter marcas ajenas en backend · reestructurar campañas antes
 El problema de AVIE no es el PPC: es **precio + existencia**. A 9,99 sólo 2 de 18 términos son rentables y el producto es invisible (0,34 % del volumen en top 50). Q4 regalo es la única ventana del año para rotar 10.805 USD de stock parado a precio alto. Cada semana de octubre sin precio 16,99 + imagen + título es Q4 perdido, no postergado.
 
 ## Historial
+- 2026-10-08 · Tope ads 500 USD/mes. Análisis de los CSV de Marvin: ACOS 84,5 %, 32 % del gasto sin venta, AVIE 0/42 keywords núcleo en top 20, Aeki B0GFSMWTPK = rival más débil (0 top 20). Plan por pulsos → `plan-q4-pulsos.md`. Datos en `datos/`.
 - 2026-10-08 · Santi retoma AVIE: Amazon's Choice ganado tras cambios de Marvin.42; campañas activas de Marvin; pide auditoría PPC + mercado. Pendiente recibir datos.
 - 2026-10-06 · Migrado a `AMAZON/AVIE/` desde `02 Negocios/Amazon-FBA/Productos/AVIE-B0GT75CR86/`.
 - 2026-09-22 · Alt text A+ Premium final + headline/body módulo 1. Imágenes mobile generadas.
