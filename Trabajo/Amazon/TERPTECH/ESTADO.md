@@ -1,6 +1,6 @@
 # TERPTECH — ESTADO
 
-**Última actualización:** 2026-10-08 (cierre)
+**Última actualización:** 2026-10-08 (noche, traspaso a sesión nueva)
 
 ## Dónde estamos
 - 🔴 **URGENTE: vender las 3.300 u antes del 31-dic-2026** (stock comprado con deuda). Plan y puntos de control: `canales.md` › Plan de liquidación.
@@ -35,9 +35,16 @@
 - ⚠️ eBay "santerp_0": suspensión permanente (no fue un hackeo; los inicios de sesión eran de Santi en Maipú). **No abrir otra cuenta de eBay.** Cambiar la contraseña de ZIK Analytics, que llegó en texto plano.
 
 ## Próxima sesión (en orden)
-1. Revisar respuestas en Gmail y contestar rápido (plantillas R1–R7). Escalar a Santi pedidos y muestras.
-2. Mandar las 12 tiendas que faltan (toque 1).
-3. Desde el 2026-10-11: mail fresco en HILO NUEVO a los contactados en agosto (pedido de Santi).
-4. ✅ 126 tiendas nuevas investigadas (2026-10-08): `mayoristas/investigacion_florida.csv` (24, incluye cadenas World of Smoke & Vape 15+, VSS 10, New Leaf 6, 535 Smoke 5), `investigacion_sudeste.csv` (45) y `investigacion_oeste_norte.csv` (57). Envío desde el 2026-10-09: Florida → sudeste → resto, ~50 por día. Emails sin verificar: esperar algún rebote.
-5. Pendientes de Santi con Max: courier B2B, peso y medidas, cotización de envío y retiro en Doral para NEPA.
-6. 🔥 NEPA: Basant K Sah (Purchasing Manager). Mail enviado 2026-10-08. Si no responde: WhatsApp el viernes 9-oct 10:00 ET (texto en `mayoristas/outreach.md` §9).
+0. **Historia completa + proyección** (pedido de Santi): con el Gmail **cemar4025** conectado, leer todo lo de TerpTech (Amazon: ventas, pagos, suspensión, mensajes de compradores; fábrica: specs, peso, medidas, certificados, facturas; reviews o capturas). Guardar en `HISTORIA.md`. Después: mini análisis + **proyección de venta al 31-dic-2026** en `proyeccion.md`. Al terminar, volver a conectar **terptech.company** (desde ahí salen los mails y llegan las respuestas).
+1. Revisar respuestas en el Gmail de TerpTech y contestar rápido (plantillas R1–R7). Escalar a Santi pedidos y muestras.
+2. 🔥 NEPA: Basant K Sah (Purchasing Manager). Mail enviado 2026-10-08. Si no responde: WhatsApp el viernes 9-oct 10:00 ET (texto en `mayoristas/outreach.md` §9; lo manda Santi).
+3. Envíos a las 126 tiendas nuevas (`mayoristas/investigacion_*.csv`): Florida → sudeste → resto, ~50 por día. Primero cargarlas en `leads.csv` y sacar los duplicados.
+4. Desde el 2026-10-11: mail fresco en HILO NUEVO a los contactados en agosto, y toque 2 a los que no respondieron.
+5. Pendientes de Santi: con Max (courier B2B, peso y medidas, cotización de envío, retiro en Doral); nombre exacto de la LLC y si Payoneer está a su nombre (para facturar); medio de cobro del envío de muestras (monto fijo propuesto: $15); subir capturas de reviews de su compu a `imagenes/`.
+6. Más tiendas de Florida sin email todavía (17 dominios listados al final del informe de investigación; ej. sky941.com, 13 locales).
+
+## Datos confirmados por Santi el 2026-10-08
+- Cuerpo de silicona **resistente a caídas** (ya está en el catálogo).
+- El cobro depende del cliente y de la cantidad; siempre comparar contra lo que la tienda paga y cobra por su Lookah Bear u Ooze (ver `canales.md`).
+- Cobra en USD por transferencia: Global66, Payoneer, DolarApp.
+- Tiene una LLC en Miami (nombre y EIN a confirmar).
