@@ -30,7 +30,7 @@ If it sounds like a fit, **we can send you a free unit to test**. Just reply and
 
 {Your name}
 TerpTech · {email}
-{Dirección postal}
+2970 NW 75th Ave, Miami, FL 33122
 *Not interested? Reply "no" and you won't hear from me again.*
 
 ## T2 — Seguimiento (día 3, mismo hilo)
@@ -78,3 +78,16 @@ Hey {Name}, did you get a chance to test it? Most people notice the battery life
 
 ## R7 — Opt-out
 Got it, I've removed you. Sorry for the bother, {Name}. (→ etapa `baja`, no volver a escribir)
+
+## T5 — Quinto toque (nuevo ángulo: temporada)
+**Subject:** Re: (mismo hilo)
+
+Hi {Name}, holiday season is when character batteries fly off the counter as gifts. If you want TerpTech on your shelf before Black Friday, a mixed-color case of 50 ships from Miami this week. Want the details?
+
+## T6 — Sexto toque (cierre con oferta)
+**Subject:** Re: (mismo hilo)
+
+Hi {Name}, last note from me. We're placing our remaining Miami stock before year-end, so for the first case we can do **$11/unit with free shipping**. If that works, just reply "case" and I'll set it up. Otherwise, thanks for your time!
+
+> Firma de TODOS los mails (CAN-SPAM): `Santino · TerpTech LLC · terptech.company@gmail.com · 2970 NW 75th Ave, Miami, FL 33122` + línea de baja.
+> Cadencia: T1 a toda la lista → después T2 a la lista entera, etc. Mínimo 3 días entre toques a la misma tienda. Máximo 6 toques.
