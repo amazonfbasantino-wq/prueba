@@ -12,6 +12,7 @@ a TODO; lo específico vive en su carpeta (regla: **write once, reference many**
 | `Amazon/MT-BALL/` | MT Ball, magic meta ball con Maxi (Beauty Michele) | ✅ migrado |
 | `Amazon/REFLEX/` | Reflex Game R46 / QW5 (KINAVARGAS) · modo liquidación | ✅ migrado |
 | `Amazon/KINA/` | KINA Lymphatic Drainage Face Brush · B0GQJLP4TB · liquidación fuera de Amazon | ✅ migrado |
+| `Amazon/TERPTECH/` | TerpTech Premium 650mAh · B0F9SXP5MW · batería 510 | ✅ ficha migrada · imágenes y estado pendientes |
 | `Amazon/_CUENTA-KINAVARGAS/` | Cuenta KINAVARGAS: titular, seguro, casos | ✅ migrado |
 | `Amazon/_ARCHIVO/` | Vaults de Obsidian en crudo (sólo consulta) | ⏳ pendiente: copiar desde los vaults en la compu |
 | `Etsy/` | Ecosistema Etsy | ⏳ pendiente |
