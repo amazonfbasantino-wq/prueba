@@ -24,3 +24,11 @@
 - No volver a publicarlo en Amazon como "soldering iron" ni bajo "Generic": es una categorización falsa y pone en riesgo la cuenta entera.
 - No usar USPS para ningún envío posicionado como vape.
 - **No vender al consumidor ni en Amazon las 3.300 u sin punta como "soldador":** la caja promete una punta que no trae (producto distinto a lo declarado: reclamos, devoluciones y riesgo de cuenta). Esas van a mayoristas, o se arman kits agregando la punta.
+
+## Outreach online (2026-10-08)
+- Santi: no hay nadie en EE.UU.: **todo online**. Objetivo: escribirle a todas las smoke shops posibles (~1.000), con muestra gratis **sólo a calificados** (≥2 respuestas con contenido + tienda "popular").
+- ✅ `mayoristas/plantillas.md`: borrador con emoción + preguntas de calificación + criterio de muestra. **Pendiente: aprobación de Santi.**
+- ⛔ Automatizar envíos (skill/rutina que manda mails solos): **bloqueado por permisos de la sesión**. Necesita: (1) conectar la casilla de TerpTech como conector de Gmail; (2) que Santi apruebe las plantillas; (3) que Santi habilite el permiso de envío automático. Mientras tanto: borradores en Gmail que Santi envía.
+- Excepción explícita a la regla "nada de tareas programadas" para este frente, pedida por Santi.
+- Faltan: fuente de leads (~1.000 smoke shops con email), dirección postal para la firma (CAN-SPAM) y confirmar con Skytrader cómo envía muestras a comercios (transportista).
+
