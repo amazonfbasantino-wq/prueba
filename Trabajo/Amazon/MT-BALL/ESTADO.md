@@ -2,6 +2,10 @@
 
 **Actualizado:** 2026-10-06 (migración) · **Último trabajo real:** 2026-09-29 · **Fase:** 0 — prerrequisitos
 
+## 🛑 Bloqueo (2026-10-08)
+Beauty Michele pasa a modo salida (liquidar y dejar de operarla a fin de ene-2027 → `../_CUENTA-DECOHOUSE/ESTADO.md`). **No lanzar MT Ball en Beauty Michele**: meter 1.000+ u en FBA de una cuenta que se cierra en enero deja el stock atrapado.
+Decisión abierta (Santi + Maxi): (a) cuenta propia de **Maxi**, operada por Maxi; (b) venta fuera de Amazon en Q4; (c) esperar a la cuenta de la LLC (depende de reinstalar DecoHOUSE, no antes de 2027).
+
 ## ⚠️ Primero: confirmar (el cronograma ya está corriendo)
 Según el plan, al 06-oct ya debería estar: listing cargado (1–3 oct), imágenes corregidas + video (1–7 oct) y FBM activo con Ads (~6–8 oct). No hay registro de nada de eso. Confirmar:
 1. ¿Beauty Michele ya está en plan **Professional**?

@@ -12,7 +12,11 @@
 - Las que cayeron lo hicieron por haberse operado desde la misma Mac que DecoHOUSE, **sin haber vendido TerpTech**. Para Amazon el criterio es quién opera la cuenta, no quién vendió el producto.
 - **Beauty Michele (tío) y KINAVARGAS (esposa del socio) siguen activas** (~6 meses) y las opera Santi.
 
-## ⚖️ Decisión abierta clave (de Santi)
+## ✅ Decisión tomada 2026-10-08: Opción 1
+Santi: liquidar el stock de Beauty Michele y KINAVARGAS, salir de operarlas y después hacer todo en regla (apelación honesta → LLC). Fecha de corte propuesta: **31-ene-2027**; el remanente sale por removal + venta fuera de Amazon.
+- Consecuencia: **MT Ball no se lanza en Beauty Michele** (ver `../MT-BALL/ESTADO.md`).
+
+## (Contexto de la decisión)
 Operar Beauty Michele y KINAVARGAS siendo titular de una cuenta suspendida choca de frente con reinstalar DecoHOUSE: una apelación creíble dice "opero una sola cuenta". Una apelación que lo oculte sería falsa y, si la detectan, cierra la puerta del todo.
 - **Opción 1 (lleva a reinstalar + LLC):** KINAVARGAS termina en dic (ya planeado) y se cierra; Beauty Michele pasa a operarla 100% su titular o Santi sale de ella. Enero 2027: apelación honesta.
 - **Opción 2:** seguir operando las dos → no apelar DecoHOUSE por ahora (la revisión podría alcanzarlas) y la LLC sigue imposible.
