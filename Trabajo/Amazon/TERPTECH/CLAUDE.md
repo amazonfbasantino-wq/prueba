@@ -9,4 +9,4 @@
 | `imagenes/` | 6 imágenes: 3 colores, infografía, listing (Seller Central y público), review 5★ con foto, fábrica |
 | `07_line_sheet_mayorista.pdf` | Line sheet B2B original |
 
-Sin `ESTADO.md` todavía: no hay registro de estado de cuenta, stock ni objetivo. No inventarlo; preguntar a Santi.
+Estado y decisión: `ESTADO.md` (**producto prohibido en Amazon**: causó la Sección 3 de DecoHOUSE).

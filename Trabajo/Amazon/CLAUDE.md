@@ -13,7 +13,7 @@
 |---|---|---|
 | **Beauty Michele** | Vendedor individual, persona natural, titular en Luján de Cuyo (Mendoza) | AVIE (50/50 con mi pareja) · MT Ball (en preparación) |
 | **KINAVARGAS** (ACC-002) | Titular Maria Eugenia Vargas (no es parte de la LLC) | KINA (discontinuado), Reflex Game (liquidación) |
-| Cuenta personal de Santi | Bloqueada por Sección 3 | — |
+| **DecoHOUSE** (cuenta personal de Santi) | Desactivada permanente por Sección 3 (08-feb-2026, batería 510 / vape) → `_CUENTA-DECOHOUSE/` | — (TerpTech, prohibido) |
 | **VIRTUALMED SOLUTIONS LLC** | LLC de Florida (domicilio Sarasota) · miembros: Santi + Pablo · banco: Bank of America | — |
 | Socio externo | Maxi (vive en Utah) | MT Ball |
 
@@ -24,8 +24,9 @@
 | `MT-BALL/` | MT Ball (meta ball, con Maxi) | — | ✅ migrado 2026-10-06 |
 | `REFLEX/` | Reflex Game (KINAVARGAS) · **modo liquidación** | B0GR46X8Y8 · B0GQW5F2LL | ✅ migrado 2026-10-06 |
 | `KINA/` | KINA Lymphatic Drainage Face Brush · **liquidación fuera de Amazon** | B0GQJLP4TB | ✅ migrado 2026-10-06 |
-| `TERPTECH/` | TerpTech Premium 650mAh (batería 510) | B0F9SXP5MW | ✅ ficha + 6 imágenes + line sheet · falta `ESTADO.md` |
+| `TERPTECH/` | TerpTech Premium 650mAh (batería 510) · **prohibido en Amazon** | B0F9SXP5MW | ✅ ficha + imágenes + line sheet + `ESTADO.md` |
 | `_CUENTA-KINAVARGAS/` | Cuenta KINAVARGAS: titular, seguro, casos, reglas | — | ✅ migrado 2026-10-06 |
+| `_CUENTA-DECOHOUSE/` | Cuenta bloqueada de Santi: motivo, fondos retenidos, deuda | — | ✅ creado 2026-10-08 desde Gmail |
 | `_ARCHIVO/` | Los dos vaults de Obsidian completos, en crudo (sólo consulta) | — | ver `_ARCHIVO/LEEME.md` |
 
 ## Estructura de cada producto
