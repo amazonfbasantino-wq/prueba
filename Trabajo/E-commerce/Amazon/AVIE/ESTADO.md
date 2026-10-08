@@ -2,6 +2,9 @@
 
 **Actualizado:** 2026-10-06 (migración) · **Último trabajo real:** 2026-09-22 · **Frente:** ⏸️ EN PAUSA por límite de 2 frentes
 
+## 🔻 Cambio de objetivo (2026-10-08)
+Beauty Michele entra en **modo salida**: vender el stock de AVIE hasta que se acabe (Q4 es la ventana) y después dejar de pagar el plan y de operar la cuenta (no se cierra) (motivo: `../../TERPTECH/_CUENTA-DECOHOUSE/ESTADO.md`). Todo lo de abajo se evalúa contra eso: rotar stock a buen precio en Q4 sí; inversiones de largo plazo (ranking, A+ módulos nuevos, IP Accelerator) sólo si se pagan antes de que se acabe el stock.
+
 ## ⚠️ Primero: datos que faltan (las fechas duras ya pasaron)
 Al 06-oct no hay registro de que se haya ejecutado nada. Antes de cualquier análisis, confirmar:
 1. **Precio real hoy** (¿se subió a 16,99 el 1-oct? ¿sigue en 9,99 o 12,99?) → define break-even 30,9 % vs 49,1 %.

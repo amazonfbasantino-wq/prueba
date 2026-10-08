@@ -11,9 +11,9 @@
 ## Cuentas y entidades
 | Cuenta / entidad | Qué es | Productos |
 |---|---|---|
-| **Beauty Michele** | Vendedor individual, persona natural, titular en Luján de Cuyo (Mendoza) | AVIE (50/50 con mi pareja) · MT Ball (en preparación) |
-| **KINAVARGAS** (ACC-002) | Titular Maria Eugenia Vargas (no es parte de la LLC) | KINA (discontinuado), Reflex Game (liquidación) |
-| Cuenta personal de Santi | Bloqueada por Sección 3 | — |
+| **Beauty Michele** | Vendedor individual, persona natural, titular en Luján de Cuyo (Mendoza) · titular: tío de Santi · operada por Santi | AVIE (50/50 con mi pareja) · MT Ball (en preparación) |
+| **KINAVARGAS** (ACC-002) | Titular Maria Eugenia Vargas, esposa del socio (no es parte de la LLC) · operada por Santi | KINA (discontinuado), Reflex Game (liquidación) |
+| **DecoHOUSE** (cuenta personal de Santi) | Desactivada permanente por Sección 3 (08-feb-2026, batería 510 / vape) → `../TERPTECH/_CUENTA-DECOHOUSE/` | — (TerpTech, prohibido) |
 | **VIRTUALMED SOLUTIONS LLC** | LLC de Florida (domicilio Sarasota) · miembros: Santi + Pablo · banco: Bank of America | — |
 | Socio externo | Maxi (vive en Utah) | MT Ball |
 
@@ -24,8 +24,9 @@
 | `MT-BALL/` | MT Ball (meta ball, con Maxi) | — | ✅ migrado 2026-10-06 |
 | `REFLEX/` | Reflex Game (KINAVARGAS) · **modo liquidación** | B0GR46X8Y8 · B0GQW5F2LL | ✅ migrado 2026-10-06 |
 | `KINA/` | KINA Lymphatic Drainage Face Brush · **liquidación fuera de Amazon** | B0GQJLP4TB | ✅ migrado 2026-10-06 |
-| `TERPTECH/` | TerpTech Premium 650mAh (batería 510) | B0F9SXP5MW | ✅ ficha + 6 imágenes + line sheet · falta `ESTADO.md` |
+| `../TERPTECH/` | TerpTech: **fuera de Amazon** (prohibido) · ecosistema propio en `E-commerce/TERPTECH/` | B0F9SXP5MW | movido 2026-10-08 |
 | `_CUENTA-KINAVARGAS/` | Cuenta KINAVARGAS: titular, seguro, casos, reglas | — | ✅ migrado 2026-10-06 |
+| `../TERPTECH/_CUENTA-DECOHOUSE/` | Cuenta bloqueada de Santi: motivo, fondos retenidos, apelación | — | ✅ 2026-10-08 desde Gmail |
 | `_ARCHIVO/` | Los dos vaults de Obsidian completos, en crudo (sólo consulta) | — | ver `_ARCHIVO/LEEME.md` |
 
 ## Estructura de cada producto
@@ -33,7 +34,7 @@ Cada carpeta tiene siempre `CLAUDE.md` (lo estable: identidad, economía, objeti
 Regla: **WRITE ONCE — REFERENCE MANY.** Un dato vive en un solo archivo; los demás apuntan.
 
 ## Dónde está todo
-- **Carpeta local `Trabajo/Amazon/` en la compu de Santi** (Finder): **copia de trabajo para Claude Code** (versión condensada; manda ante diferencias). **Google Drive ya no se usa** para trabajar.
+- **Carpeta local `Trabajo/E-commerce/Amazon/` en la compu de Santi** (Finder): **copia de trabajo para Claude Code** (versión condensada; manda ante diferencias). **Google Drive `AMAZON/`** = copia espejo para que Claude la lea desde Cowork/app; mantenerla al día.
 - Vault Obsidian `obsidian c` → `AMAZON/`: misma estructura, versión extendida de algunas tablas, más las imágenes.
 - `_ARCHIVO/`: los dos vaults completos en crudo (`obsidian c` y `PROYECTOS 100K`: CSV, imágenes, expedientes viejos), leídos directo desde la compu. **Sólo consulta**; ante diferencias manda esta carpeta.
 
