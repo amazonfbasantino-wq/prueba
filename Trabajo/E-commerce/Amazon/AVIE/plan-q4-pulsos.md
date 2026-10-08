@@ -1,4 +1,4 @@
-# AVIE — Plan Q4 por pulsos · tope 500 USD/mes
+# AVIE — Plan Q4 por pulsos · piso 500 USD/mes, escala según ROAS (`analisis-2026-10-08.md` §5)
 
 > Armado 2026-10-08 con: `datos/2026-10_ads_search_terms.csv` (236 términos, sin fechas en el archivo), `datos/2026-10_cerebro_16comp.csv` y `datos/2026-10_cerebro_10x10.csv`.
 > **Pendiente para cerrar números:** precio actual, gasto del 1 al 8 de octubre, campañas activas de Marvin, keyword del Amazon's Choice.
@@ -71,16 +71,9 @@ CVR de la familia en ads ≈ 20 % (54 clics, 11 pedidos).
 - **Por producto (ASIN):** B0GFSMWTPK (Aeki) · B0GVBQ7P79 (Cheersendex) · B0G3685P2S.
 - **Pausar o negativizar:** FLAHOLD B0FD354L27 · términos de otras marcas sin venta (kojeva, kitsch…) · cepillos periféricos (`face brush`, `facial brush`, `face massager`, `facial cleansing brush`, `contour brushes`…) · `gua sha facial tools` (14 clics, 0 ventas) · `lymphatic brush for face` (8 / 0) · ASIN targets sin venta.
 
-## 6 · Precio y cupón (margen real por unidad, costo puesto 2,86 + FBA 3,24)
-| Precio de lista | Cupón | Paga el cliente | Margen/ud | Break-even ACOS |
-|---|---|---|---|---|
-| 16,99 | — | 16,99 | 8,34 | 49,1 % |
-| 16,99 | 20 % | 13,59 | 5,11 | 37,6 % |
-| 14,99 | — | 14,99 | 6,64 | 44,3 % |
-| 14,99 | 15 % | 12,74 | 4,41 | 34,6 % |
-| 13,99 | — | 13,99 | 5,79 | 41,4 % |
-| 13,99 | 15 % | 11,89 | 3,71 | 31,2 % |
-(El margen con cupón descuenta ~2,5 % de comisión de cupón; Amazon además cobra un fijo por cupón → verificar en Seller Central antes de crearlo.)
+## 6 · Precio y cupón
+⚠️ Tabla corregida el 2026-10-08 con tarifas reales (FBA 4,09 por encima de 10 USD; comisión sobre precio lleno con cupón) → ver `analisis-2026-10-08.md` §1. A 14,99: margen 5,79 · ACOS máx. 38,6 % · con cupón 10 % → 29,3 % · con 20 % → 20,8 %.
+**Cupón recomendado para los pulsos: 10 %**, no 20 %.
 
 **Propuesta:** el cupón (con su etiqueta verde en los resultados) **sólo durante los pulsos**, porque es lo que sube el CTR. Fuera de los pulsos, precio lleno. Antes de subir el precio de lista, saber **para qué keyword tiene el Amazon's Choice**: subir de golpe lo puede hacer perder → subir de a 1 USD y mirar el badge.
 

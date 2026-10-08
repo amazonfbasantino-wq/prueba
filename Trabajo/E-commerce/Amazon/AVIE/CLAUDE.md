@@ -9,12 +9,13 @@
 | `ESTADO.md` | Dónde quedamos, pendientes, fechas, decisiones abiertas |
 | `listing.md` | Título, destacado, backend, bullets, atributos, imágenes — copy vigente |
 | `aplus.md` | A+ Premium: alt text final, headline/body, pendientes |
+| `analisis-2026-10-08.md` | Economía real, caja por mes, PPC 7 días, regla de escala, meta realista de octubre |
 | `plan-q4-pulsos.md` | **Plan vigente oct-dic:** tope 500 USD/mes, base + pulsos de 8 días, cupón, competidores a atacar |
 | `ppc.md` | Plan anterior de 900 USD/mes (versiones A/B) y reglas de PPC heredadas |
 | `competencia.md` | Los 9 ASINs rivales, los dos mercados, a quién atacar |
 | `keywords.md` | GAP de indexación, ángulo regalo, capas de puja |
 | `riesgos.md` | 14 contradicciones/bloqueantes + compliance |
-| `datos/` | CSV de Marvin (search terms ads, Cerebro 16 comp y 10x10) + plan HTML del 21-sep |
+| `datos/` | CSV de Marvin (search terms, Cerebro) · transacciones 25-may→7-oct · portfolios 7 días · plan HTML del 21-sep |
 | `assets/aplus/` | 10 imágenes finales del A+ Premium (5 desktop + 5 mobile) |
 
 ## Identidad
@@ -31,16 +32,18 @@
 | A+ | subido 2026-09-16, aparece como **A+ Premium** (verificar cómo, sin Brand Registry) |
 | Proveedor | Dongguan Songli Plastic Industry Co., Ltd. |
 
-## Economía por unidad (cerrada 2026-09-16)
+## Economía por unidad (corregida 2026-10-08 con transacciones reales → `analisis-2026-10-08.md`)
 - **Costo puesto en FBA: 2,86 USD** (producto 2,50 + 3PL 0,36) · lote: 5.000 uds = 14.300 USD
-- **FBA 3,24** · comisión Beauty **8 % hasta 10,00 USD, 15 % por encima** (estimación del calculador FBA)
+- **FBA 3,24 si el precio < 10 USD · 4,09 si ≥ 10 USD** (HECHO: tarifas por pedido en transacciones) · comisión Beauty **8 % hasta 10,00, 15 % por encima** · con cupón, la comisión se cobra sobre el precio lleno · cupón: 5 USD + % de ventas
 
-| Precio | Neto Amazon | Margen/ud | **Break-even ACOS** | Términos rentables (de 18 con venta) |
+| Precio | Tarifas Amazon | Margen/ud | **Break-even ACOS** | ROAS mín. |
 |---|---|---|---|---|
-| 9,99 | 5,95 | 3,09 | **30,9 %** | 2 |
-| 14,99 | 9,50 | 6,64 | 44,3 % | 11 |
-| 16,99 | 11,20 | 8,34 | **49,1 %** | 12 |
-| 19,95 | 13,72 | 10,86 | 54,4 % | 14 |
+| 9,99 | 4,04 | 3,09 | 30,9 % | 3,23 |
+| 12,99 | 6,04 | 4,09 | 31,5 % | 3,17 |
+| 13,99 | 6,19 | 4,94 | 35,3 % | 2,83 |
+| **14,99** | 6,34 | **5,79** | **38,6 %** | **2,59** |
+| 16,99 | 6,64 | 7,49 | 44,1 % | 2,27 |
+| 17,99 | 6,79 | 8,34 | 46,4 % | 2,16 |
 
 **El precio es la palanca, no el PPC.** Vendía más caro y más rápido: mayo 134 + junio 346 uds a 12,99-13,99; ago-sep a 9,99 → 104/mes.
 
@@ -58,7 +61,7 @@
 
 ## Objetivo declarado (2026-09-16)
 Vender el máximo **por vía orgánica**, a precio **> 14,99 USD**, subiendo de a poco. Límite **31-dic-2026**.
-- Presupuesto ads: **tope 500 USD/mes** (límite de la tarjeta, 2026-10-08) → `plan-q4-pulsos.md`. (Antes: 900 USD en octubre.)
+- Presupuesto ads: **piso 500 USD/mes con la tarjeta; sin tope si el ROAS lo paga desde el saldo** (regla de escala en `analisis-2026-10-08.md` §5). (Antes: 900 USD en octubre.)
 - Señal de victoria del dueño: 50 uds/día nov · 80-100/día Navidad · 2.000 uds dic · TACOS 5 % dic.
 - **Acta de discrepancia (vigente):** con 900 USD en oct, el análisis proyecta **≈1.380 uds en Q4**, TACOS 25-30 %, ≈2.400 uds en stock al 31-dic, cierre real ~31-mar-2027.
 - **Ángulo:** REGALO FEMENINO (62 kw · 74.747 búsq./mes · nadie en el nicho lo trabaja).
