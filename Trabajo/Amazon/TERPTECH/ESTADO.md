@@ -33,4 +33,6 @@
 - Excepción explícita a la regla "nada de tareas programadas" para este frente, pedida por Santi.
 - Fuente de leads: Google Maps → export (Outscraper/Apify) → `scripts/terptech_leads.py` → `mayoristas/leads.csv`.
 - Faltan: export de Google Maps (acción de Santi), dirección postal para la firma (CAN-SPAM), **transportista B2B de Skytrader** (bloqueo #1) y la tasa de la deuda.
+- ✅ 2026-10-08: Gmail de TerpTech (terptech.company@gmail.com) conectado y leído. Diagnóstico en `mayoristas/outreach.md` §7. **10 borradores de seguimiento** listos en Gmail: falta poner la dirección postal y enviarlos (Santi).
+- ⚠️ En la misma casilla: **cuenta de eBay "santerp_0" suspendida** (26-ago, "security concerns") y un mail de ZIK Analytics con una **contraseña en texto plano**: cambiarla.
 

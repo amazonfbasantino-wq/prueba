@@ -107,3 +107,23 @@ Esa respuesta vale tanto como una venta: te dice el precio real del mercado.
 - Registrar todo en `prospectos.csv` (estado, último contacto, próximo paso).
 - **Nunca** describir el producto como "soldador" ante un mayorista ni como "vape" en un canal de herramientas: la misma verdad en cada canal.
 - No prometer en el mail las cifras de "1.900 u/mes" ni "$46K/mes" sin la captura que las respalde.
+
+## 7. Diagnóstico real de los mails de agosto (leído del Gmail de TerpTech, 2026-10-08)
+
+HECHO: 21 mails a ~17 empresas entre el 6 y el 18 de agosto. **Cero respuestas humanas con interés.** Detalle: `contactados_agosto.csv`.
+
+| Problema | Evidencia | Corrección |
+|---|---|---|
+| **Cero seguimientos** | Ningún hilo tiene un 2.º mail de TerpTech | Secuencia de 4 toques (`plantillas.md`) |
+| **Casilla equivocada** | support@, customerservice@, wecare@ → atención al cliente, abren tickets (Mi-Pod, Ooze, Element Vape, Everything 420) | Buscar al comprador (buyer/purchasing/wholesale@) o pedir que lo reenvíen |
+| **Destinatarios equivocados** | Yocan, Ooze, Hamilton Devices son **marcas competidoras**, no compradores | Apuntar a tiendas y distribuidores |
+| **Plantillas sin completar** | Asuntos/saludos "[Boost]", "[MIPOD]", "[Smoke Tokes2]", "[Element Vape]" | Personalización revisada antes de enviar |
+| **Mails largos con adjunto de ~670 KB** | Mails del 17 y 18-ago | 1.er mail corto y sin adjunto |
+| **Duplicados y direcciones mezcladas** | Smoke Tokes x3 (uno a la casilla de Up-N-Smoke), Vape Batt x2 | Registro único en CSV |
+| **Oferta de dropship** | Se ofreció dropship. World of Bongs (UE) contestó "We just drop ship" | Dropship = envío al consumidor: mismo problema de PACT y couriers. No ofrecerlo |
+
+Activos buenos que hay que reusar: datos documentados de Amazon (1.936 u en 30 días, $44,7K, **devoluciones 2,9%**, 4,4★/80+,
+sólo color naranja), LLC en EE.UU. para facturar.
+
+**2026-10-08: 10 borradores de seguimiento creados** en Gmail (tiendas y Mi-Pod), cortos, con emoción + muestra gratis como gancho + 1 pregunta.
+Falta completar `[business address]` en la firma antes de enviarlos.
