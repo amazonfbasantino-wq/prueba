@@ -12,7 +12,7 @@
 - **Decisión 2026-10-08: Shopify DTC descartado.** Shopify prohíbe la categoría vape, el PACT Act exige mucho para vender al consumidor y los transportistas no hacen la entrega final. Detalle en `canales.md`.
 
 ## Qué sigue (en orden)
-1. 3PL = **Skytrader USA** (Miami). Preguntarle: ¿despacha B2B por caja o pallet (LTL)? ¿hace kitting? ¿se integra con Shopify?
+1. 3PL = **Skytrader USA** (Miami, contacto Max). Costos recibidos: $1,50/orden + envío (ver `canales.md`). **Falta:** qué courier usan y si acepta baterías 510 B2B · **saldo adeudado $1.225: pagarlo o acordar antes del primer despacho.**
 2. Inspeccionar las 300 devueltas en Skytrader: cuántas están cerradas o como nuevas, cuántas abiertas o falladas, y de qué colores. Sólo las cerradas se venden como nuevas.
 2b. Cotizar puntas de soldar 510 sueltas a la fábrica (costo + flete), por si la prueba DTC funciona y hay que armar kits con las 3.300.
 3. Corregir el line sheet: foto real, contacto y **precios nuevos** (el "Full lot $6–8" actual está por debajo del costo).

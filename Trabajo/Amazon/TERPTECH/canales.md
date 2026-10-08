@@ -211,3 +211,23 @@ tipo Outscraper o Apify (unos pocos USD cada 1.000 resultados; trae web, teléfo
 `scripts/terptech_leads.py EXPORT.csv` limpia, saca duplicados y cerrados, puntúa popularidad (rating + reseñas)
 y arma `mayoristas/leads.csv` con tier A/B/C y el dato real para personalizar.
 Se empieza por el tier A (más populares = mejores candidatos a muestra).
+
+## Costos de Skytrader USA (WhatsApp con Max, 10-sep-2026; cotización pedida para FBM)
+| Concepto | Costo |
+|---|---|
+| Preparar la orden y empacar | $1,00 por orden |
+| Etiqueta, material (bolsa o sobre) y despacho por courier | $0,50 por orden |
+| **Total por orden despachada** | **$1,50** (sin envío) |
+| Almacenaje en estantería (25 ft³, entran ~10 cajas) | $25/mes (≈ $0,01/u) |
+| Pallet adicional | $35/mes |
+| Envío | **No incluido**: depende del destino. El sobre es lo más barato |
+
+Impacto: una caja de 50 u a una smoke shop cuesta **$1,50 de preparación por pedido (≈ $0,03/u) + envío**, así que el margen
+del mayorista casi no se toca. Una muestra gratis cuesta ≈ **$7 (unidad) + $1,50 + envío en sobre ≈ $13–15**.
+Presupuesto sugerido: 30 muestras ≈ $400–450, sólo para tiendas calificadas.
+
+`DATO FALTANTE:` **con qué courier despachan** y si acepta baterías 510 entre comercios. La cotización no lo dice.
+
+⚠️ **Deuda con Skytrader:** el chat muestra "Total adeudado: $1225" y un recordatorio de Max sobre el saldo pendiente
+("que NO repitamos lo de la última vez"). INFERENCIA: si no se paga, el 3PL puede frenar despachos o retener stock
+justo cuando empiecen las ventas. Cancelarlo (o acordar un plan de pago) antes del primer pedido.
