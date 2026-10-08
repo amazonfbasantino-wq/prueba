@@ -11,6 +11,7 @@ Toda decisión de precio, PPC, SEO o compliance se juzga contra ese horizonte de
 | Archivo | Para qué |
 |---|---|
 | `ESTADO.md` | Dónde quedamos, prioridades, decisiones abiertas, lectura de director |
+| `plan-salida-2nov.md` | **Vigente 08-oct:** corte 02-nov, plan agresivo, escenarios con/sin seguro |
 | `compliance.md` | Flag "Children's toys" (plazo 06-dic) + caja física + seguro |
 | `historia-19sep.md` | **Lo más nuevo**: foto 19-sep, economía real por ASIN, stock/rotación, resumen |
 | `economia.md` | Fórmula de fees, break-even ACoS/CPC, escalera de precio |
