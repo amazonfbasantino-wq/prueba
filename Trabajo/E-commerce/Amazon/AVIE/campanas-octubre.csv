@@ -113,3 +113,131 @@ AVIE_OCT_DESCUBRIR_PH,descubrir,lymphatic drainage brush,Frase,0.55,Encuentra t�
 AVIE_OCT_DESCUBRIR_PH,descubrir,gua sha brush,Frase,0.55,Encuentra términos nuevos baratos; cosechar a exacta los que vendan
 AVIE_OCT_DESCUBRIR_PH,descubrir,face sculpting brush,Frase,0.55,Encuentra términos nuevos baratos; cosechar a exacta los que vendan
 AVIE_OCT_DESCUBRIR_PH,descubrir,depuff brush,Frase,0.55,Encuentra términos nuevos baratos; cosechar a exacta los que vendan
+AVIE_OCT_AUTO_COSECHA,auto,Coincidencia cercana (close match),Automática,0.7,Búsquedas muy parecidas al listing: la fuente principal de keywords nuevas
+AVIE_OCT_AUTO_COSECHA,auto,Coincidencia amplia (loose match),Automática,0.5,"Búsquedas relacionadas más lejanas: barato, explora"
+AVIE_OCT_AUTO_COSECHA,auto,Sustitutos (substitutes),Automática,0.6,Páginas de productos rivales: encuentra ASINs para la campaña ASIN
+AVIE_OCT_AUTO_COSECHA,auto,Complementos (complements),Automática,0.3,"Páginas de productos que se compran juntos (aceites, piedras): mínimo, sólo para ver"
+AVIE_OCT_AUTO_COSECHA,auto,dry brush for lymphatic drainage,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,lymphatic drainage brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,lymphatic face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,face lymphatic drainage brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,lymphatic drainage brush for face,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,facial lymphatic drainage brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,facial brush for lymphatic drainage,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,guasha brush for face,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,guasha brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,gua sha brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,gua sha brush for face,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,lymphatic drainage brushes,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,facial lymphatic brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,dry face brush for lymphatic drainage,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,pink lymphatic drainage brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,pink lymphatic contour face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,pink lymphatic face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,skin brush for face,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,soft guasha facial brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,depuffing brush for face,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,brush for face drainage,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,lymphatic contour face brush soft bristles,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,lymphatic drainage brush soft,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,face drainage brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,de-bloat face sculpting brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,gua sha dry brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,face brush gua sha,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,gua sha face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,lymphatic contour face brush korean,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,guasha face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,face brushes for lymphatic drainage,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,brush guasha for face,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,lymphatic drainage brush face,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,gua sha facial brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,lymphatic facial drainage brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,face gua sha brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,contour facial brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,contour brush lymphatic drainage,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,facial contour brush lymphatic,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,lymphatic beauty brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,gua sha dry brush for face,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,facial sculpting brushes for lymphatic drainage,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,lymphatic drainage facial brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,lymphatic contour face brush soft,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,lymphatic drain face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,facial sculpting brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,soft face brush lymphatic,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,lymphatic drain brush for face,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,facial brushes for lymphatic drainage,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,lymphatic draining brush for face,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,facial drainage brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,sculpt brush for face,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,korean face lifting brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,facial lymph drainage brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,lymphatic facial contour brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,sculpting face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,dry lymphatic massage brush for face,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,lymphatic contour brush for face,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,face brush lymphatic drainage,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,facial contour brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,contour lymphatic face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,dry brush face,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,face lymphatic brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,korean brush for face,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,face lymphatic contour brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,face massage brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,dry brush for lymphatic drainage face,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,face lifting brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,depuff brush for face,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,face dry brush for lymphatic drainage,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,korean lymphatic face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,contour glow brush for face,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,k glow face sculpting brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,contour glow brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,lymphatic contour face brush k glow,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,contour glow face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,contourglow™ brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,contourglow brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,skinn double-ended face massage brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,nuventra facial brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,face beauty workshop lymphatic brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,koneva lymphatic face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,floriem lymphatic face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,auvorra lymphatic contour face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,kojeca lymphatic face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,nuevetra face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,kogeva lymphatic face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,cecily braden lymphatic face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,soothesilk facial contour brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,sefvako lymphatic contour face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,recuvia lymphatic contour face brush eliminate puffiness in minutes,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,vough lymphatic contour face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,akei lymphatic facial brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,aeli lymphatic face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,lymphatic contour face brush puur house,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,koje a lymphatic face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,koheva lymphatic face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,awki lymphatic face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,kojovia face brush for lymphatic drainage,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,arki lymphatic face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,puur house lymphatic contour face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,lymphatic brush by cecily braden,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,kojevs lymphatic face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,eteross lymphatic face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,vddo lymphatic contour face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,vellorra lymphatic contour face brush,Negativa exacta,,Ya está en una campaña exacta: que la auto busque palabras NUEVAS
+AVIE_OCT_AUTO_COSECHA,auto,gua sha facial tools,Negativa exacta,,14 clics 0 ventas
+AVIE_OCT_AUTO_COSECHA,auto,kojeva lymphatic face brush,Negativa exacta,,10 clics 0 ventas
+AVIE_OCT_AUTO_COSECHA,auto,kitsch lymphatic contour face brush,Negativa exacta,,7 clics 0 ventas
+AVIE_OCT_AUTO_COSECHA,auto,facial brush,Negativa exacta,,"7 clics 0 ventas, intención limpieza"
+AVIE_OCT_AUTO_COSECHA,auto,guasha tool for face,Negativa exacta,,"8 clics 0 ventas, intención piedra"
+AVIE_OCT_AUTO_COSECHA,auto,electric,Negativa frase,,Otra intención de compra
+AVIE_OCT_AUTO_COSECHA,auto,makeup,Negativa frase,,Otra intención de compra
+AVIE_OCT_AUTO_COSECHA,auto,body,Negativa frase,,Otra intención de compra
+AVIE_OCT_AUTO_COSECHA,auto,drops,Negativa frase,,Otra intención de compra
+AVIE_OCT_AUTO_COSECHA,auto,supplement,Negativa frase,,Otra intención de compra
+AVIE_OCT_AUTO_COSECHA,auto,pills,Negativa frase,,Otra intención de compra
+AVIE_OCT_AUTO_COSECHA,auto,toothbrush,Negativa frase,,Otra intención de compra
+AVIE_OCT_AUTO_COSECHA,auto,cleansing,Negativa frase,,Otra intención de compra
+AVIE_OCT_AUTO_COSECHA,auto,exfoliating,Negativa frase,,Otra intención de compra
+AVIE_OCT_AUTO_COSECHA,auto,powder,Negativa frase,,Otra intención de compra
+AVIE_OCT_AUTO_COSECHA,auto,ice roller,Negativa frase,,Otra intención de compra
+AVIE_OCT_AUTO_COSECHA,auto,B0FD354L27,ASIN negativo,,"FLAHOLD 8,99: ACOS 81 %, 8,44 USD de ads por unidad"
+AVIE_OCT_AUTO_COSECHA,auto,B0FD6Y9BX5,ASIN negativo,,7 clics 0 ventas

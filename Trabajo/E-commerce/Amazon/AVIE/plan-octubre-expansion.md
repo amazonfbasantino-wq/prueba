@@ -1,7 +1,7 @@
 # AVIE — Octubre: expansión con publicidad que se paga con las ventas (2026-10-08)
 
 > **Decisión de Santi (2026-10-08):** octubre es mes de **expansión y posicionamiento**. Se acepta quemar unidades y margen para ganar velocidad y llegar a fin de año mejor rankeado. La publicidad se financia con lo que Amazon paga por los pedidos. Trabajo de PPC **diario**.
-> Campañas listas para cargar: `campanas-octubre.csv` (114 objetivos). Fuente de keywords: `datos/2026-10_cerebro_*.csv` + `datos/2026-10_ads_search_terms.csv`.
+> Campañas listas para cargar: `campanas-octubre.csv` (118 objetivos + 124 negativas). Fuente de keywords: `datos/2026-10_cerebro_*.csv` + `datos/2026-10_ads_search_terms.csv`.
 
 ## 1 · Cuánto te paga Amazon según el precio (HECHO: tarifas reales de las transacciones)
 | Precio | Tarifas Amazon | **Te pagan** | Margen (− 2,86 de producto) | ACOS máx. |
@@ -30,15 +30,36 @@
 | Campaña | Qué tiene | Objetivos | Puja inicial | USD/día (de 30) |
 |---|---|---|---|---|
 | `AVIE_OCT_PROBADAS_EX` | Keywords que **ya vendieron** en ads (CVR 15-33 %) | 17 | 0,85 + 30 % en primera posición | 10 |
-| `AVIE_OCT_QUICKWIN_EX` | Long-tail con **competencia baja** (CPR 8-10 = alcanzan ~8-10 ventas en 8 días para la página 1) donde **AVIE ya rankea orgánico entre #42 y #110** | 53 | 0,75 | 8 |
+| `AVIE_OCT_QUICKWIN_EX` | Long-tail con **competencia baja** (CPR 8-10 = alcanzan ~8-10 ventas en 8 días para la página 1) donde **AVIE ya rankea orgánico entre #42 y #110** | 54 | 0,75 | 8 |
 | `AVIE_OCT_RIVALES_EX` | Marcas rivales y sus errores de tipeo (kojeva→koneva/kogeva…, aeki→akei/awki…, contour glow, k glow) donde AVIE ya aparece orgánico (#31-#128) | 35 | 0,60 | 3 |
 | `AVIE_OCT_ASIN` | Páginas de Aeki B0GFSMWTPK (rival más débil), Cheersendex B0GVBQ7P79, B0G3685P2S | 3 | 0,70 | 4 |
 | `AVIE_OCT_DESCUBRIR_PH` | Frase amplia en 5 raíces para encontrar términos nuevos baratos | 5 | 0,55 | 3 |
+| `AVIE_OCT_AUTO_COSECHA` | **Automática**: Amazon elige las búsquedas leyendo el listing nuevo → recolecta keywords que hoy no conocemos (ver §3b) | 4 grupos | 0,30-0,70 | 6 |
 | Marvin (MARVIN1, "Avie Lymph Drain Pink") | **Pausar** las que pujan por las mismas palabras (si no, las campañas compiten y los datos se mezclan); el resto, a 5 USD/día | — | — | 0-5 |
 
-**Por qué la QUICKWIN es la apuesta de velocidad:** son 53 búsquedas chicas (250-700/mes cada una, unas 21.000/mes en total) con poca competencia, donde Amazon **ya** muestra a AVIE en la página 2-3. Con pocas ventas por keyword AVIE puede pasar a página 1 orgánica, y cada keyword ganada vende sola después. Es ranking "en muchas puertas chicas" en vez de pelear la puerta grande (`lymphatic contour face brush`, CPR 123).
+**Por qué la QUICKWIN es la apuesta de velocidad:** son 54 búsquedas chicas (250-700/mes cada una, unas 21.000/mes en total) con poca competencia, donde Amazon **ya** muestra a AVIE en la página 2-3. Con pocas ventas por keyword AVIE puede pasar a página 1 orgánica, y cada keyword ganada vende sola después. Es ranking "en muchas puertas chicas" en vez de pelear la puerta grande (`lymphatic contour face brush`, CPR 123).
 **Ojo:** las top-3 de `RIVALES` (contour glow / k glow, AVIE #31-34) son el mejor atajo: AVIE ya está a un paso de la página 1.
 **Ojo:** `dry brush for lymphatic drainage` (29.000/mes en el mapa 10x10, AVIE vendió 3 de 9 clics) puede mezclar búsquedas de cepillo corporal → va en PROBADAS, pero si en 5 días gasta > 15 USD sin venta, se baja la puja.
+
+## 3b · Campaña automática de cosecha (`AVIE_OCT_AUTO_COSECHA`)
+**Para qué:** Amazon decide a qué búsquedas mostrar AVIE leyendo el listing (que cambió con Marvin), las reseñas y el comportamiento de compra. Así aparecen keywords que no están en Cerebro ni en nuestras listas. Es la "red de pesca"; las exactas son la "caña".
+| Grupo de segmentación | Puja | Por qué |
+|---|---|---|
+| Coincidencia cercana | 0,70 | Búsquedas casi iguales al listing: la que más keywords nuevas y rentables suele dar |
+| Coincidencia amplia | 0,50 | Búsquedas relacionadas más lejanas: barato, explora |
+| Sustitutos | 0,60 | Aparece en páginas de rivales: encuentra ASINs que convierten → van a `AVIE_OCT_ASIN` |
+| Complementos | 0,30 | Páginas de productos que se compran juntos (aceites, piedras): mínimo, sólo para mirar |
+**Negativas cargadas desde el día 1 (124):** las 106 keywords que ya están en campañas exactas (así la auto busca palabras **nuevas** y no compite con las otras) · 5 términos que ya gastaron sin vender · 11 frases de otra intención (electric, makeup, body, drops, supplement, pills, toothbrush, cleansing, exfoliating, powder, ice roller) · 2 ASIN negativos (FLAHOLD B0FD354L27, B0FD6Y9BX5).
+
+**Ciclo de cosecha (se aplica en la rutina diaria):**
+| Lo que pasa con un término de la auto | Qué se hace |
+|---|---|
+| **1+ pedido con ACOS < 60 %** | **Graduar:** agregarlo en exacta a `AVIE_OCT_QUICKWIN_EX` (puja = CPC que pagó en la auto + 0,10) **y** cargarlo como negativa exacta en la auto |
+| 1 pedido con ACOS > 60 % | Esperar a 10 clics antes de decidir |
+| **ASIN** de un rival con 1+ pedido | Pasarlo a `AVIE_OCT_ASIN` y cargarlo como ASIN negativo en la auto |
+| **≥ 8 clics y 0 pedidos** o **≥ 8 USD sin venta** | Negativa exacta en la auto |
+| Palabra irrelevante (otra intención) aunque tenga 1-2 clics | Negativa frase en la auto |
+**Lunes:** comparar el ROAS de los 4 grupos. El grupo con mejor ROAS sube +0,10, el peor baja −0,10 (o se pausa si no vendió nada en 7 días).
 
 ## 4 · Rutina diaria (10 minutos) — qué se puede tocar todos los días y qué no
 **Todos los días (mirando los últimos 3 días):**

@@ -13,7 +13,7 @@
 | `estrategia-ticket-2pack.md` | Promo "compra 2" vs 2-pack ASIN, números, logística, proyección de stock Q4 |
 | `resumen-tarjeta.md` | Cargos de Amazon a la tarjeta del tío (995,63 USD, 25-may→7-oct) y en qué se fue la plata |
 | `plan-octubre-expansion.md` | **Plan vigente de octubre:** expansión, presupuesto diario que se paga con las ventas, 5 campañas, rutina diaria, prueba a 12,99 |
-| `campanas-octubre.csv` | 114 objetivos listos para cargar (keywords long-tail, rivales, ASIN, pujas) |
+| `campanas-octubre.csv` | 118 objetivos + 124 negativas listos para cargar (exactas long-tail, rivales, ASIN, frase, automática de cosecha) |
 | `plan-q4-pulsos.md` | Plan de pulsos de 8 días (nov-dic o vuelta atrás si octubre falla) |
 | `ppc.md` | Plan anterior de 900 USD/mes (versiones A/B) y reglas de PPC heredadas |
 | `competencia.md` | Los 9 ASINs rivales, los dos mercados, a quién atacar |
