@@ -9,7 +9,14 @@
 ## Cuentas relacionadas caídas (dicho por Santi, 2026-10-08)
 - Además de DecoHOUSE, Amazon bloqueó las cuentas de: socios, un amigo, la novia, la mamá, la hermana y un amigo estadounidense. **Faltan detalles** (titular, fecha, motivo citado, qué vendía cada una, si Santi las operaba).
 - **INFERENCIA:** es la política de cuentas relacionadas. Cada cuenta que cae vinculada a Santi suma al expediente como **evasión de la suspensión**, lo que baja más la chance de reinstalar DecoHOUSE.
-- **Pendiente de confirmar:** ¿Beauty Michele y KINAVARGAS siguen activas o están entre las bloqueadas? (el vault las da como activas)
+- Las que cayeron lo hicieron por haberse operado desde la misma Mac que DecoHOUSE, **sin haber vendido TerpTech**. Para Amazon el criterio es quién opera la cuenta, no quién vendió el producto.
+- **Beauty Michele (tío) y KINAVARGAS (esposa del socio) siguen activas** (~6 meses) y las opera Santi.
+
+## ⚖️ Decisión abierta clave (de Santi)
+Operar Beauty Michele y KINAVARGAS siendo titular de una cuenta suspendida choca de frente con reinstalar DecoHOUSE: una apelación creíble dice "opero una sola cuenta". Una apelación que lo oculte sería falsa y, si la detectan, cierra la puerta del todo.
+- **Opción 1 (lleva a reinstalar + LLC):** KINAVARGAS termina en dic (ya planeado) y se cierra; Beauty Michele pasa a operarla 100% su titular o Santi sale de ella. Enero 2027: apelación honesta.
+- **Opción 2:** seguir operando las dos → no apelar DecoHOUSE por ahora (la revisión podría alcanzarlas) y la LLC sigue imposible.
+- Recomendación: Opción 1, alineada con el cierre de KINAVARGAS. La decisión real es Beauty Michele.
 
 ## Diagnóstico
 - **HECHO:** 5 rechazos de apelación (feb → may 2026). Amazon: la conducta evasiva no tiene camino de reinstalación salvo prueba de cumplimiento.
@@ -79,6 +86,7 @@ Para: disbursement-appeals@amazon.com · desde el email de la cuenta (cemar4025)
 
 
 ## Historial
+- 2026-10-08 · Santi aclara: Beauty Michele (tío) y KINAVARGAS (esposa del socio) activas y operadas por él; las demás cayeron por la Mac compartida. Se abre la decisión Opción 1 / Opción 2.
 - 2026-10-08 · Santi: también cayeron las cuentas de socios, amigo, novia, mamá, hermana y un amigo de EE.UU. Prioridad declarada: reinstalar DecoHOUSE aunque no sea para vender. Plan de máxima chance → sección "Plan para reinstalar".
 - 2026-10-08 · Santi confirma US$ 3.000 retenidos y sin deuda; objetivo = cuenta de la LLC → se concluye que hace falta reinstalar. Se detecta la señal AK0H81VYQPLMY / TerpTech activo en sep-2026.
 - 2026-10-08 · Carpeta creada a partir del Gmail principal: cronología, motivo, avisos de deuda (oct-2026) y texto de desembolso.

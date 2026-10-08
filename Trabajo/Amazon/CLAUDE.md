@@ -11,8 +11,8 @@
 ## Cuentas y entidades
 | Cuenta / entidad | Qué es | Productos |
 |---|---|---|
-| **Beauty Michele** | Vendedor individual, persona natural, titular en Luján de Cuyo (Mendoza) | AVIE (50/50 con mi pareja) · MT Ball (en preparación) |
-| **KINAVARGAS** (ACC-002) | Titular Maria Eugenia Vargas (no es parte de la LLC) | KINA (discontinuado), Reflex Game (liquidación) |
+| **Beauty Michele** | Vendedor individual, persona natural, titular en Luján de Cuyo (Mendoza) · titular: tío de Santi · operada por Santi | AVIE (50/50 con mi pareja) · MT Ball (en preparación) |
+| **KINAVARGAS** (ACC-002) | Titular Maria Eugenia Vargas, esposa del socio (no es parte de la LLC) · operada por Santi | KINA (discontinuado), Reflex Game (liquidación) |
 | **DecoHOUSE** (cuenta personal de Santi) | Desactivada permanente por Sección 3 (08-feb-2026, batería 510 / vape) → `_CUENTA-DECOHOUSE/` | — (TerpTech, prohibido) |
 | **VIRTUALMED SOLUTIONS LLC** | LLC de Florida (domicilio Sarasota) · miembros: Santi + Pablo · banco: Bank of America | — |
 | Socio externo | Maxi (vive en Utah) | MT Ball |
