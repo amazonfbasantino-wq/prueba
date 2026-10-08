@@ -24,7 +24,7 @@
 | `MT-BALL/` | MT Ball (meta ball, con Maxi) | — | ✅ migrado 2026-10-06 |
 | `REFLEX/` | Reflex Game (KINAVARGAS) · **modo liquidación** | B0GR46X8Y8 · B0GQW5F2LL | ✅ migrado 2026-10-06 |
 | `KINA/` | KINA Lymphatic Drainage Face Brush · **liquidación fuera de Amazon** | B0GQJLP4TB | ✅ migrado 2026-10-06 |
-| `TERPTECH/` | TerpTech Premium 650mAh (batería 510) | B0F9SXP5MW | ✅ ficha migrada 2026-10-08 · imágenes pendientes |
+| `TERPTECH/` | TerpTech Premium 650mAh (batería 510) | B0F9SXP5MW | ✅ ficha + 6 imágenes + line sheet · falta `ESTADO.md` |
 | `_CUENTA-KINAVARGAS/` | Cuenta KINAVARGAS: titular, seguro, casos, reglas | — | ✅ migrado 2026-10-06 |
 | `_ARCHIVO/` | Los dos vaults de Obsidian completos, en crudo (sólo consulta) | — | ver `_ARCHIVO/LEEME.md` |
 
