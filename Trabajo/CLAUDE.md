@@ -5,19 +5,21 @@ y además el `CLAUDE.md` de cada subcarpeta en la que se trabaje: acá va solo l
 a TODO; lo específico vive en su carpeta (regla: **write once, reference many**).
 
 ## Estructura
+Todo lo de venta online vive en **`E-commerce/`**. Un ecosistema = una carpeta.
+
 | Carpeta | Qué hay | Estado |
 |---|---|---|
-| `Amazon/` | Contexto madre de Amazon (quién soy, meta, cuentas, reglas duras) | ✅ migrado |
-| `Amazon/AVIE/` | AVIE Lymphatic Contour Face Brush · B0GT75CR86 (Beauty Michele) | ✅ migrado |
-| `Amazon/MT-BALL/` | MT Ball, magic meta ball con Maxi (Beauty Michele) | ✅ migrado |
-| `Amazon/REFLEX/` | Reflex Game R46 / QW5 (KINAVARGAS) · modo liquidación | ✅ migrado |
-| `Amazon/KINA/` | KINA Lymphatic Drainage Face Brush · B0GQJLP4TB · liquidación fuera de Amazon | ✅ migrado |
-| `Amazon/TERPTECH/` | TerpTech Premium 650mAh · B0F9SXP5MW · batería 510 · **prohibido en Amazon** | ✅ ficha + imágenes + line sheet + `ESTADO.md` |
-| `Amazon/_CUENTA-KINAVARGAS/` | Cuenta KINAVARGAS: titular, seguro, casos | ✅ migrado |
-| `Amazon/_CUENTA-DECOHOUSE/` | Cuenta bloqueada de Santi (Sección 3): fondos retenidos, deuda | ✅ 2026-10-08 |
-| `Amazon/_ARCHIVO/` | Vaults de Obsidian en crudo (sólo consulta) | ⏳ pendiente: copiar desde los vaults en la compu |
-| `Etsy/` | Ecosistema Etsy | ⏳ pendiente |
-| `Paginas-Web/` | TerpTech / DTC, RapiPet y otros sitios | ⏳ pendiente: migrar desde `02 Negocios/` del vault |
+| `E-commerce/Amazon/` | Contexto madre de Amazon (quién soy, meta, cuentas, reglas duras) | ✅ |
+| `E-commerce/Amazon/AVIE/` | AVIE Lymphatic Contour Face Brush · B0GT75CR86 (Beauty Michele) · vender stock hasta agotar | ✅ |
+| `E-commerce/Amazon/MT-BALL/` | MT Ball con Maxi · **no lanzar en Beauty Michele** | ✅ |
+| `E-commerce/Amazon/REFLEX/` | Reflex Game R46 / QW5 (KINAVARGAS) · liquidación | ✅ |
+| `E-commerce/Amazon/KINA/` | KINA Face Brush · B0GQJLP4TB · liquidación fuera de Amazon | ✅ |
+| `E-commerce/Amazon/_CUENTA-KINAVARGAS/` | Cuenta KINAVARGAS: titular, seguro, casos | ✅ |
+| `E-commerce/Amazon/_ARCHIVO/` | Vaults de Obsidian en crudo (sólo consulta) | ⏳ copiar desde la compu |
+| `E-commerce/TERPTECH/` | TerpTech (batería 510) · **fuera de Amazon** · B2B mayorista, catálogo, leads, outreach | ✅ |
+| `E-commerce/TERPTECH/_CUENTA-DECOHOUSE/` | Cuenta Amazon bloqueada (Sección 3): historia, apelación, US$ 3.000 retenidos, correspondencia | ✅ 2026-10-08 |
+| `E-commerce/Etsy/` | Ecosistema Etsy | ⏳ falta el email de la tienda |
+| `E-commerce/Paginas-Web/` | Sitios (RapiPet y otros) | ⏳ migrar desde `02 Negocios/` del vault |
 | `_compartido/` | Lo transversal a todos los ecosistemas | vacío |
 | `_inbox/` | Notas importadas sin clasificar | vacío |
 

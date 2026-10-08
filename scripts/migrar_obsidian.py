@@ -25,13 +25,13 @@ DESTINO = Path(__file__).resolve().parent.parent / "Trabajo"
 # (destino relativo a Trabajo/, palabras clave). Orden = prioridad: lo más
 # específico (productos) antes que lo general (ecosistemas).
 REGLAS = [
-    ("Amazon/KINA", ["kina", "kinavargas"]),
-    ("Amazon/AVIE", ["avie", "b0gt75cr86"]),
-    ("Amazon/MT-BALL", ["mt ball", "mt-ball", "mtball"]),
-    ("Amazon/REFLEX", ["reflex"]),
-    ("Amazon/_comun", ["amazon", "fba", "asin", "seller central", "ppc", "acos", "helium"]),
-    ("Etsy/_comun", ["etsy"]),
-    ("Paginas-Web/_comun", ["shopify", "wordpress", "dtc", "dominio", "landing", "web"]),
+    ("E-commerce/Amazon/KINA", ["kina", "kinavargas"]),
+    ("E-commerce/Amazon/AVIE", ["avie", "b0gt75cr86"]),
+    ("E-commerce/Amazon/MT-BALL", ["mt ball", "mt-ball", "mtball"]),
+    ("E-commerce/Amazon/REFLEX", ["reflex"]),
+    ("E-commerce/Amazon/_comun", ["amazon", "fba", "asin", "seller central", "ppc", "acos", "helium"]),
+    ("E-commerce/Etsy/_comun", ["etsy"]),
+    ("E-commerce/Paginas-Web/_comun", ["shopify", "wordpress", "dtc", "dominio", "landing", "web"]),
 ]
 
 IGNORAR = {".obsidian", ".trash", ".git"}

@@ -11,7 +11,7 @@
 | Estado | **Desactivada permanentemente por Sección 3 del BSA** desde el **08-feb-2026** |
 | Motivo (textual de Amazon) | "listed items that are not permitted for sale on Amazon **in a manner to avoid detection**" = **conducta evasiva** |
 | Producto citado | ASIN **B0DZH23VN8** · "Premium 510 threaded battery vaporizer, 1100mAh…" → política de **cigarrillos electrónicos / vaporizadores y accesorios** (prohibidos aunque no lleven nicotina) |
-| Otro ASIN de la cuenta | **B0F9SXP5MW** (TerpTech 650mAh, batería 510) listado como "Soldering Irons" → ver `../TERPTECH/` |
+| Otro ASIN de la cuenta | **B0F9SXP5MW** (TerpTech 650mAh, batería 510) listado como "Soldering Irons" → ver `../` (carpeta TERPTECH) |
 | Japón | Suspendida el 10-feb-2026 "por infracción en otra tienda de la cuenta" (arrastre de la de US) |
 
 ## Cronología (HECHO, de los mails)
@@ -33,6 +33,6 @@
 
 ## Reglas duras de esta cuenta
 1. **No volver a listar baterías 510 / TerpTech en ninguna cuenta de Amazon** (ni con otra categoría ni con otro nombre). Es exactamente lo que Amazon calificó de evasivo; repetirlo en KINAVARGAS o Beauty Michele las vincula y las mata.
-2. **No abrir cuentas nuevas** con datos de Santi ni de la LLC (ya está en `../KINA/CLAUDE.md` y `../_CUENTA-KINAVARGAS/CLAUDE.md`).
+2. **No abrir cuentas nuevas** con datos de Santi ni de la LLC (ya está en `../../Amazon/KINA/CLAUDE.md` y `../../Amazon/_CUENTA-KINAVARGAS/CLAUDE.md`).
 3. No usar esta cuenta para operar nada de las otras cuentas.
 4. Cualquier contacto con Amazon sobre esta cuenta: sólo Seller Central o `disbursement-appeals@amazon.com`. Nada de "agentes" externos que pidan credenciales.
