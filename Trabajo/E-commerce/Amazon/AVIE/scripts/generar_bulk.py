@@ -9,10 +9,13 @@ H = ['Product','Entity','Operation','Campaign ID','Ad Group ID','Portfolio ID','
      'Bidding Strategy','Placement','Percentage','Product Targeting Expression']
 SKU, INICIO = 'avie 011', '20261009'
 # campaña: (USD/día, tipo, puja por defecto, % extra primera posición)
-# total 25 USD/día + 5 de las autos existentes SP-(Substitutes) y SP-(CloseMatch) = 30 (regla: pedidos de ayer × 8,65 − 5)
-CAMPS = {'AVIE_OCT_PROBADAS_EX': (8, 'Manual', 0.85, 30), 'AVIE_OCT_QUICKWIN_EX': (7, 'Manual', 0.75, 0),
-         'AVIE_OCT_RIVALES_EX': (2, 'Manual', 0.60, 0), 'AVIE_OCT_ASIN': (3, 'Manual', 0.65, 0),
-         'AVIE_OCT_DESCUBRIR_PH': (2, 'Manual', 0.55, 0), 'AVIE_OCT_AUTO_COSECHA': (3, 'Auto', 0.40, 0)}
+# Nivel 1 de la escalera (plan-octubre-expansion.md §2): 55 USD/día nuevas + 5 de SP-(Substitutes) y SP-(CloseMatch) = 60
+CAMPS = {'AVIE_OCT_EMPUJE_EX': (20, 'Manual', 0.90, 60), 'AVIE_OCT_PROBADAS_EX': (12, 'Manual', 0.85, 30),
+         'AVIE_OCT_QUICKWIN_EX': (10, 'Manual', 0.75, 0), 'AVIE_OCT_RIVALES_EX': (3, 'Manual', 0.60, 0),
+         'AVIE_OCT_ASIN': (4, 'Manual', 0.65, 0), 'AVIE_OCT_DESCUBRIR_PH': (3, 'Manual', 0.55, 0),
+         'AVIE_OCT_AUTO_COSECHA': (3, 'Auto', 0.40, 0)}
+import sys
+SOLO = sys.argv[1:]  # ej.: python scripts/generar_bulk.py AVIE_OCT_EMPUJE_EX  -> sólo esas campañas
 AUTO = {'Coincidencia cercana (close match)': 'close-match', 'Coincidencia amplia (loose match)': 'loose-match',
         'Sustitutos (substitutes)': 'substitutes', 'Complementos (complements)': 'complements'}
 MATCH = {'Exacta': 'exact', 'Frase': 'phrase', 'Negativa exacta': 'negativeExact', 'Negativa frase': 'negativePhrase'}
@@ -25,6 +28,8 @@ def fila(**kw):
     out.append([r[h] for h in H])
 
 for c, (budget, tipo, puja, top) in CAMPS.items():
+    if SOLO and c not in SOLO:
+        continue
     ag = c.lower()
     base = {'Campaign ID': c, 'Ad Group ID': ag, 'State': 'enabled'}
     fila(Entity='Campaign', **{'Campaign ID': c, 'Campaign Name': c, 'Start Date': INICIO, 'Targeting Type': tipo,
@@ -54,5 +59,6 @@ wb = openpyxl.Workbook(); ws = wb.active; ws.title = 'Sponsored Products Campaig
 ws.append(H)
 for o in out:
     ws.append(o)
-wb.save('AVIE_OCT_bulk_carga.xlsx')
-print(f'{len(out)} filas -> AVIE_OCT_bulk_carga.xlsx')
+nombre = 'AVIE_OCT_bulk_' + ('_'.join(x.replace('AVIE_OCT_', '').lower() for x in SOLO) if SOLO else 'carga') + '.xlsx'
+wb.save(nombre)
+print(f'{len(out)} filas -> {nombre}')

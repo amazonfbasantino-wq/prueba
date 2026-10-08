@@ -27,29 +27,46 @@
 - **Cada día que se vende por debajo de 14,99 baja la referencia.** Si se pasa a 13,99, el tachado futuro mostraría −28,6 %, no −33 %. Evitar bajas cortas de prueba.
 - Las ofertas de Black Friday (Lightning Deal o Best Deal) tienen su propia validación de precio. Revisar en Seller Central → Promociones las fechas de postulación.
 
-## 2 · Presupuesto diario que se paga solo
-**Presupuesto de ads de hoy = pedidos de ayer × lo que paga Amazon por pedido − 5 USD** (almacenamiento + plan).
-- A 14,99 (te pagan 8,65): 3 pedidos → ≈ **21 USD** · 4 → ≈ 30 USD · 5 → ≈ 38 USD. (A 13,99: × 7,80.)
-- **Piso 20 USD/día · techo 45 USD/día** en octubre, salvo que el ROAS de los últimos 7 días sea ≥ 2,5.
-- **Freno de mano:** si el saldo de la cuenta de vendedor queda en negativo, se baja al piso hasta que vuelva a positivo (así no se toca la tarjeta).
-- Esto financia la publicidad con las ventas, **no** recupera el costo del producto (2,86 por unidad): es la "quema de unidades" que Santi aceptó para posicionarse.
+## 2 · Presupuesto: escalera agresiva que se paga con las ventas (decisión de Santi 08-oct)
+**Lógica de Santi (correcta):** con saldo positivo, Amazon cobra la publicidad del saldo y la tarjeta no se toca. Se acepta **quemar unidades**: que lo que pagan esas unidades se vaya en publicidad, para subir orgánico.
+**Tope de quema:** 400 unidades × 8,65 = **3.460 USD de publicidad acumulada desde el 9-oct**. Al llegar a ese número, se pasa a modo rentable (regla §3a pura), haya o no ranking.
+
+**La métrica de cada día es el TACOS** = gasto en ads ÷ ventas TOTALES (ads + orgánico). Las ventas totales están en Seller Central sin demora; el ACOS de 24 h no sirve (Amazon atribuye ventas hasta 7 días después del clic).
+| TACOS (últimos 3 días) | Qué significa | Acción |
+|---|---|---|
+| ≤ 38 % | Rentable: cubre hasta el producto | Subir un nivel |
+| 38-55 % | **Zona de expansión:** se queman unidades, pero lo que paga Amazon cubre la publicidad. La tarjeta no se toca | Subir un nivel si las campañas gastan ≥ 80 % del presupuesto (es decir, están frenadas por presupuesto) |
+| 55-80 % | La publicidad cuesta más de lo que entra: se usa el colchón de la tarjeta | Mantener el nivel y cortar lo que no vende |
+| > 80 % dos días seguidos, o saldo negativo | Quema sin retorno | Bajar un nivel |
+| La tarjeta ya pagó 400 USD en el mes | Colchón agotado | Volver al piso |
+
+| Nivel | USD/día | Reparto (EMPUJE · PROBADAS · QUICKWIN · RIVALES · ASIN · DESCUBRIR · AUTO · SUBST · CLOSE) |
+|---|---|---|
+| 0 · piso | 20 | 8 · 4 · 3 · 0 · 1 · 0 · 1 · 2 · 1 |
+| **1 · arranque (9-oct)** | **60** | 20 · 12 · 10 · 3 · 4 · 3 · 3 · 3 · 2 |
+| 2 | 90 | 30 · 18 · 15 · 4 · 6 · 4 · 5 · 5 · 3 |
+| 3 · techo (lo que propuso Marvin) | 126 | 40 · 25 · 22 · 6 · 8 · 6 · 7 · 8 · 4 |
+- **Nunca se sube más de un nivel cada 48 h**: los datos de 24 h llegan incompletos.
+- Más presupuesto no compra ventas si las pujas no ganan subastas: **la agresividad va a EMPUJE** (puja alta + 60 % extra en primera posición), donde una venta mueve el ranking.
+- **Cuenta corriente de la quema:** el seguimiento diario (`seguimiento-diario.csv`) acumula el gasto y lo compara con los 3.460 USD.
 
 ## 3 · Estructura de campañas (portfolio nuevo "AVIE OCT") · actualizada 08-oct con el Keyword Tracker
 | Campaña | Qué tiene | Objetivos | Puja inicial | USD/día |
 |---|---|---|---|---|
-| `AVIE_OCT_PROBADAS_EX` | Keywords que **ya vendieron** en ads (CVR 15-33 %) + `lymphatic contour face brush` a 0,50 | 18 | 0,85 (+30 % en primera posición) · la principal a 0,50 | 8 |
-| `AVIE_OCT_QUICKWIN_EX` | Long-tail con **competencia baja** donde **AVIE ya rankea orgánico** (Cerebro #42-110 + Keyword Tracker 08-oct: glow brush lymphatic #23, korean lymphatic brush #24, face brush for lymphatic drainage #45…) + las 2 de sculpt | 67 | 0,60-0,75 | 7 |
+| `AVIE_OCT_EMPUJE_EX` | **Las keywords a subir de ranking:** familia gua sha brush (#33, #84, #92, CVR 29-50 % en muestras chicas) + familia contour glow (#60-73) | 7 | 0,80-0,90 + **60 %** en primera posición | 20 |
+| `AVIE_OCT_PROBADAS_EX` | Keywords que **ya vendieron** en ads (CVR 15-33 %) + `lymphatic contour face brush` a 0,50 | 14 | 0,85 (+30 % en primera posición) · la principal a 0,50 | 12 |
+| `AVIE_OCT_QUICKWIN_EX` | Long-tail con **competencia baja** donde **AVIE ya rankea orgánico** (Cerebro #42-110 + Keyword Tracker 08-oct: glow brush lymphatic #23, korean lymphatic brush #24, face brush for lymphatic drainage #45…) + las 2 de sculpt | 67 | 0,45-0,75 | 10 |
 | `AVIE_OCT_RIVALES_EX` | Marcas rivales y errores de tipeo donde AVIE ya aparece (contour glow #60-73, nuvetra contour glow #30, kojeva/akei/koniva…) | 39 | 0,60 | 2 |
-| `AVIE_OCT_ASIN` | Aeki B0GFSMWTPK · Cheersendex B0GVBQ7P79 · B0G3685P2S (reemplaza a `AVIE_COMP_ASIN_US` de Marvin) | 3 | 0,65 | 3 |
-| `AVIE_OCT_DESCUBRIR_PH` | Frase en 5 raíces para encontrar términos nuevos | 5 | 0,55 | 2 |
+| `AVIE_OCT_ASIN` | Aeki B0GFSMWTPK · Cheersendex B0GVBQ7P79 · B0G3685P2S (reemplaza a `AVIE_COMP_ASIN_US` de Marvin) | 3 | 0,65 | 4 |
+| `AVIE_OCT_DESCUBRIR_PH` | Frase en 5 raíces para encontrar términos nuevos | 5 | 0,55 | 3 |
 | `AVIE_OCT_AUTO_COSECHA` | Automática **sólo coincidencia amplia** = red de tendencias (§3b) | 1 grupo activo | 0,40 | 3 |
 | **SP-(Substitutes)** existente | Automática, sustitutos: 18 pedidos, CTR 4,34 % (dato de Marvin) | — | ≤ 0,60 | 3 |
 | **SP-(CloseMatch)** existente | Automática, coincidencia cercana: CTR 2,97 % | — | ≤ 0,60 | 2 |
-| **Total** | | | | **30** |
+| **Total (nivel 1)** | | | | **60** |
 Qué hacer con cada campaña vieja → `campanas-existentes-semaforo.md`.
 
 **Por qué la QUICKWIN es la apuesta de velocidad:** son búsquedas chicas con poca competencia donde Amazon **ya** muestra a AVIE en la página 2-3. Con pocas ventas por keyword AVIE puede pasar a página 1 orgánica. Es ranking "en muchas puertas chicas" en vez de pelear la grande (`lymphatic contour face brush`, 55.000/mes, AVIE #141).
-**Las 3 keywords de empuje (Keyword Tracker 08-oct):** `gua sha brush` (#33, 4.843/mes, CPR 25) · `face brush for lymphatic drainage` (#45, 5.849/mes, CPR 29) · familia `contour glow` (#60-73, ya tiene anuncio en posición 6-12). El título nuevo de Marvin ("Gua Sha Glow, Massager, Drainage, Pink") es lo que hizo subir estas familias.
+**Empuje (Keyword Tracker 08-oct):** familia `gua sha brush` (#33, 4.843/mes, CPR 25) y familia `contour glow` (#60-73, ya tiene anuncio en posición 6-12). **Corrección:** `face brush for lymphatic drainage` (#45) NO va a empuje: en ads convirtió 5 % (39 clics, 2 pedidos) → queda en QUICKWIN a 0,45 como prueba con el listing nuevo. El título nuevo de Marvin ("Gua Sha Glow, Massager, Drainage, Pink") es lo que hizo subir estas familias.
 **Ojo:** `dry brush for lymphatic drainage` puede mezclar búsquedas de cepillo corporal → si en 5 días gasta > 15 USD sin venta, se baja la puja.
 
 ## 3a · Regla de CPC máximo (de Marvin, adoptada)
@@ -87,13 +104,21 @@ Qué hacer con cada campaña vieja → `campanas-existentes-semaforo.md`.
 | Palabra de otra intención (aunque tenga 1-2 clics) | Negativa frase en la red |
 | Término de temporada que vende (ej. "gift") | Graduar igual. Además, avisar: va a Recommended Uses o bullet 5, nunca al título (regla de Amazon de AVIE) |
 
-## 4 · Rutina diaria (10 minutos) — qué se puede tocar todos los días y qué no
-**Todos los días (mirando los últimos 3 días):**
-1. Ajustar el presupuesto con la regla del §2.
-2. **Negativizar** (exacta negativa) todo término de búsqueda con **≥ 10 clics y 0 pedidos**, o **≥ 12 USD gastados sin venta**.
-3. Keyword con **venta y ACOS < 40 %** → **+10 % de puja**.
-4. Keyword con **< 100 impresiones en 3 días** → **+0,10 de puja** (no está entrando a la subasta).
-5. Término nuevo que vendió en `DESCUBRIR_PH` → agregarlo a `QUICKWIN_EX` en exacta.
+## 4 · Ciclo de 24 horas (decisión de Santi: análisis diario)
+**Lo que manda Santi cada día (5 minutos):**
+1. **Informe de términos de búsqueda** de Amazon Ads (Sponsored Products, período "ayer"; si se saltea un día, "últimos 3 días").
+2. **Ventas totales de ayer**: unidades y USD (Seller Central → Informes de negocio → Por fecha, o captura del panel).
+3. **Export del Keyword Tracker** de Helium 10 (el mismo del 08-oct).
+4. Cualquier cambio que haya hecho (precio, cupón, listing, pujas a mano).
+
+**Lo que devuelve Claude:** fila nueva en `seguimiento-diario.csv` (gasto, pedidos de ads, pedidos totales, TACOS, quema acumulada, puestos de las keywords de empuje), el nivel de la escalera de mañana y la lista exacta de cambios (graduar, negativizar, subir o bajar pujas) con el porqué de cada uno. Primera corrida: armar `scripts/rutina_diaria.py` con las columnas reales del informe.
+
+**Reglas por keyword (con datos de 3 días):**
+1. **Negativizar** (exacta negativa) todo término con **≥ 10 clics y 0 pedidos**, o **≥ 12 USD sin venta** (en las automáticas: 8 clics u 8 USD).
+2. Keyword con **venta y ACOS < 40 %** → **+10 %** de puja, sin pasar el techo de §3a.
+3. Keyword con **< 100 impresiones en 3 días** → **+0,10** (no entra a la subasta).
+4. Término nuevo que vendió en DESCUBRIR o en las automáticas → graduar (§3b).
+5. EMPUJE: si una keyword sube ≥ 10 puestos orgánicos, se mantiene la puja aunque el ACOS sea alto (dentro del techo de 50 %). Si en 7 días no sube nada, se baja al nivel de la regla.
 
 **Una vez por semana (lunes):**
 - Keyword con **≥ 15 clics y ACOS > 80 %** → **−20 %** o pausar.

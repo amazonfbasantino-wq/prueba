@@ -13,9 +13,10 @@
 | `estrategia-ticket-2pack.md` | Promo "compra 2" vs 2-pack ASIN, números, logística, proyección de stock Q4 |
 | `resumen-tarjeta.md` | Cargos de Amazon a la tarjeta del tío (995,63 USD, 25-may→7-oct) y en qué se fue la plata |
 | `plan-octubre-expansion.md` | **Plan vigente de octubre:** expansión, presupuesto diario que se paga con las ventas, 5 campañas, rutina diaria, precio 14,99 → 13,99 → 9,99 (−33 %) |
+| `seguimiento-diario.csv` | Una fila por día: gasto, pedidos, TACOS, quema acumulada, puestos de las keywords de empuje, decisión |
 | `campanas-existentes-semaforo.md` | 🔴🟡🟢 qué hacer con cada campaña vieja (Marvin y SP-(N)) |
 | `campanas-octubre.csv` | 133 objetivos + 146 negativas (fuente) → `AVIE_OCT_bulk_carga.xlsx` para subir en Amazon Ads (exactas long-tail, rivales, ASIN, frase, automática de cosecha) |
-| `AVIE_OCT_bulk_carga.xlsx` · `scripts/generar_bulk.py` | Archivo masivo de Amazon Ads (301 filas) y el script que lo arma desde el CSV |
+| `AVIE_OCT_bulk_carga.xlsx` · `scripts/generar_bulk.py` | Archivo masivo de Amazon Ads (305 filas, 7 campañas) y el script que lo arma desde el CSV (`AVIE_OCT_bulk_empuje_ex.xlsx` = sólo EMPUJE) |
 | `plan-q4-pulsos.md` | Plan de pulsos de 8 días (nov-dic o vuelta atrás si octubre falla) |
 | `ppc.md` | Plan anterior de 900 USD/mes (versiones A/B) y reglas de PPC heredadas |
 | `competencia.md` | Los 9 ASINs rivales, los dos mercados, a quién atacar |
@@ -75,11 +76,11 @@
 ## Objetivo declarado (2026-09-16)
 Vender el máximo **por vía orgánica**, a precio **> 14,99 USD**, subiendo de a poco. Límite **31-dic-2026**.
 - **Octubre = expansión** (decisión de Santi 2026-10-08): se aceptan quemar unidades y margen para posicionarse; los ads se pagan con lo que entra de los pedidos → `plan-octubre-expansion.md`.
-- Presupuesto ads: **piso 500 USD/mes con la tarjeta; sin tope si el ROAS lo paga desde el saldo** (regla de escala en `analisis-2026-10-08.md` §5). (Antes: 900 USD en octubre.)
+- Presupuesto ads: **escalera 20 → 60 → 90 → 126 USD/día según TACOS de 3 días** (≤ 55 % = las ventas pagan la publicidad); colchón de la tarjeta 500/mes; tope de quema 3.460 USD (400 uds) → `plan-octubre-expansion.md` §2.
 - Señal de victoria del dueño: 50 uds/día nov · 80-100/día Navidad · 2.000 uds dic · TACOS 5 % dic.
 - **Acta de discrepancia (vigente):** con 900 USD en oct, el análisis proyecta **≈1.380 uds en Q4**, TACOS 25-30 %, ≈2.400 uds en stock al 31-dic, cierre real ~31-mar-2027.
 - **Ángulo:** REGALO FEMENINO (62 kw · 74.747 búsq./mes · nadie en el nicho lo trabaja).
-- **Revisión fija: LUNES, 45-60 min.**
+- **Revisión: cada 24 h en octubre** (Santi manda el informe de términos de búsqueda, las ventas totales y el Keyword Tracker; §4 del plan). Lunes: revisión semanal.
 
 ## Reglas propias de AVIE
 - Título ≤ 74 caracteres (si no, Amazon oculta el "Destacado del artículo").

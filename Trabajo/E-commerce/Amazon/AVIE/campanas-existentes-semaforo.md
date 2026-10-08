@@ -25,10 +25,10 @@
 | 🟡 `SP-(LooseMatch)` | Perdía plata | **Dejar pausada.** La reemplaza `AVIE_OCT_AUTO_COSECHA`: amplia a 0,40 con 146 negativas y freno de 25 USD sin venta |
 
 ## 🟢 Aplicar (archivo `AVIE_OCT_bulk_carga.xlsx`, 301 filas)
-`AVIE_OCT_PROBADAS_EX` 8 · `AVIE_OCT_QUICKWIN_EX` 7 · `AVIE_OCT_RIVALES_EX` 2 · `AVIE_OCT_ASIN` 3 · `AVIE_OCT_DESCUBRIR_PH` 2 · `AVIE_OCT_AUTO_COSECHA` 3 → **25 USD/día + 5 de las dos autos viejas = 30 USD/día**.
+`AVIE_OCT_EMPUJE_EX` 20 · `AVIE_OCT_PROBADAS_EX` 12 · `AVIE_OCT_QUICKWIN_EX` 10 · `AVIE_OCT_RIVALES_EX` 3 · `AVIE_OCT_ASIN` 4 · `AVIE_OCT_DESCUBRIR_PH` 3 · `AVIE_OCT_AUTO_COSECHA` 3 → **55 USD/día + 5 de las dos autos viejas = 60 USD/día (nivel 1)**. Si ya se subió la versión anterior del bulk: subir sólo `AVIE_OCT_bulk_empuje_ex.xlsx`, pausar en PROBADAS `gua sha brush`, `guasha brush for face`, `guasha brush`, `gua sha brush for face`, y en RIVALES `contour glow brush`, `contour glow face brush`, `contour glow brush for face`, y llevar los presupuestos a los del nivel 1.
 
-## 🔴 Presupuesto propuesto por Marvin: 126 USD/día → NO
-126 USD/día son 3.780 por mes: 7 veces el límite de la tarjeta (500/mes). Hoy entran ~20 USD/día por ventas (2,3 pedidos × 8,65). La regla vigente (`plan-octubre-expansion.md` §2) es: **pedidos de ayer × 8,65 − 5**, con piso 20 y techo 45.
+## 🟡 Presupuesto de Marvin (126 USD/día): no de entrada, sí como techo
+Corrección del 08-oct tras la objeción de Santi: los 126 USD/día quedan como **nivel 3 (techo)** de una escalera que arranca en **60** y sube sólo si el TACOS de 3 días queda ≤ 55 %, es decir, si lo que paga Amazon por las ventas cubre la publicidad (`plan-octubre-expansion.md` §2). Tope de quema: 3.460 USD (400 unidades).
 
 ## Orden para hacerlo (15 minutos)
 1. Pausar las 4 🔴 de Marvin (y cualquier otra activa en MARVIN1 o Pink).
