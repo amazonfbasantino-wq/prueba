@@ -6,6 +6,11 @@
 - **Retenido: ~US$ 3.000.** Sin deuda (según Santi).
 - Objetivo real: **abrir una cuenta a nombre de la LLC (50% Santi / 50% socio)**. Recuperar DecoHOUSE para vender no es prioridad.
 
+## Cuentas relacionadas caídas (dicho por Santi, 2026-10-08)
+- Además de DecoHOUSE, Amazon bloqueó las cuentas de: socios, un amigo, la novia, la mamá, la hermana y un amigo estadounidense. **Faltan detalles** (titular, fecha, motivo citado, qué vendía cada una, si Santi las operaba).
+- **INFERENCIA:** es la política de cuentas relacionadas. Cada cuenta que cae vinculada a Santi suma al expediente como **evasión de la suspensión**, lo que baja más la chance de reinstalar DecoHOUSE.
+- **Pendiente de confirmar:** ¿Beauty Michele y KINAVARGAS siguen activas o están entre las bloqueadas? (el vault las da como activas)
+
 ## Diagnóstico
 - **HECHO:** 5 rechazos de apelación (feb → may 2026). Amazon: la conducta evasiva no tiene camino de reinstalación salvo prueba de cumplimiento.
 - **HECHO (política de Amazon):** quien tiene una cuenta desactivada no puede abrir otra. La LLC tiene que declarar a todo beneficiario final con ≥25% → Santi (50%) aparece con su ID → Amazon la vincula con DecoHOUSE y la desactiva (y retiene sus fondos).
@@ -34,6 +39,15 @@
 3. **Enero 2027** (con KINAVARGAS ya vacía): mandar apelación + pedido de desembolso. Las dos revisiones pueden mirar "todas las cuentas relacionadas"; esperar 3 meses cuesta poco (los US$ 3.000 no vencen) y protege ~US$ 17.800 de Reflex.
    - Si Santi prefiere no esperar por la LLC: decisión suya, sabiendo el riesgo para KINAVARGAS.
 4. Recién con DecoHOUSE reinstalada: abrir la cuenta de la LLC declarando a los dos socios.
+
+## Plan para reinstalar (máxima chance, sin atajos)
+1. **Congelar todo:** ninguna cuenta nueva a nombre de nadie, TerpTech fuera de todas. Cada intento nuevo empeora el expediente.
+2. **Inventario de hechos:** tabla de las 7 cuentas caídas (titular, apertura, bloqueo, motivo citado, productos, quién la operaba).
+3. **Llamar a Account Health desde el Seller Central de DecoHOUSE** y preguntar qué exactamente necesitan ver. Anotar nombre del agente y fecha.
+4. **Una sola apelación completa** (`apelacion.md`): producto prohibido + categoría evasiva + reconocer las cuentas relacionadas y comprometerse a operar una sola cuenta. Con pruebas.
+5. Si la rechazan: una escalación ejecutiva (Amazon tiene un equipo de Executive Seller Relations; el canal conocido es jeff@amazon.com) con el mismo POA, una vez.
+6. Si tampoco: consulta con un abogado de EE.UU. especializado en suspensiones de Amazon (cláusula de disputas del BSA). Evaluar costo contra US$ 3.000 + el valor de poder volver a vender.
+- Expectativa honesta: chance baja (vape + "evasivo" + varias cuentas relacionadas). El tiempo sola no la mejora: Amazon no tiene vencimiento para estas sanciones.
 
 ## Texto listo para pedir el desembolso (no enviado)
 Para: disbursement-appeals@amazon.com · desde el email de la cuenta (cemar4025)
@@ -65,5 +79,6 @@ Para: disbursement-appeals@amazon.com · desde el email de la cuenta (cemar4025)
 
 
 ## Historial
+- 2026-10-08 · Santi: también cayeron las cuentas de socios, amigo, novia, mamá, hermana y un amigo de EE.UU. Prioridad declarada: reinstalar DecoHOUSE aunque no sea para vender. Plan de máxima chance → sección "Plan para reinstalar".
 - 2026-10-08 · Santi confirma US$ 3.000 retenidos y sin deuda; objetivo = cuenta de la LLC → se concluye que hace falta reinstalar. Se detecta la señal AK0H81VYQPLMY / TerpTech activo en sep-2026.
 - 2026-10-08 · Carpeta creada a partir del Gmail principal: cronología, motivo, avisos de deuda (oct-2026) y texto de desembolso.
