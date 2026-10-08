@@ -12,8 +12,9 @@
 | `analisis-2026-10-08.md` | Economía real, caja por mes, PPC 7 días, regla de escala, meta realista de octubre |
 | `estrategia-ticket-2pack.md` | Promo "compra 2" vs 2-pack ASIN, números, logística, proyección de stock Q4 |
 | `resumen-tarjeta.md` | Cargos de Amazon a la tarjeta del tío (995,63 USD, 25-may→7-oct) y en qué se fue la plata |
-| `plan-octubre-expansion.md` | **Plan vigente de octubre:** expansión, presupuesto diario que se paga con las ventas, 5 campañas, rutina diaria, prueba a 12,99 |
-| `campanas-octubre.csv` | 118 objetivos + 124 negativas listos para cargar (exactas long-tail, rivales, ASIN, frase, automática de cosecha) |
+| `plan-octubre-expansion.md` | **Plan vigente de octubre:** expansión, presupuesto diario que se paga con las ventas, 5 campañas, rutina diaria, precio 14,99 → 13,99 → 9,99 (−33 %) |
+| `campanas-octubre.csv` | 117 objetivos + 123 negativas (fuente) → `AVIE_OCT_bulk_carga.xlsx` para subir en Amazon Ads (exactas long-tail, rivales, ASIN, frase, automática de cosecha) |
+| `AVIE_OCT_bulk_carga.xlsx` · `scripts/generar_bulk.py` | Archivo masivo de Amazon Ads (259 filas) y el script que lo arma desde el CSV |
 | `plan-q4-pulsos.md` | Plan de pulsos de 8 días (nov-dic o vuelta atrás si octubre falla) |
 | `ppc.md` | Plan anterior de 900 USD/mes (versiones A/B) y reglas de PPC heredadas |
 | `competencia.md` | Los 9 ASINs rivales, los dos mercados, a quién atacar |

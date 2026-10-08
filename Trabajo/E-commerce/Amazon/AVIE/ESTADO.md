@@ -13,20 +13,16 @@ Beauty Michele entra en **modo salida**: vender el stock de AVIE hasta que se ac
 - Gmail de Beauty Michele: el conector Gmail de esta sesión falló (auth). Prioridad igual: reportes de Seller Central > mails.
 
 ## TAREA EN CURSO
-**Octubre = expansión (decisión de Santi 2026-10-08).** Plan → `plan-octubre-expansion.md` · campañas listas → `campanas-octubre.csv` (6 campañas, 118 objetivos + 124 negativas: 17 probadas, 54 long-tail con poca competencia donde AVIE ya rankea #42-110, 35 marcas rivales y errores de tipeo, 3 ASIN, 5 de descubrimiento, automática de cosecha con 4 grupos).
-- Presupuesto diario = pedidos de ayer × pago por pedido − 5 (piso 20, techo 45). Freno: saldo negativo → piso.
-- Precio de prueba **12,99 del 9 al 15-oct**; el 16-oct se compara contra 14,99. Zona muerta 10-11,80.
-- **Datos que faltan (en orden):** (1) **archivo masivo (bulk) de Amazon Ads** → con eso se genera el archivo de carga de las 6 campañas en un paso y se ve qué hacen las de Marvin; (2) informe de **términos de búsqueda 30 días con fechas**; (3) **texto actual del listing** (título, bullets, términos de búsqueda del backend) que dejó Marvin; (4) Business Report 30 días por ASIN; (5) stock FBA exacto hoy; (6) keyword del Amazon's Choice; (7) OK precio 12,99.
-- **Siguiente paso:** Santi carga las campañas (con OK puntual) y pausa las de Marvin que se pisan → al día siguiente sube el informe de términos de búsqueda de las campañas nuevas y se hace la rutina diaria (§4).
+**Octubre = expansión (decisión de Santi 2026-10-08).** Plan → `plan-octubre-expansion.md` · campañas listas → `campanas-octubre.csv` (6 campañas, 117 objetivos + 123 negativas: 17 probadas, 54 long-tail con poca competencia donde AVIE ya rankea #42-110, 34 marcas rivales y errores de tipeo, 3 ASIN, 5 de descubrimiento, automática de cosecha con 4 grupos).
+- **OK de Santi (2026-10-08) para cargar las campañas de octubre.** Archivo: `AVIE_OCT_bulk_carga.xlsx` (Santi lo sube en Amazon Ads → Masivo; fecha de inicio 9-oct). Al subir: crear el portfolio "AVIE OCT" y meterlas ahí; pausar las campañas de los portfolios "Avie Lymph Drain Pink" y MARVIN1 (se pisan con las nuevas).
+- **Precio (decisión de Santi):** 14,99 ahora → 13,99 si el 16-oct hay < 4 pedidos/día y CVR de ads < 8 % → 9,99 con −33 % tachado cuando esté posicionado. El −33 % sólo aparece cuando la mediana de los últimos 90 días sea 14,99 (≈ mediados de nov). No bajar el precio por pocos días.
+- Presupuesto diario = pedidos de ayer × 8,65 − 5 (piso 20, techo 45). Freno: saldo negativo → piso.
+- **Rutina:** Santi manda el informe de términos de búsqueda de las campañas nuevas (OK dado) → cosecha y negativas según `plan-octubre-expansion.md` §3b y §4.
+- **Datos que faltan (en orden):** (1) **descarga del archivo masivo actual de Amazon Ads** → para ver qué hacen las campañas de Marvin (no hace falta para subir las nuevas); (2) informe de **términos de búsqueda 30 días con fechas**; (3) **texto actual del listing** (título, bullets, términos de búsqueda del backend) que dejó Marvin; (4) Business Report 30 días por ASIN; (5) stock FBA exacto hoy; (6) keyword del Amazon's Choice; (7) ~~OK precio~~ → resuelto: 14,99.
 - Siguen pendientes: OK para "compra 2" 10 % + límite 30 (`estrategia-ticket-2pack.md`), decisión 2-pack antes del 15-oct, resumen de la tarjeta para cruzar (`resumen-tarjeta.md`).
 
-## ⚠️ Primero: datos que faltan (las fechas duras ya pasaron)
-Al 06-oct no hay registro de que se haya ejecutado nada. Antes de cualquier análisis, confirmar:
-1. **Precio real hoy** (¿se subió a 16,99 el 1-oct? ¿sigue en 9,99 o 12,99?) → define break-even 30,9 % vs 49,1 %.
-2. ¿Se publicó **imagen principal nueva + título v3** (límite era 30-sep)?
-3. ¿Se lanzaron campañas de octubre? ¿Versión A o B? ¿Cuánto se gastó del 1 al 6-oct?
-4. Stock FBA actual y ventas de los últimos 30 días.
-5. ¿A+ Premium aprobado y alt text cargado? ¿Estado del IP Accelerator?
+## Datos del 06-oct (resueltos el 08-oct)
+Precio hoy **14,99** · campañas de octubre las armó Marvin (ads 7 días: 158,48 USD, ACOS 151 %) · ventas 30 días: 69 pedidos. Siguen abiertos: imagen principal y título actuales (pedir el texto del listing), stock FBA exacto, estado del A+ y del IP Accelerator.
 
 ## Orden de ejecución pendiente (no ejecutar sin OK puntual de Santi)
 1. **Precio a 16,99** — sin esto, cada dólar de PPC financia pérdida.
@@ -50,6 +46,7 @@ Tocar el nodo · meter marcas ajenas en backend · reestructurar campañas antes
 El problema de AVIE no es el PPC: es **precio + existencia**. A 9,99 sólo 2 de 18 términos son rentables y el producto es invisible (0,34 % del volumen en top 50). Q4 regalo es la única ventana del año para rotar 10.805 USD de stock parado a precio alto. Cada semana de octubre sin precio 16,99 + imagen + título es Q4 perdido, no postergado.
 
 ## Historial
+- 2026-10-08 · Precio queda en 14,99 (plan B 13,99, después 9,99 con −33 %). OK para cargar campañas → archivo masivo `AVIE_OCT_bulk_carga.xlsx` generado.
 - 2026-10-08 · Campaña automática de cosecha (4 grupos, 124 negativas, ciclo de graduación a exacta) agregada al plan de octubre.
 - 2026-10-08 · Santi define octubre = expansión. Keywords long-tail con poca competencia (Cerebro) → 5 campañas listas, rutina diaria, presupuesto que se paga solo, análisis de pago por precio (9,99 → 5,95; zona muerta 10-11,80).
 - 2026-10-08 · Análisis compra 2 / 2-pack, resumen de la tarjeta para el tío, proyección Q4 ≈1.000-1.400 uds.
