@@ -107,3 +107,8 @@ Descripción larga, A+ Content y backend keywords: `UNKNOWN` (no capturados).
 2. Certificados: FCC, CE, RoHS, UN38.3, MSDS/SDS de la batería de litio → pedir a la fábrica.
 3. Fotos originales en alta resolución de la galería (las 7 + el video): hoy solo hay capturas de pantalla.
 4. Texto completo del 5.º bullet y de la descripción, y más reviews positivas (se pueden capturar desde la página de reviews del ASIN si sigue pública).
+
+## 11. Recuperar las reviews de Amazon (2026-10-08)
+- Amazon no tiene una API pública que devuelva el texto de las reviews, y con el listing suprimido ya no se ven en la web.
+- Formas de recuperarlas: (1) **Wayback Machine** desde el navegador de Santi: `web.archive.org/web/*/amazon.com/*B0F9SXP5MW*` (desde la sesión en la nube está bloqueado); (2) capturas viejas en la compu o en el vault de Obsidian; (3) herramientas que haya usado (Helium 10, Jungle Scout, Keepa, ZIK) pueden tener guardado el historial de rating y reviews.
+- Hoy la única review con texto guardada es la de Reo Clark (5★). Con 4–5 más, el catálogo y los mails mejoran mucho.

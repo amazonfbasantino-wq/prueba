@@ -71,7 +71,7 @@ Totally fair. Most shops we talk to already carry Lookah or Ooze. The reason the
 
 ## R5 — Objeción "muy caro"
 Understood. What are you paying now for character batteries? If the case price is the blocker, I can look at a 2-case price.
-→ Escalar a Santi: el piso es $11 por caja y $9,50 desde 500 u.
+→ Antes de bajar: preguntar a cuánto venden su Lookah Bear / Ooze Hoot y comparar contra ESA (ver `../canales.md` › Precio según cliente). Pisos: $11 caja · $9,50 desde 500 u · $8,50 lote. Escalar a Santi.
 
 ## R6 — Después de la muestra (día 5 desde la entrega)
 Hey {Name}, did you get a chance to test it? Most people notice the battery life first. If it passed your test, I can ship a mixed-color case of 50 this week.

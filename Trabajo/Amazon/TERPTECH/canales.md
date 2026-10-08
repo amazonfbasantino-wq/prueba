@@ -274,3 +274,39 @@ Fuentes: UPS daily rates 2026 (1 lb) y atoship.com (5 y 10 lb). Caja de 50 ≈ 8
 dentro de EE.UU. FedEx tampoco. DHL acepta sólo envíos entre empresas **con aprobación previa**. USPS sólo entre empresas con
 "mailing exception" aprobada. Los números sirven para presupuestar: un courier habilitado debería estar en un rango
 parecido o algo más caro. **El bloqueo sigue siendo encontrar un courier habilitado** (preguntar a Skytrader o pedir aprobación a DHL).
+
+## Precio según cliente y cantidad + referencia de la competencia (2026-10-08)
+
+Regla de Santi: el precio depende del cliente y de la cantidad, y **siempre hay que tener de referencia a cuánto vende la tienda
+los Yocan, Lookah, etc.** Si vende baterías a $10 al público, no se le compite por precio: se le explica por qué TerpTech es premium.
+
+**Precios de venta al público de la competencia** (HECHO: listados públicos, oct-2026):
+| Batería | Precio al público | Posición |
+|---|---|---|
+| Lookah Bear (personaje) | $19,99–40 | **Competidor directo** (novelty premium) |
+| Ooze Hoot / Duet | $19,99–24,99 | novelty / premium |
+| Ooze Digit / HILO | $11,99–12,99 | básica |
+| Yocan Kodo Pro | $14–16 | básica con display |
+| **TerpTech** | **$24,99 sugerido** | novelty premium, igual que Lookah Bear |
+
+INFERENCIA: el mayorista suele pagar ~40–50% del precio al público ("keystone"). Lookah Bear ≈ $9–14 al por mayor,
+Kodo Pro ≈ $6–8. TerpTech a $12 la caja está en la franja del Lookah Bear, no en la de las básicas.
+`DATO FALTANTE:` precio mayorista real de Lookah/Ooze. Se consigue preguntándole a cada tienda en la calificación (pregunta 1).
+
+**Cómo responder si dicen "es caro" o "yo vendo baterías a $10":**
+1. Preguntar a cuánto venden su batería más cara con personaje (Lookah Bear, Ooze Hoot).
+2. Comparar contra ESA, no contra la básica: más mAh (650), display en la boca, personaje coleccionable, 2,9% de devoluciones.
+3. Margen: compran a $12 y venden a $24,99 → duplican.
+4. Recién ahí bajar por cantidad, nunca de entrada.
+
+**Pisos (no se escriben en el primer mensaje):** caja de 50 → $11 · 500+ → $9,50 · lote completo → $8,50.
+
+⚠️ No decir "anti-caídas" ni "drop-proof" hasta confirmarlo (cuerpo de silicona = HIPÓTESIS). Si es cierto, es un gran argumento.
+
+## Facturación y cobro (2026-10-08)
+- Un comprador B2B necesita **factura (invoice) a nombre de una empresa** y suele pagar por transferencia ACH o wire a una cuenta que coincida con ese nombre.
+- **Recomendado:** facturar desde la LLC de Santi y registrar "TerpTech" como **nombre comercial (fictitious name / DBA)** en Sunbiz (Florida, ~$50). Así la factura dice "<LLC> d/b/a TerpTech" y todo coincide.
+- **Cobros grandes (cajas o lotes):** a la cuenta de la LLC, o a **Payoneer si la cuenta es de la LLC** (permite pedir pagos con ACH de EE.UU.).
+- **Cobros chicos (envío de muestras, ~$15):** Global66 o DolarApp sirven, pero si son cuentas personales el nombre no coincide con la factura. Para cajas, mejor la cuenta de la LLC.
+- **Certificado de reventa:** pedirle a cada comprador su resale certificate (los mayoristas no pagan impuesto a las ventas). Confirmar con el contador si la LLC tiene que registrarse para sales tax en Florida y si algún estado cobra impuestos especiales a las baterías de vapeo.
+- `DATO FALTANTE:` nombre exacto de la LLC de Miami, EIN y qué cuentas están a su nombre.
