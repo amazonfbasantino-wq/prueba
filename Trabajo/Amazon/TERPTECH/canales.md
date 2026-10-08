@@ -231,3 +231,25 @@ Presupuesto sugerido: 30 muestras ≈ $400–450, sólo para tiendas calificadas
 ⚠️ **Deuda con Skytrader:** el chat muestra "Total adeudado: $1225" y un recordatorio de Max sobre el saldo pendiente
 ("que NO repitamos lo de la última vez"). INFERENCIA: si no se paga, el 3PL puede frenar despachos o retener stock
 justo cuando empiecen las ventas. Cancelarlo (o acordar un plan de pago) antes del primer pedido.
+
+## Envío desde Miami: estimación por destino (2026-10-08)
+
+**Todo HIPÓTESIS.** El peso y las medidas son `UNKNOWN` y el courier de Skytrader no está confirmado. Se usan como referencia
+las tarifas comerciales terrestres públicas por zona. Un courier que acepte productos de vapeo puede costar igual o más.
+Supuestos: 1 u en su caja ≈ 120 g · caja de 50 u ≈ 7–9 lb · pallet ≈ 1.500–2.500 u.
+
+| Destino desde Miami | Zona aprox. | Muestra (1 u) | Caja de 50 u | Por unidad (caja) | Pallet LTL |
+|---|---|---|---|---|---|
+| Florida | 2 | $8–10 | $12–15 | $0,25–0,30 | $100–200 |
+| GA, Carolinas, AL, TN | 3–4 | $9–11 | $14–18 | $0,28–0,36 | $150–250 |
+| TX, Midwest, Noreste (NY/NJ) | 5–6 | $10–12 | $17–22 | $0,34–0,44 | $200–350 |
+| Oeste (CA, AZ, NV, WA) | 7–8 | $12–15 | $22–28 | $0,44–0,56 | $300–500 |
+
+Lectura: **el envío de una caja pesa entre $0,25 y $0,56 por unidad.** A $12/u la ganancia pasa de $5 a ~$4,45–4,75/u.
+Ofrecer **envío gratis en la caja** cuesta poco y saca una objeción. Conviene ponerlo en la oferta.
+Muestra completa (unidad $7 + despacho $1,50 + envío) ≈ **$16,50–23,50**. Por eso sólo va a tiendas calificadas.
+
+Ganancia por caja de 50 a $12 (−$7 costo, −$1,50 despacho, −envío):
+- Florida: ≈ $233–236 · Texas/Noreste: ≈ $226–231 · California: ≈ $220–226
+
+Para confirmar con Skytrader: peso y medidas de 1 u y de la caja master, courier, y una cotización real a 3 destinos (FL, TX, CA).
