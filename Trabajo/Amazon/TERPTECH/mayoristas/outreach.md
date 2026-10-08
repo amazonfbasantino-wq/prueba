@@ -137,3 +137,7 @@ Falta completar `[business address]` en la firma antes de enviarlos.
 | 2026-10-08 | 10 primeros contactos (T1), **tanda Florida** | NWG, Smoke Shop Plus, LB Smoke Shop (Miami, con retiro local), Lifted (8 locales), Elite Vape, Sunshine Smoke, iSmokee, Puff Stuff (Orlando), Rapture Vapor, Harbor City Hemp | enviados |
 
 Prioridad de Santi (2026-10-08): **arrancar por las zonas cercanas al stock** (Florida primero, después el sudeste).
+| 2026-10-08 | 10 primeros contactos (T1) | Smokerolla, Human Sucks, SMOKEA, Inline Vape, Waterbeds 'n' Stuff (13 locales OH), Angie's Boutique, BOOM Headshop, OLOFLY, Huff and Puffers, Midtown Direct | enviados |
+
+**Total del 2026-10-08: 50 mails** (10 seguimientos + 40 primeros contactos). Tope recomendado por día para esta casilla: ~50.
+**Contactados en agosto:** cargados en `leads.csv` con toques=1. A partir del 2026-10-11 reciben un **mail nuevo en hilo nuevo** (pedido de Santi: el primer contacto de agosto fue malo). Excluidos a propósito: Yocan, Ooze, Hamilton (son marcas competidoras), World of Bongs (UE + dropship) y Boost (rebotó).
