@@ -141,3 +141,9 @@ Prioridad de Santi (2026-10-08): **arrancar por las zonas cercanas al stock** (F
 
 **Total del 2026-10-08: 50 mails** (10 seguimientos + 40 primeros contactos). Tope recomendado por día para esta casilla: ~50.
 **Contactados en agosto:** cargados en `leads.csv` con toques=1. A partir del 2026-10-11 reciben un **mail nuevo en hilo nuevo** (pedido de Santi: el primer contacto de agosto fue malo). Excluidos a propósito: Yocan, Ooze, Hamilton (son marcas competidoras), World of Bongs (UE + dropship) y Boost (rebotó).
+| 2026-10-08 (11:30 ET) | **1.ª respuesta real: NEPA Wholesale** derivó a Basant K Sah (Purchasing Manager, Basant.sah@nepawholesale.com, (561) 345-5227) | Mail directo a Basant, citando a Suraj | enviado · **lead caliente** |
+| 2026-10-08 | Rebotes (dirección inexistente) | iSmokee, LB Smoke Shop, KC Smoke Shop, IWS | marcados `rebote` |
+| 2026-10-08 | Respuestas automáticas (tickets) | Discreet Smoker ("un humano responde en 1 día hábil"), Harbor City Hemp (#21715) | esperar |
+| 2026-10-08 | Últimos 12 de la lista (T1) | Platte Hemp, 520 Hemp, BattSkins, DankStop, Toker Supply, Glass Warehouse, Stoked, Shag, Badass Glass, Brothers With Glass, Aqua Lab, Thick Ass Glass | enviados |
+
+**Total del día: 63 mails.** Tasa de rebote 4/52 ≈ 8% (los emails salieron de búsquedas web sin verificar): con listas nuevas hay que verificar los emails antes de mandar.
