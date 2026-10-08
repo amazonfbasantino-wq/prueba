@@ -26,7 +26,7 @@ Most novelty 510 batteries are cute for a week and dead in a month. TerpTech is 
 
 It held **4.4★ across 80+ verified Amazon reviews** at ~$24 retail before it sold out there, so there's no marketplace price war undercutting you.
 
-If it sounds like a fit, **we can send you one free to test**. Just reply and tell me a bit about the shop.
+If it sounds like a fit, **we can send you a free unit to test** (you only cover shipping). Just reply and tell me a bit about the shop.
 
 {Your name}
 TerpTech · {email}
@@ -56,7 +56,7 @@ So I can see if the free test unit makes sense: **how many locations do you have
 
 ## R2 — Respondió con datos (2.ª respuesta → puntuar)
 **Si puntaje ≥ 6 → `calificado`:**
-Perfect, {Store} is exactly who we want carrying these. Let's get you a free unit to test. What's the best **business address** and contact name for the shipment? And do you have a resale license on file?
+Perfect, {Store} is exactly who we want carrying these. The test unit is on us; you just cover shipping from Miami (about ${envio}), and **we credit that back on your first case**. What's the best **business address** and contact name? And do you have a resale license on file?
 
 **Si puntaje < 6 → seguir calificando sin ofrecer muestra todavía:**
 Thanks, super helpful. Which brands are you buying in novelty right now, and at what price? I want to make sure our case price works for you.

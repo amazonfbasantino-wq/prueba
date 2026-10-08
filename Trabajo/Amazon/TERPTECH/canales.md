@@ -253,3 +253,9 @@ Ganancia por caja de 50 a $12 (−$7 costo, −$1,50 despacho, −envío):
 - Florida: ≈ $233–236 · Texas/Noreste: ≈ $226–231 · California: ≈ $220–226
 
 Para confirmar con Skytrader: peso y medidas de 1 u y de la caja master, courier, y una cotización real a 3 destinos (FL, TX, CA).
+
+**Decisión de Santi (2026-10-08): el envío de la muestra lo paga quien la pide.** La unidad es gratis.
+- Costo para TerpTech por muestra: $7 + $1,50 = **$8,50**. 30 muestras ≈ $255.
+- Además sirve de filtro: el que paga $8–15 de envío está interesado en serio.
+- Para que no se caigan por eso: **el envío pagado se descuenta del primer pedido de una caja.** Ya está en las plantillas T1 y R2.
+- Cobro: link de pago antes del despacho (medio de pago a definir).
