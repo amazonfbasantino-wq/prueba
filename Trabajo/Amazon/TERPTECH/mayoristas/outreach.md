@@ -127,3 +127,9 @@ sólo color naranja), LLC en EE.UU. para facturar.
 
 **2026-10-08: 10 borradores de seguimiento creados** en Gmail (tiendas y Mi-Pod), cortos, con emoción + muestra gratis como gancho + 1 pregunta.
 Falta completar `[business address]` en la firma antes de enviarlos.
+
+## 8. Bitácora de envíos
+| Fecha | Qué | A quién | Resultado |
+|---|---|---|---|
+| 2026-10-08 | 10 seguimientos (toque 2, mismo hilo de agosto) | Discreet Smoker, Smoke Cartel, Everything 420, Up-N-Smoke, Smoke Tokes, KINGs Pipe, Vape Batt, Avernic, Mind Vapes, Mi-Pod Wholesale | enviados |
+| 2026-10-08 | **Test: 10 primeros contactos (T1)** | 8 distribuidores (NEPA, SW Distro, IWS, Tokers Hub, Demand Vape, Midwest Goods, Greenlane, Got Vape Wholesale) + Smoker Friendly (canal de proveedores) + Discount Vape Pen | enviados · medir respuestas a 48–72 h |
