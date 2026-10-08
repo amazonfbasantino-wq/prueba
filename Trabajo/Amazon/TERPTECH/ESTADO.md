@@ -10,14 +10,14 @@
 - **Decisión 2026-10-08: Shopify DTC descartado.** Shopify prohíbe la categoría vape, el PACT Act exige mucho para vender al consumidor y los transportistas no hacen la entrega final. Detalle en `canales.md`.
 
 ## Qué sigue (en orden)
-1. Santi confirma el nombre del 3PL.
-2. Preguntar al 3PL si despacha productos de vapeo B2B (caja/pallet, LTL).
+1. 3PL = **Skytrader USA** (Miami). Preguntarle: ¿despacha B2B por caja o pallet (LTL)? ¿hace kitting? ¿se integra con Shopify?
+2. Santi confirma si la caja de TerpTech trae punta de soldar (define si es viable el modelo BatteryMods).
 3. Corregir el line sheet: foto real, contacto y **precios nuevos** (el "Full lot $6–8" actual está por debajo del costo).
 4. Armar web vidriera B2B (catálogo + wholesale inquiry, sin checkout).
 5. Armar una lista de smoke shops y distribuidores en EE.UU. (empezar por el sur de Florida, cerca del stock) y redactar el mensaje de contacto.
 6. Pedir a la fábrica UN38.3 y MSDS.
 
 ## Qué NO hacer
-- No abrir tienda DTC (ni Shopify ni otra) mientras quede stock para mayoristas.
+- No abrir tienda DTC posicionada como vape/cartuchos. Prueba DTC sólo con el modelo BatteryMods (accesorio real en la caja, mensajes de herramienta) y con 300 u como máximo (ver `canales.md`).
 - No volver a publicarlo en Amazon como "soldering iron" ni bajo "Generic": es una categorización falsa y pone en riesgo la cuenta entera.
 - No usar USPS para ningún envío.

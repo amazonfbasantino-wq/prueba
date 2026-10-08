@@ -118,3 +118,47 @@ Margen del comprador: a $12 contra un MSRP de $24,99, el smoke shop duplica su i
 INFERENCIA: B es el mejor equilibrio. Las cajas sueltas a smoke shops validan el precio y sirven de prueba social para el
 distribuidor, y el distribuidor rota el grueso del stock. C queda como salida si en ~60 días no hay tracción.
 Referencia de demanda: en Amazon se vendían ~1.900 u/mes, así que el stock equivale a menos de 2 meses de esa demanda.
+
+## Anexo 2026-10-08 — Cómo lo hace BatteryMods (batterymods.com)
+
+Fuentes: snippets de búsqueda (el sitio no se pudo abrir desde la sesión). Separar HECHO / INFERENCIA.
+
+**HECHO**
+- Empresa familiar de Denver, CO. Su web dice vender "510 Threaded Rechargeable Batteries" y "Fun 510 Threaded Accessories".
+- Sus productos son **batería 510 + accesorio real en la caja**: "Versa 510 Soldering Iron Accessory with Mini Battery",
+  "Versa Soldering Iron Accessory with Palm Battery", "Versa Light Mini" (linterna).
+- En Amazon publica **con marca propia** ("BatteryMods Mini Rechargable Soldering Iron", "Palm Solder", "Versa Light")
+  en Tools & Home Improvement.
+- Web propia con envío gratis en EE.UU. por correo normal y entrega en ~1 semana. No aparece verificación de edad.
+
+**INFERENCIA**
+- La URL tipo `/collections/` y `/products/` sugiere Shopify.
+- La clave no es "camuflar": es que **el uso declarado es real**. El soldador viene en la caja, y la web, Amazon y el
+  packaging dicen lo mismo, sin mencionar nunca vape ni cartuchos. Por eso pueden usar correo normal, Shopify y Amazon.
+- Sigue siendo una **zona gris**: el comprador sabe para qué es una batería 510 y una plataforma puede reclasificarlo
+  en cualquier momento. Lo que los protege es que son consistentes en todos los canales.
+
+**Diferencias con TerpTech hoy**
+| | BatteryMods | TerpTech |
+|---|---|---|
+| Accesorio de herramienta en la caja | Sí (punta de soldar, linterna) | `UNKNOWN`: confirmar si la caja trae punta |
+| Marca | Propia, neutra ("Battery Mods", "Versa") | "Terp" remite a terpenos/cannabis, contradice "herramienta" |
+| Mensajes del listing | Sólo herramienta | Keywords "vape pen" y reviews "great for cartridges" |
+| Line sheet B2B | — | Dice "510-Thread **Cart** Battery" |
+
+**Qué haría falta para copiar el modelo de forma honesta**
+1. Que la caja traiga de verdad una punta de soldar 510 (y quizás un accesorio más). Kitting en el 3PL.
+2. Usar una marca o nombre de línea neutro para el canal herramienta. "TerpTech" queda para B2B smoke shops.
+3. Que el listing y la web hablen sólo de usos que el producto cumple (soldar, hobby, reparaciones), sin guiños a cartuchos.
+4. Aceptar el riesgo residual: puede caerse igual. **No usar la cuenta de Amazon principal para probarlo.**
+
+**Números DTC con posicionamiento herramienta (HIPÓTESIS):** $24,99 − costo $7 − punta + kitting ~$1,50 − comisiones ~$0,75
+− pick & pack ~$3 − envío ~$4,50 ≈ **$8 antes de publicidad**. Sólo supera al mayorista ($4–5/u, sin costo de captación)
+si **cada venta cuesta menos de ~$3–4 en anuncios**. Hay que probarlo, no suponerlo.
+
+**Decisión propuesta:** mayorista con ~3.000 u (caja rápida) + **prueba DTC con 300 u (100 por color)** con el modelo
+BatteryMods. Si en 4–6 semanas cada venta cuesta menos de $4 en anuncios, se escala con stock nuevo. Si no, esas 300 u
+también van a mayoristas.
+
+3PL: **Skytrader USA** (Miami). No aparece en búsquedas web. Preguntarle: ¿despacha B2B por caja o pallet (LTL)? ¿hace
+kitting? ¿se integra con Shopify? ¿acepta baterías de litio 510?
