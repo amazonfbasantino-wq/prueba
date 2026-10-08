@@ -16,7 +16,7 @@
 2b. Cotizar puntas de soldar 510 sueltas a la fábrica (costo + flete), por si la prueba DTC funciona y hay que armar kits con las 3.300.
 3. Corregir el line sheet: foto real, contacto y **precios nuevos** (el "Full lot $6–8" actual está por debajo del costo).
 4. Armar web vidriera B2B (catálogo + wholesale inquiry, sin checkout).
-5. Armar una lista de smoke shops y distribuidores en EE.UU. (empezar por el sur de Florida, cerca del stock) y redactar el mensaje de contacto.
+5. ✅ Lista de prospectos y kit de contacto armados (`mayoristas/`). **Pendiente de Santi:** pegar 1–2 mails viejos, decir a quién se mandaron y quién puede visitar smoke shops en Florida. **Próximo:** buscar el contacto de compras de los prospectos A y arrancar la secuencia.
 6. Pedir a la fábrica UN38.3 y MSDS.
 
 ## Qué NO hacer

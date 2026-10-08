@@ -10,5 +10,7 @@
 | `07_line_sheet_mayorista.pdf` | Line sheet B2B original |
 | `canales.md` | Análisis de canales: Shopify DTC descartado, B2B mayorista recomendado (2026-10-08) |
 | `ESTADO.md` | Dónde quedamos y qué sigue |
+| `mayoristas/outreach.md` | Diagnóstico, estrategia, oferta, secuencia de 4 mails (EN), guion para WhatsApp/llamada |
+| `mayoristas/prospectos.csv` | Lista de prospectos y seguimiento (estado, último contacto, próximo paso) |
 
 Stock y costo unitario sin confirmar (ver `ESTADO.md`). No inventarlos; preguntar a Santi.
