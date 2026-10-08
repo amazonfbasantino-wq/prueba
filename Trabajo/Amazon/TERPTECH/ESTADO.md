@@ -3,6 +3,7 @@
 **Última actualización:** 2026-10-08 (tarde)
 
 ## Dónde estamos
+- 🔴 **URGENTE: vender las 3.300 u antes del 31-dic-2026** (stock comprado con deuda). Plan y puntos de control: `canales.md` › Plan de liquidación.
 - Stock en el 3PL de Miami: **3.300 u (1.100 por color) sin punta de soldar adentro**, aunque la caja la muestra. Confirmado por Santi el 2026-10-08.
 - **+300 u devueltas (de Amazon) con punta de soldar.** Estado y colores sin revisar. Son las unidades para la prueba DTC.
 - Costo puesto en Miami: **máx. $7/u todo incluido** (incluye almacenaje hasta hoy; no incluye el flete al comprador). Capital inmovilizado: **≈ $23.100**.
@@ -30,5 +31,6 @@
 - ✅ `mayoristas/plantillas.md`: borrador con emoción + preguntas de calificación + criterio de muestra. **Pendiente: aprobación de Santi.**
 - ⛔ Automatizar envíos (skill/rutina que manda mails solos): **bloqueado por permisos de la sesión**. Necesita: (1) conectar la casilla de TerpTech como conector de Gmail; (2) que Santi apruebe las plantillas; (3) que Santi habilite el permiso de envío automático. Mientras tanto: borradores en Gmail que Santi envía.
 - Excepción explícita a la regla "nada de tareas programadas" para este frente, pedida por Santi.
-- Faltan: fuente de leads (~1.000 smoke shops con email), dirección postal para la firma (CAN-SPAM) y confirmar con Skytrader cómo envía muestras a comercios (transportista).
+- Fuente de leads: Google Maps → export (Outscraper/Apify) → `scripts/terptech_leads.py` → `mayoristas/leads.csv`.
+- Faltan: export de Google Maps (acción de Santi), dirección postal para la firma (CAN-SPAM), **transportista B2B de Skytrader** (bloqueo #1) y la tasa de la deuda.
 

@@ -177,3 +177,37 @@ HECHO (Santi): la caja dice "Mini Solder", muestra la punta impresa y trae instr
 Riesgo de las 300: son **devoluciones**. Inspeccionar y clasificar en cerradas/como nuevas (se venden como nuevas),
 abiertas (se venden como "open box" con descuento) y falladas (descarte). Recién ahí se sabe cuántas hay de verdad para la prueba.
 Stock total: **3.600 u** (3.300 + 300).
+
+## Plan de liquidación al 31-dic-2026 (decidido 2026-10-08)
+
+HECHO (Santi): stock comprado en enero 2026 **con deuda**. Objetivo: vender las 3.300 u antes del **31-dic-2026** para cancelarla.
+`DATO FALTANTE:` tasa y monto de la deuda. Sin eso no se puede calcular hasta qué precio conviene bajar para cobrar antes.
+
+### Cuenta del embudo (HIPÓTESIS, se recalibra con datos reales a las 2 semanas)
+| Canal | Volumen de contactos | Respuesta | Cierre | Unidades al 31-dic |
+|---|---|---|---|---|
+| Smoke shops, 1 casilla con subida gradual | ~1.000 | 3–8% | 25% de las respuestas → 1 caja | **400–1.000** |
+| Smoke shops, +4 casillas en un dominio secundario | ~3.000–4.000 | 3–8% | ídem | 1.200–3.000 |
+| Distribuidores y tiendas online grandes | 30–50 | 10–20% | 1–3 acuerdos | **500–2.300** |
+
+INFERENCIA: **con smoke shops solas no se llega al 31-dic.** Hacen falta distribuidores en paralelo desde el día 1, o más casillas.
+
+### Puntos de control (con fecha)
+| Fecha | Si se cumple | Si no se cumple |
+|---|---|---|
+| **1-nov** | ≥ 300 u vendidas o ≥ 2 distribuidores negociando | Distribuidor a $8,50 desde 500 u |
+| **20-nov** | ≥ 1.500 u vendidas | Lote restante a distribuidores y compradores de saldos desde $8 |
+| **10-dic** | Resto vendido | Liquidar el remanente al mejor precio (piso según tasa de la deuda) |
+
+### Bloqueo operativo #1: el transportista
+Despachar cajas sueltas a smoke shops de todo el país requiere un transportista que acepte productos de vapeo
+entre comercios (UPS y FedEx no). Preguntarle a **Skytrader** qué usa. Opciones: transportistas regionales, logística
+especializada en vapeo B2B, o retiro/LTL para distribuidores. **No declarar el envío como "soldador".**
+Si no se resuelve, el canal smoke-shop-nacional no funciona y todo va a distribuidores.
+
+### Fuente de leads
+Google Maps (smoke shop, tobacco shop, vape shop, head shop) en los 50 estados, exportado con una herramienta
+tipo Outscraper o Apify (unos pocos USD cada 1.000 resultados; trae web, teléfono y a veces email).
+`scripts/terptech_leads.py EXPORT.csv` limpia, saca duplicados y cerrados, puntúa popularidad (rating + reseñas)
+y arma `mayoristas/leads.csv` con tier A/B/C y el dato real para personalizar.
+Se empieza por el tier A (más populares = mejores candidatos a muestra).
