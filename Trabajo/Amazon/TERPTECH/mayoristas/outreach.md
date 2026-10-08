@@ -133,3 +133,7 @@ Falta completar `[business address]` en la firma antes de enviarlos.
 |---|---|---|---|
 | 2026-10-08 | 10 seguimientos (toque 2, mismo hilo de agosto) | Discreet Smoker, Smoke Cartel, Everything 420, Up-N-Smoke, Smoke Tokes, KINGs Pipe, Vape Batt, Avernic, Mind Vapes, Mi-Pod Wholesale | enviados |
 | 2026-10-08 | **Test: 10 primeros contactos (T1)** | 8 distribuidores (NEPA, SW Distro, IWS, Tokers Hub, Demand Vape, Midwest Goods, Greenlane, Got Vape Wholesale) + Smoker Friendly (canal de proveedores) + Discount Vape Pen | enviados · medir respuestas a 48–72 h |
+| 2026-10-08 | 10 primeros contactos (T1) | Tiendas online que ya venden baterías con personaje: Elyxr, ProCannabis, Nikk Drips, SnowTree, KC Smoke Shop, MyVpro, Fog Factory, 420Buy, Kush Cargo, RI-Ecig | enviados |
+| 2026-10-08 | 10 primeros contactos (T1), **tanda Florida** | NWG, Smoke Shop Plus, LB Smoke Shop (Miami, con retiro local), Lifted (8 locales), Elite Vape, Sunshine Smoke, iSmokee, Puff Stuff (Orlando), Rapture Vapor, Harbor City Hemp | enviados |
+
+Prioridad de Santi (2026-10-08): **arrancar por las zonas cercanas al stock** (Florida primero, después el sudeste).
