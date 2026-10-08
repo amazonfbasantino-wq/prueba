@@ -44,7 +44,7 @@ Para: disbursement-appeals@amazon.com · desde el email de la cuenta (cemar4025)
 >
 > My seller account DecoHOUSE was deactivated on February 8, 2026, and the 90-day settlement period has ended. I am requesting the disbursement of the remaining balance in the account.
 >
-> All customer orders have been fulfilled or refunded, and I have no open A-to-z claims that I am aware of. I accept the deactivation decision and I am not requesting reinstatement. I am available to provide identity verification, bank account ownership documents, or any other information you need to complete the review.
+> All customer orders have been fulfilled or refunded, and I have no open A-to-z claims that I am aware of. I am available to provide identity verification, bank account ownership documents, or any other information you need to complete the review.
 >
 > Thank you,
 > Santi Navarria
