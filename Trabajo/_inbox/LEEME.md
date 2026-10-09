@@ -3,6 +3,8 @@
 Acá caen los resúmenes (`TRASPASO_<tema>_<fecha>.md`) que genera cada chat viejo (Cowork / claude.ai / Code en la nube).
 Una sesión local de Claude Code los reparte en la carpeta que corresponde y después los borra de acá.
 
+`TODO_TRABAJO_<fecha>.md` **no es un traspaso**: es una foto de todo `Trabajo/` en un solo archivo (`python scripts/exportar_todo.py`), para leerlo donde no está el repo. No se reparte: su contenido ya está en las carpetas.
+
 ## Cómo se genera un traspaso
 En cada chat viejo, pegar el prompt de `PROMPT_TRASPASO.md`. Guardar la respuesta como archivo en esta carpeta.
 
