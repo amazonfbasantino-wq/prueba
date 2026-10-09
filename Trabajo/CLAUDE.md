@@ -21,7 +21,7 @@ Todo lo de venta online vive en **`E-commerce/`**. Un ecosistema = una carpeta.
 | `E-commerce/Etsy/` | Ecosistema Etsy | ⏳ falta el email de la tienda |
 | `E-commerce/Paginas-Web/` | Sitios (RapiPet y otros) | ⏳ migrar desde `02 Negocios/` del vault |
 | `_compartido/` | Lo transversal: `RESUMEN-SESION-2026-10-08.md` (Gmail, DecoHOUSE, LLC, E-commerce) | ✅ |
-| `_inbox/` | Notas importadas sin clasificar | vacío |
+| `_inbox/` | Traspasos de chats viejos a repartir (ver `_inbox/LEEME.md`) | 1 traspaso |
 
 Cada producto sigue la misma estructura: `CLAUDE.md` (lo estable) + `ESTADO.md` (dónde quedamos)
 + archivos temáticos (`listing.md`, `ppc.md`, `keywords.md`, `riesgos.md`, …) + `assets/`.
