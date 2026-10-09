@@ -61,6 +61,7 @@
 Ejecutar en Seller Central o Ads sin OK puntual · pausar automáticas · reestructurar campañas · usar el botón de IA de Amazon para "arreglar" el listing · declarar al seguro algo distinto de lo que dice la caja.
 
 ## Historial
+- 2026-10-09 · Revisado Gmail cemar4025 (últimos 60 d): es el mail de **DecoHOUSE**, no de KINAVARGAS. No hay avisos de Amazon de KINAVARGAS (seguro 02-nov, flag, ventas) ni reenvíos desde vargaseugenia82 (último mail de ella: 15-sep). El aviso del seguro hay que sacarlo de Seller Central o del Gmail de Eugenia.
 - 2026-10-09 · Leída la guía de Marvin (06-oct): pujas a 0,10, automáticas nuevas, Hot Dog Drop. Cruce con el corte del 02-nov en `plan-salida-2nov.md` §9. El CSV de Cerebro recibido es de Kitsch (AVIE), no de Reflex.
 - 2026-10-08 · Corte 02-nov + 3.700 u + meta 30k. Investigación del cambio de seguro de Amazon y del mercado (Walmart US$ 10,6–21,4). Plan A/B y escenarios en `plan-salida-2nov.md`. Nada ejecutado.
 - 2026-10-06 · Migrado a `AMAZON/REFLEX/` desde el vault PROYECTOS 100K (índice 17-sep + historia 19-sep) y el expediente de seguro (28-sep). Caja revisada: AGES 3+, batería interna.
