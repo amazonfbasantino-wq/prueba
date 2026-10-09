@@ -15,12 +15,12 @@ Cuando Santi diga "procesá el inbox":
 
 | Tema del chat | Carpeta destino |
 |---|---|
-| AVIE / MT Ball / Reflex / KINA / TerpTech (Amazon) | `Amazon/<PRODUCTO>/` |
-| Cuenta KINAVARGAS (seguro, casos, salud de cuenta) | `Amazon/_CUENTA-KINAVARGAS/` |
-| Cuenta personal de Santi bloqueada (Sección 3), apelación | `Amazon/_CUENTA-PERSONAL-SANTI/` (crear: `CLAUDE.md` + `ESTADO.md`) |
-| Shopify / web propia de TerpTech (DTC) | `Paginas-Web/TERPTECH-DTC/` (crear) y una línea en `Amazon/TERPTECH/CLAUDE.md` que apunte ahí |
-| RapiPet u otro sitio | `Paginas-Web/<SITIO>/` (crear) |
-| Etsy | `Etsy/` (una subcarpeta por tienda/producto si crece) |
+| AVIE / MT Ball / Reflex / KINA (Amazon) | `E-commerce/Amazon/<PRODUCTO>/` |
+| Cuenta KINAVARGAS (seguro, casos, salud de cuenta) | `E-commerce/Amazon/_CUENTA-KINAVARGAS/` |
+| TerpTech (mayoristas, catálogo, leads, 3PL, Shopify/DTC) | `E-commerce/TERPTECH/` (TerpTech ya no va en Amazon) |
+| Cuenta Amazon bloqueada (DecoHOUSE, Sección 3), apelación, fondos retenidos | `E-commerce/TERPTECH/_CUENTA-DECOHOUSE/` |
+| RapiPet u otro sitio | `E-commerce/Paginas-Web/<SITIO>/` (crear) |
+| Etsy | `E-commerce/Etsy/` (una subcarpeta por tienda/producto si crece) |
 | Transversal (LLC VirtualMed, impuestos, banco, meta 100k) | `_compartido/` |
 | Ni idea | dejarlo acá y preguntar a Santi |
 
@@ -31,6 +31,6 @@ Cuando Santi diga "procesá el inbox":
    - Si un dato ya existe en otro archivo: no copiarlo; poner referencia. Si contradice lo que hay: **no pisar**, anotarlo en `ESTADO.md` → "⚠️ Contradicciones a confirmar" con las dos versiones y fechas.
 4. Mantener las marcas HECHO / INFERENCIA / HIPÓTESIS del traspaso. No inventar nada que no esté.
 5. Nada de DNI, números de cuenta bancaria, contraseñas ni tokens completos en los archivos (sólo "últimos 4").
-6. Actualizar la tabla de estado de `Trabajo/CLAUDE.md` (y de `Amazon/CLAUDE.md` si aplica).
+6. Actualizar la tabla de estado de `Trabajo/CLAUDE.md` (y de `E-commerce/Amazon/CLAUDE.md` si aplica).
 7. Borrar el `TRASPASO_*.md` procesado, commitear (`git commit -m "Traspaso <tema>"`) y pushear.
 8. Si existe la copia espejo en Google Drive, recordarle a Santi qué archivos cambiaron para subirlos.

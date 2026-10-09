@@ -9,52 +9,68 @@
 - `_inbox/LEEME.md`
 - `_inbox/PROMPT_TRASPASO.md`
 - `_inbox/TRASPASO_migracion-a-code_2026-10-09.md`
-- `Amazon/CLAUDE.md`
-- `Amazon/_ARCHIVO/LEEME.md`
-- `Amazon/_CUENTA-KINAVARGAS/CLAUDE.md`
-- `Amazon/_CUENTA-KINAVARGAS/ESTADO.md`
-- `Amazon/_CUENTA-KINAVARGAS/seguro.md`
-- `Amazon/AVIE/CLAUDE.md`
-- `Amazon/AVIE/ESTADO.md`
-- `Amazon/AVIE/aplus.md`
-- `Amazon/AVIE/competencia.md`
-- `Amazon/AVIE/keywords.md`
-- `Amazon/AVIE/listing.md`
-- `Amazon/AVIE/ppc.md`
-- `Amazon/AVIE/riesgos.md`
-- `Amazon/KINA/CLAUDE.md`
-- `Amazon/KINA/ESTADO.md`
-- `Amazon/KINA/canales.md`
-- `Amazon/KINA/economia.md`
-- `Amazon/KINA/patente.md`
-- `Amazon/KINA/proveedor.md`
-- `Amazon/MT-BALL/CLAUDE.md`
-- `Amazon/MT-BALL/ESTADO.md`
-- `Amazon/MT-BALL/imagenes.md`
-- `Amazon/MT-BALL/keywords.md`
-- `Amazon/MT-BALL/listing.md`
-- `Amazon/MT-BALL/operacion.md`
-- `Amazon/MT-BALL/ppc.md`
-- `Amazon/MT-BALL/riesgos.md`
-- `Amazon/MT-BALL/assets/keywords_Q4_tracker.csv`
-- `Amazon/REFLEX/CLAUDE.md`
-- `Amazon/REFLEX/ESTADO.md`
-- `Amazon/REFLEX/competencia.md`
-- `Amazon/REFLEX/compliance.md`
-- `Amazon/REFLEX/decisiones.md`
-- `Amazon/REFLEX/economia.md`
-- `Amazon/REFLEX/errores-corregidos.md`
-- `Amazon/REFLEX/historia-19sep.md`
-- `Amazon/REFLEX/listing-seo.md`
-- `Amazon/REFLEX/ppc-keywords.md`
-- `Amazon/REFLEX/ppc.md`
-- `Amazon/REFLEX/protocolo.md`
-- `Amazon/REFLEX/riesgos.md`
-- `Amazon/REFLEX/ventas.md`
-- `Amazon/TERPTECH/CLAUDE.md`
-- `Amazon/TERPTECH/FICHA_DE_PRODUCTO.md`
-- `Etsy/CLAUDE.md`
-- `Paginas-Web/CLAUDE.md`
+- `E-commerce/CLAUDE.md`
+- `E-commerce/Amazon/CLAUDE.md`
+- `E-commerce/Amazon/_ARCHIVO/LEEME.md`
+- `E-commerce/Amazon/_CUENTA-KINAVARGAS/CLAUDE.md`
+- `E-commerce/Amazon/_CUENTA-KINAVARGAS/ESTADO.md`
+- `E-commerce/Amazon/_CUENTA-KINAVARGAS/seguro.md`
+- `E-commerce/Amazon/AVIE/CLAUDE.md`
+- `E-commerce/Amazon/AVIE/ESTADO.md`
+- `E-commerce/Amazon/AVIE/aplus.md`
+- `E-commerce/Amazon/AVIE/competencia.md`
+- `E-commerce/Amazon/AVIE/keywords.md`
+- `E-commerce/Amazon/AVIE/listing.md`
+- `E-commerce/Amazon/AVIE/ppc.md`
+- `E-commerce/Amazon/AVIE/riesgos.md`
+- `E-commerce/Amazon/KINA/CLAUDE.md`
+- `E-commerce/Amazon/KINA/ESTADO.md`
+- `E-commerce/Amazon/KINA/canales.md`
+- `E-commerce/Amazon/KINA/economia.md`
+- `E-commerce/Amazon/KINA/patente.md`
+- `E-commerce/Amazon/KINA/proveedor.md`
+- `E-commerce/Amazon/MT-BALL/CLAUDE.md`
+- `E-commerce/Amazon/MT-BALL/ESTADO.md`
+- `E-commerce/Amazon/MT-BALL/imagenes.md`
+- `E-commerce/Amazon/MT-BALL/keywords.md`
+- `E-commerce/Amazon/MT-BALL/listing.md`
+- `E-commerce/Amazon/MT-BALL/operacion.md`
+- `E-commerce/Amazon/MT-BALL/ppc.md`
+- `E-commerce/Amazon/MT-BALL/riesgos.md`
+- `E-commerce/Amazon/MT-BALL/assets/keywords_Q4_tracker.csv`
+- `E-commerce/Amazon/REFLEX/CLAUDE.md`
+- `E-commerce/Amazon/REFLEX/ESTADO.md`
+- `E-commerce/Amazon/REFLEX/competencia.md`
+- `E-commerce/Amazon/REFLEX/compliance.md`
+- `E-commerce/Amazon/REFLEX/decisiones.md`
+- `E-commerce/Amazon/REFLEX/economia.md`
+- `E-commerce/Amazon/REFLEX/errores-corregidos.md`
+- `E-commerce/Amazon/REFLEX/historia-19sep.md`
+- `E-commerce/Amazon/REFLEX/listing-seo.md`
+- `E-commerce/Amazon/REFLEX/ppc-keywords.md`
+- `E-commerce/Amazon/REFLEX/ppc.md`
+- `E-commerce/Amazon/REFLEX/protocolo.md`
+- `E-commerce/Amazon/REFLEX/riesgos.md`
+- `E-commerce/Amazon/REFLEX/ventas.md`
+- `E-commerce/Etsy/CLAUDE.md`
+- `E-commerce/Etsy/ESTADO.md`
+- `E-commerce/Paginas-Web/CLAUDE.md`
+- `E-commerce/TERPTECH/CLAUDE.md`
+- `E-commerce/TERPTECH/ESTADO.md`
+- `E-commerce/TERPTECH/canales.md`
+- `E-commerce/TERPTECH/FICHA_DE_PRODUCTO.md`
+- `E-commerce/TERPTECH/_CUENTA-DECOHOUSE/CLAUDE.md`
+- `E-commerce/TERPTECH/_CUENTA-DECOHOUSE/ESTADO.md`
+- `E-commerce/TERPTECH/_CUENTA-DECOHOUSE/apelacion.md`
+- `E-commerce/TERPTECH/_CUENTA-DECOHOUSE/correspondencia.md`
+- `E-commerce/TERPTECH/mayoristas/contactados_agosto.csv`
+- `E-commerce/TERPTECH/mayoristas/investigacion_florida.csv`
+- `E-commerce/TERPTECH/mayoristas/investigacion_oeste_norte.csv`
+- `E-commerce/TERPTECH/mayoristas/investigacion_sudeste.csv`
+- `E-commerce/TERPTECH/mayoristas/leads.csv`
+- `E-commerce/TERPTECH/mayoristas/outreach.md`
+- `E-commerce/TERPTECH/mayoristas/plantillas.md`
+- `E-commerce/TERPTECH/mayoristas/prospectos.csv`
 
 ---
 
@@ -67,18 +83,21 @@ y además el `CLAUDE.md` de cada subcarpeta en la que se trabaje: acá va solo l
 a TODO; lo específico vive en su carpeta (regla: **write once, reference many**).
 
 ## Estructura
+Todo lo de venta online vive en **`E-commerce/`**. Un ecosistema = una carpeta.
+
 | Carpeta | Qué hay | Estado |
 |---|---|---|
-| `Amazon/` | Contexto madre de Amazon (quién soy, meta, cuentas, reglas duras) | ✅ migrado |
-| `Amazon/AVIE/` | AVIE Lymphatic Contour Face Brush · B0GT75CR86 (Beauty Michele) | ✅ migrado |
-| `Amazon/MT-BALL/` | MT Ball, magic meta ball con Maxi (Beauty Michele) | ✅ migrado |
-| `Amazon/REFLEX/` | Reflex Game R46 / QW5 (KINAVARGAS) · modo liquidación | ✅ migrado |
-| `Amazon/KINA/` | KINA Lymphatic Drainage Face Brush · B0GQJLP4TB · liquidación fuera de Amazon | ✅ migrado |
-| `Amazon/TERPTECH/` | TerpTech Premium 650mAh · B0F9SXP5MW · batería 510 | ✅ ficha + 6 imágenes + line sheet · falta `ESTADO.md` |
-| `Amazon/_CUENTA-KINAVARGAS/` | Cuenta KINAVARGAS: titular, seguro, casos | ✅ migrado |
-| `Amazon/_ARCHIVO/` | Vaults de Obsidian en crudo (sólo consulta) | ⏳ pendiente: copiar desde los vaults en la compu |
-| `Etsy/` | Ecosistema Etsy | ⏳ pendiente |
-| `Paginas-Web/` | TerpTech / DTC, RapiPet y otros sitios | ⏳ pendiente: migrar desde `02 Negocios/` del vault |
+| `E-commerce/Amazon/` | Contexto madre de Amazon (quién soy, meta, cuentas, reglas duras) | ✅ |
+| `E-commerce/Amazon/AVIE/` | AVIE Lymphatic Contour Face Brush · B0GT75CR86 (Beauty Michele) · vender stock hasta agotar | ✅ |
+| `E-commerce/Amazon/MT-BALL/` | MT Ball con Maxi · **no lanzar en Beauty Michele** | ✅ |
+| `E-commerce/Amazon/REFLEX/` | Reflex Game R46 / QW5 (KINAVARGAS) · liquidación | ✅ |
+| `E-commerce/Amazon/KINA/` | KINA Face Brush · B0GQJLP4TB · liquidación fuera de Amazon | ✅ |
+| `E-commerce/Amazon/_CUENTA-KINAVARGAS/` | Cuenta KINAVARGAS: titular, seguro, casos | ✅ |
+| `E-commerce/Amazon/_ARCHIVO/` | Vaults de Obsidian en crudo (sólo consulta) | ⏳ copiar desde la compu |
+| `E-commerce/TERPTECH/` | TerpTech (batería 510) · **fuera de Amazon** · B2B mayorista, catálogo, leads, outreach | ✅ |
+| `E-commerce/TERPTECH/_CUENTA-DECOHOUSE/` | Cuenta Amazon bloqueada (Sección 3): historia, apelación, US$ 3.000 retenidos, correspondencia | ✅ 2026-10-08 |
+| `E-commerce/Etsy/` | Ecosistema Etsy | ⏳ falta el email de la tienda |
+| `E-commerce/Paginas-Web/` | Sitios (RapiPet y otros) | ⏳ migrar desde `02 Negocios/` del vault |
 | `_compartido/` | Lo transversal a todos los ecosistemas | vacío |
 | `_inbox/` | Traspasos de chats viejos a repartir (ver `_inbox/LEEME.md`) | 1 traspaso |
 
@@ -115,12 +134,12 @@ Cuando Santi diga "procesá el inbox":
 
 | Tema del chat | Carpeta destino |
 |---|---|
-| AVIE / MT Ball / Reflex / KINA / TerpTech (Amazon) | `Amazon/<PRODUCTO>/` |
-| Cuenta KINAVARGAS (seguro, casos, salud de cuenta) | `Amazon/_CUENTA-KINAVARGAS/` |
-| Cuenta personal de Santi bloqueada (Sección 3), apelación | `Amazon/_CUENTA-PERSONAL-SANTI/` (crear: `CLAUDE.md` + `ESTADO.md`) |
-| Shopify / web propia de TerpTech (DTC) | `Paginas-Web/TERPTECH-DTC/` (crear) y una línea en `Amazon/TERPTECH/CLAUDE.md` que apunte ahí |
-| RapiPet u otro sitio | `Paginas-Web/<SITIO>/` (crear) |
-| Etsy | `Etsy/` (una subcarpeta por tienda/producto si crece) |
+| AVIE / MT Ball / Reflex / KINA (Amazon) | `E-commerce/Amazon/<PRODUCTO>/` |
+| Cuenta KINAVARGAS (seguro, casos, salud de cuenta) | `E-commerce/Amazon/_CUENTA-KINAVARGAS/` |
+| TerpTech (mayoristas, catálogo, leads, 3PL, Shopify/DTC) | `E-commerce/TERPTECH/` (TerpTech ya no va en Amazon) |
+| Cuenta Amazon bloqueada (DecoHOUSE, Sección 3), apelación, fondos retenidos | `E-commerce/TERPTECH/_CUENTA-DECOHOUSE/` |
+| RapiPet u otro sitio | `E-commerce/Paginas-Web/<SITIO>/` (crear) |
+| Etsy | `E-commerce/Etsy/` (una subcarpeta por tienda/producto si crece) |
 | Transversal (LLC VirtualMed, impuestos, banco, meta 100k) | `_compartido/` |
 | Ni idea | dejarlo acá y preguntar a Santi |
 
@@ -131,7 +150,7 @@ Cuando Santi diga "procesá el inbox":
    - Si un dato ya existe en otro archivo: no copiarlo; poner referencia. Si contradice lo que hay: **no pisar**, anotarlo en `ESTADO.md` → "⚠️ Contradicciones a confirmar" con las dos versiones y fechas.
 4. Mantener las marcas HECHO / INFERENCIA / HIPÓTESIS del traspaso. No inventar nada que no esté.
 5. Nada de DNI, números de cuenta bancaria, contraseñas ni tokens completos en los archivos (sólo "últimos 4").
-6. Actualizar la tabla de estado de `Trabajo/CLAUDE.md` (y de `Amazon/CLAUDE.md` si aplica).
+6. Actualizar la tabla de estado de `Trabajo/CLAUDE.md` (y de `E-commerce/Amazon/CLAUDE.md` si aplica).
 7. Borrar el `TRASPASO_*.md` procesado, commitear (`git commit -m "Traspaso <tema>"`) y pushear.
 8. Si existe la copia espejo en Google Drive, recordarle a Santi qué archivos cambiaron para subirlos.
 
@@ -194,8 +213,8 @@ Nombre · qué es · dónde está hoy.
 > El contenido de los productos **ya está en el repo** (ver tabla de `Trabajo/CLAUDE.md`). Este traspaso no repite datos de productos: sólo lo que se decidió sobre cómo trabajar y lo que quedó pendiente.
 
 ## 1. Contexto estable
-- HECHO · Repo GitHub `amazonfbasantino-wq/prueba`. Rama principal: **`claude/hopeful-allen-FxQrV`** (no existe `main`). Rama de trabajo de la mudanza: `claude/obsidian-data-migration-i9q4nd`.
-- HECHO · Estructura: `Trabajo/` → ecosistema (`Amazon/`, `Etsy/`, `Paginas-Web/`) → una carpeta por producto. Cada producto: `CLAUDE.md` (estable) + `ESTADO.md` (dónde quedamos) + archivos temáticos + `assets/`. Regla **write once, reference many**.
+- HECHO · Repo GitHub `amazonfbasantino-wq/prueba`. Rama principal: **`claude/hope-main-negocios`** (antes `claude/hopeful-allen-FxQrV`; no existe `main`). Rama de trabajo de la mudanza: `claude/obsidian-data-migration-i9q4nd`.
+- HECHO · Estructura: `Trabajo/E-commerce/` → ecosistema (`Amazon/`, `TERPTECH/`, `Etsy/`, `Paginas-Web/`) → una carpeta por producto. Cada producto: `CLAUDE.md` (estable) + `ESTADO.md` (dónde quedamos) + archivos temáticos + `assets/`. Regla **write once, reference many**.
 - HECHO · `CLAUDE.md` en la raíz del repo: al empezar, leer sólo `CLAUDE.md` + `ESTADO.md` del producto; al cerrar, actualizar `ESTADO.md` y commitear; CSV grandes con scripts.
 - HECHO · Fuente principal = carpeta local en la compu de Santi (clon del repo). **Google Drive `AMAZON/` = copia espejo de lectura** para Claude en Cowork/app (decisión 2026-10-08; antes se había dicho "Drive no se usa" y se revirtió).
 - HECHO · `scripts/migrar_obsidian.py RUTA_VAULT [--aplicar]`: clasifica notas de un vault (carpeta o .zip) en `Trabajo/` por palabras clave (`REGLAS`); sin `--aplicar` sólo muestra el plan; nunca pisa archivos.
@@ -203,21 +222,16 @@ Nombre · qué es · dónde está hoy.
   `git clone https://github.com/amazonfbasantino-wq/prueba.git ~/Trabajo-Santi`
 
 ## 2. Estado actual
-**Migrado y verificado (tamaño + codificación):** Amazon madre, AVIE, MT-BALL (+ `keywords_Q4_tracker.csv`), REFLEX, KINA, `_CUENTA-KINAVARGAS`, TerpTech (ficha + 6 imágenes + line sheet PDF; las imágenes y el PDF los subió Santi por git, commit `1432368`).
+**Migrado y verificado (tamaño + codificación):** Amazon madre, AVIE, MT-BALL (+ `keywords_Q4_tracker.csv`), REFLEX, KINA, `_CUENTA-KINAVARGAS`, TerpTech (ficha + 6 imágenes + line sheet; imágenes y PDF subidos por Santi por git, commit `1432368`).
+Después otras sesiones reorganizaron todo bajo `E-commerce/` y sacaron TerpTech de Amazon (`E-commerce/TERPTECH/`, con su `ESTADO.md` y `_CUENTA-DECOHOUSE/`). Para el estado de TerpTech, mandan esos archivos, no este traspaso.
 
-**En Drive `AMAZON/TERPTECH/`:** `CLAUDE.md` y `07_line_sheet_mayorista.pdf` (subidos 2026-10-08). La ficha está suelta en `AMAZON/` como `TERPTECH_FICHA_DE_PRODUCTO.md`.
+**En Drive `AMAZON/TERPTECH/`:** `CLAUDE.md` y `07_line_sheet_mayorista.pdf` (subidos 2026-10-08; ese line sheet ya no se usa, ver `E-commerce/TERPTECH/ESTADO.md`). La ficha está suelta en `AMAZON/` como `TERPTECH_FICHA_DE_PRODUCTO.md`.
 
-**Pendientes (por orden):**
-1. Santi: arrastrar `TERPTECH/imagenes/` a Drive `AMAZON/TERPTECH/` (muy pesadas para subirlas desde la nube).
-2. Santi: abrir el PDF en Drive y confirmar que se ve bien (sólo se verificó el tamaño, 4907 bytes).
-3. Reemplazar el `CLAUDE.md` de Drive `AMAZON/` por la versión del repo (la de Drive es vieja: sin TerpTech). Pendiente de OK de Santi.
-4. `Amazon/TERPTECH/ESTADO.md`: no hay datos de stock, estado de cuenta ni objetivo → preguntar a Santi, no inventar.
-5. Traspasar los chats viejos con `PROMPT_TRASPASO.md`: Shopify/TerpTech DTC, cuenta personal bloqueada, Etsy, RapiPet y cualquier otro.
-6. `Amazon/_ARCHIVO/`: copiar los vaults crudos (`obsidian c`, `PROYECTOS 100K`) desde la compu (sólo consulta).
-7. `Paginas-Web/`: migrar `02 Negocios/` del vault.
-8. Commit "Drive vuelve como copia espejo…" y los archivos de `_inbox/` están en la rama de trabajo; fusionar a la rama principal si todavía no se hizo.
-
-**Decisiones abiertas (de Santi):** punto 3; cómo mantener el espejo de Drive al día (a mano al cerrar cada sesión, o sólo cuando haga falta para Cowork).
+**Pendientes de la mudanza:**
+1. Espejo de Drive: quedó con la estructura vieja (`AMAZON/…`). Decidir si se mantiene al día y cómo (decisión de Santi).
+2. Traspasar los chats viejos con `PROMPT_TRASPASO.md` (los que no se hayan pasado todavía).
+3. `E-commerce/Amazon/_ARCHIVO/`: copiar los vaults crudos (`obsidian c`, `PROYECTOS 100K`) desde la compu (sólo consulta).
+4. `E-commerce/Paginas-Web/`: migrar `02 Negocios/` del vault.
 
 ## 3. Detalle
 ### Cómo trabajar con poco contexto
@@ -232,7 +246,6 @@ Nombre · qué es · dónde está hoy.
 - La carpeta `TERPTECH_TRANSFER_2026-10-07` de Drive quedó vacía (la subida desde la compu no llegó); se resolvió subiendo por git.
 
 ## 5. Datos faltantes
-- TerpTech: stock, estado de cuenta/listing, objetivo, economía (→ Santi).
 - Nombres reales de las carpetas/sitios de Páginas Web y tiendas de Etsy (→ chats viejos / vault).
 
 ## 6. Archivos adjuntos
@@ -240,7 +253,23 @@ Ninguno nuevo: todo está en el repo.
 
 ---
 
-## 📄 `Amazon/CLAUDE.md`
+## 📄 `E-commerce/CLAUDE.md`
+
+# E-COMMERCE — índice
+
+Un ecosistema = una carpeta, con `CLAUDE.md` (lo estable) + `ESTADO.md` (dónde quedamos).
+
+| Carpeta | Qué es | Estado en una línea |
+|---|---|---|
+| `Amazon/` | Cuentas Beauty Michele y KINAVARGAS y sus productos | Vender el stock hasta que se acabe; después dejar de pagar el plan |
+| `TERPTECH/` | Batería 510 TerpTech | Fuera de Amazon · venta B2B a mayoristas · 3.300 u en Miami |
+| `TERPTECH/_CUENTA-DECOHOUSE/` | Cuenta Amazon de Santi, bloqueada | Apelación honesta cuando se agote el stock de las otras cuentas · US$ 3.000 retenidos |
+| `Etsy/` | Tienda Etsy | Falta saber con qué email está |
+| `Paginas-Web/` | Sitios web | Pendiente de migrar |
+
+---
+
+## 📄 `E-commerce/Amazon/CLAUDE.md`
 
 # AMAZON — contexto madre (Claude Code)
 
@@ -255,9 +284,9 @@ Ninguno nuevo: todo está en el repo.
 ## Cuentas y entidades
 | Cuenta / entidad | Qué es | Productos |
 |---|---|---|
-| **Beauty Michele** | Vendedor individual, persona natural, titular en Luján de Cuyo (Mendoza) | AVIE (50/50 con mi pareja) · MT Ball (en preparación) |
-| **KINAVARGAS** (ACC-002) | Titular Maria Eugenia Vargas (no es parte de la LLC) | KINA (discontinuado), Reflex Game (liquidación) |
-| Cuenta personal de Santi | Bloqueada por Sección 3 | — |
+| **Beauty Michele** | Vendedor individual, persona natural, titular en Luján de Cuyo (Mendoza) · titular: tío de Santi · operada por Santi | AVIE (50/50 con mi pareja) · MT Ball (en preparación) |
+| **KINAVARGAS** (ACC-002) | Titular Maria Eugenia Vargas, esposa del socio (no es parte de la LLC) · operada por Santi | KINA (discontinuado), Reflex Game (liquidación) |
+| **DecoHOUSE** (cuenta personal de Santi) | Desactivada permanente por Sección 3 (08-feb-2026, batería 510 / vape) → `../TERPTECH/_CUENTA-DECOHOUSE/` | — (TerpTech, prohibido) |
 | **VIRTUALMED SOLUTIONS LLC** | LLC de Florida (domicilio Sarasota) · miembros: Santi + Pablo · banco: Bank of America | — |
 | Socio externo | Maxi (vive en Utah) | MT Ball |
 
@@ -268,8 +297,9 @@ Ninguno nuevo: todo está en el repo.
 | `MT-BALL/` | MT Ball (meta ball, con Maxi) | — | ✅ migrado 2026-10-06 |
 | `REFLEX/` | Reflex Game (KINAVARGAS) · **modo liquidación** | B0GR46X8Y8 · B0GQW5F2LL | ✅ migrado 2026-10-06 |
 | `KINA/` | KINA Lymphatic Drainage Face Brush · **liquidación fuera de Amazon** | B0GQJLP4TB | ✅ migrado 2026-10-06 |
-| `TERPTECH/` | TerpTech Premium 650mAh (batería 510) | B0F9SXP5MW | ✅ ficha + 6 imágenes + line sheet · falta `ESTADO.md` |
+| `../TERPTECH/` | TerpTech: **fuera de Amazon** (prohibido) · ecosistema propio en `E-commerce/TERPTECH/` | B0F9SXP5MW | movido 2026-10-08 |
 | `_CUENTA-KINAVARGAS/` | Cuenta KINAVARGAS: titular, seguro, casos, reglas | — | ✅ migrado 2026-10-06 |
+| `../TERPTECH/_CUENTA-DECOHOUSE/` | Cuenta bloqueada de Santi: motivo, fondos retenidos, apelación | — | ✅ 2026-10-08 desde Gmail |
 | `_ARCHIVO/` | Los dos vaults de Obsidian completos, en crudo (sólo consulta) | — | ver `_ARCHIVO/LEEME.md` |
 
 ## Estructura de cada producto
@@ -277,7 +307,7 @@ Cada carpeta tiene siempre `CLAUDE.md` (lo estable: identidad, economía, objeti
 Regla: **WRITE ONCE — REFERENCE MANY.** Un dato vive en un solo archivo; los demás apuntan.
 
 ## Dónde está todo
-- **Carpeta local `Trabajo/Amazon/` en la compu de Santi** (Finder): **copia de trabajo para Claude Code** (versión condensada; manda ante diferencias). **Google Drive `AMAZON/`** = copia espejo para que Claude la lea desde Cowork/app; mantenerla al día.
+- **Carpeta local `Trabajo/E-commerce/Amazon/` en la compu de Santi** (Finder): **copia de trabajo para Claude Code** (versión condensada; manda ante diferencias). **Google Drive `AMAZON/`** = copia espejo para que Claude la lea desde Cowork/app; mantenerla al día.
 - Vault Obsidian `obsidian c` → `AMAZON/`: misma estructura, versión extendida de algunas tablas, más las imágenes.
 - `_ARCHIVO/`: los dos vaults completos en crudo (`obsidian c` y `PROYECTOS 100K`: CSV, imágenes, expedientes viejos), leídos directo desde la compu. **Sólo consulta**; ante diferencias manda esta carpeta.
 
@@ -307,7 +337,7 @@ Actualizar `ESTADO.md` del producto: qué se hizo, qué sigue (en orden), qué N
 
 ---
 
-## 📄 `Amazon/_ARCHIVO/LEEME.md`
+## 📄 `E-commerce/Amazon/_ARCHIVO/LEEME.md`
 
 # _ARCHIVO — los dos vaults de Obsidian completos, en crudo
 
@@ -325,7 +355,7 @@ Acá están, sin tocar, los dos vaults de Obsidian de Santi:
 
 ---
 
-## 📄 `Amazon/_CUENTA-KINAVARGAS/CLAUDE.md`
+## 📄 `E-commerce/Amazon/_CUENTA-KINAVARGAS/CLAUDE.md`
 
 # CUENTA KINAVARGAS (ACC-002) — lo que es de la cuenta, no de un producto
 
@@ -376,7 +406,7 @@ Liquidar el stock de Reflex hasta diciembre y **no volver a usar la cuenta** des
 
 ---
 
-## 📄 `Amazon/_CUENTA-KINAVARGAS/ESTADO.md`
+## 📄 `E-commerce/Amazon/_CUENTA-KINAVARGAS/ESTADO.md`
 
 # CUENTA KINAVARGAS — ESTADO
 
@@ -408,7 +438,7 @@ Liquidar el stock de Reflex hasta diciembre y **no volver a usar la cuenta** des
 
 ---
 
-## 📄 `Amazon/_CUENTA-KINAVARGAS/seguro.md`
+## 📄 `E-commerce/Amazon/_CUENTA-KINAVARGAS/seguro.md`
 
 # CUENTA KINAVARGAS — Seguro de responsabilidad civil (Amazon BSA §9)
 
@@ -452,7 +482,7 @@ Comprar seguro · pagar quote/bind · subir COI · cambiar legal entity · sacar
 
 ---
 
-## 📄 `Amazon/AVIE/CLAUDE.md`
+## 📄 `E-commerce/Amazon/AVIE/CLAUDE.md`
 
 # AVIE — Lymphatic Contour Face Brush · B0GT75CR86
 
@@ -527,11 +557,14 @@ Vender el máximo **por vía orgánica**, a precio **> 14,99 USD**, subiendo de 
 
 ---
 
-## 📄 `Amazon/AVIE/ESTADO.md`
+## 📄 `E-commerce/Amazon/AVIE/ESTADO.md`
 
 # AVIE — ESTADO
 
 **Actualizado:** 2026-10-06 (migración) · **Último trabajo real:** 2026-09-22 · **Frente:** ⏸️ EN PAUSA por límite de 2 frentes
+
+## 🔻 Cambio de objetivo (2026-10-08)
+Beauty Michele entra en **modo salida**: vender el stock de AVIE hasta que se acabe (Q4 es la ventana) y después dejar de pagar el plan y de operar la cuenta (no se cierra) (motivo: `../../TERPTECH/_CUENTA-DECOHOUSE/ESTADO.md`). Todo lo de abajo se evalúa contra eso: rotar stock a buen precio en Q4 sí; inversiones de largo plazo (ranking, A+ módulos nuevos, IP Accelerator) sólo si se pagan antes de que se acabe el stock.
 
 ## ⚠️ Primero: datos que faltan (las fechas duras ya pasaron)
 Al 06-oct no hay registro de que se haya ejecutado nada. Antes de cualquier análisis, confirmar:
@@ -569,7 +602,7 @@ El problema de AVIE no es el PPC: es **precio + existencia**. A 9,99 sólo 2 de 
 
 ---
 
-## 📄 `Amazon/AVIE/aplus.md`
+## 📄 `E-commerce/Amazon/AVIE/aplus.md`
 
 # AVIE — A+ Premium (alt text, headline y body)
 
@@ -625,7 +658,7 @@ Every AVIE ships in a hard travel case that keeps the bristles clean in a bag or
 
 ---
 
-## 📄 `Amazon/AVIE/competencia.md`
+## 📄 `E-commerce/Amazon/AVIE/competencia.md`
 
 # AVIE — Competencia
 
@@ -678,7 +711,7 @@ El nicho tiene **dos mercados dentro del mismo nodo**, y AVIE está compitiendo 
 
 ---
 
-## 📄 `Amazon/AVIE/keywords.md`
+## 📄 `E-commerce/Amazon/AVIE/keywords.md`
 
 # AVIE — Keywords (GAP de indexación y capas de puja)
 
@@ -756,7 +789,7 @@ Aeki marrón/negro · Ghnadyvc marrón · Cheersendex nogal · Kitsch negro. Té
 
 ---
 
-## 📄 `Amazon/AVIE/listing.md`
+## 📄 `E-commerce/Amazon/AVIE/listing.md`
 
 # AVIE — Listing (copy vigente, listo para pegar)
 
@@ -807,7 +840,7 @@ Hoy: principal en **collage de 4 elementos** = problema nº1 (CTR 1,38 %).
 
 ---
 
-## 📄 `Amazon/AVIE/ppc.md`
+## 📄 `E-commerce/Amazon/AVIE/ppc.md`
 
 # AVIE — PPC
 
@@ -871,7 +904,7 @@ El master PPC del **21-sep** no incorpora la decisión del **16-sep**. O el mast
 
 ---
 
-## 📄 `Amazon/AVIE/riesgos.md`
+## 📄 `E-commerce/Amazon/AVIE/riesgos.md`
 
 # AVIE — Riesgos y contradicciones abiertas
 
@@ -902,7 +935,7 @@ El master PPC del **21-sep** no incorpora la decisión del **16-sep**. O el mast
 
 ---
 
-## 📄 `Amazon/KINA/CLAUDE.md`
+## 📄 `E-commerce/Amazon/KINA/CLAUDE.md`
 
 # KINA — Lymphatic Drainage Face Brush (B0GQJLP4TB)
 
@@ -950,7 +983,7 @@ La reactivación en Amazon está **despriorizada** (no resuelta): el caso de pat
 
 ---
 
-## 📄 `Amazon/KINA/ESTADO.md`
+## 📄 `E-commerce/Amazon/KINA/ESTADO.md`
 
 # KINA — ESTADO
 
@@ -988,7 +1021,7 @@ Afirmar material sin verificarlo · llamar "marca registrada" a KINA · decir "p
 
 ---
 
-## 📄 `Amazon/KINA/canales.md`
+## 📄 `E-commerce/Amazon/KINA/canales.md`
 
 # KINA — Canales de liquidación
 
@@ -1032,7 +1065,7 @@ Argentina / LatAm (MercadoLibre, distribuidores y mayoristas de belleza), Amazon
 
 ---
 
-## 📄 `Amazon/KINA/economia.md`
+## 📄 `E-commerce/Amazon/KINA/economia.md`
 
 # KINA — Economía: costo, fulfillment y precio por canal
 
@@ -1067,7 +1100,7 @@ Tarifa comercial USPS < 1 lb por zona · mínimo mensual · materiales · integr
 
 ---
 
-## 📄 `Amazon/KINA/patente.md`
+## 📄 `E-commerce/Amazon/KINA/patente.md`
 
 # KINA — Caso de patente D1063405 (CASE-001)
 
@@ -1116,7 +1149,7 @@ Una nota vieja decía 13 → **no inventar el #13**.
 
 ---
 
-## 📄 `Amazon/KINA/proveedor.md`
+## 📄 `E-commerce/Amazon/KINA/proveedor.md`
 
 # KINA — Proveedor Henan Small Brush
 
@@ -1146,7 +1179,7 @@ Usarlo **sólo** si lo firman y es verdad. Prueba la cadena de suministro; **no 
 
 ---
 
-## 📄 `Amazon/MT-BALL/CLAUDE.md`
+## 📄 `E-commerce/Amazon/MT-BALL/CLAUDE.md`
 
 # MT BALL — Magic Meta Ball for Kids (marca MTBALL)
 
@@ -1212,11 +1245,15 @@ Usarlo **sólo** si lo firman y es verdad. Prueba la cadena de suministro; **no 
 
 ---
 
-## 📄 `Amazon/MT-BALL/ESTADO.md`
+## 📄 `E-commerce/Amazon/MT-BALL/ESTADO.md`
 
 # MT BALL — ESTADO
 
 **Actualizado:** 2026-10-06 (migración) · **Último trabajo real:** 2026-09-29 · **Fase:** 0 — prerrequisitos
+
+## 🛑 Bloqueo (2026-10-08)
+Beauty Michele pasa a modo salida (vender el stock existente hasta agotarlo y dejar de operarla → `../../TERPTECH/_CUENTA-DECOHOUSE/ESTADO.md`). **No lanzar MT Ball en Beauty Michele**: meter 1.000+ u en FBA de una cuenta que se va a dejar de operar contradice la decisión y atrasa la apelación de DecoHOUSE.
+Decisión abierta (Santi + Maxi): (a) cuenta propia de **Maxi**, operada por Maxi; (b) venta fuera de Amazon en Q4; (c) esperar a la cuenta de la LLC (depende de reinstalar DecoHOUSE, no antes de 2027).
 
 ## ⚠️ Primero: confirmar (el cronograma ya está corriendo)
 Según el plan, al 06-oct ya debería estar: listing cargado (1–3 oct), imágenes corregidas + video (1–7 oct) y FBM activo con Ads (~6–8 oct). No hay registro de nada de eso. Confirmar:
@@ -1269,7 +1306,7 @@ Según el plan, al 06-oct ya debería estar: listing cargado (1–3 oct), imáge
 
 ---
 
-## 📄 `Amazon/MT-BALL/imagenes.md`
+## 📄 `E-commerce/Amazon/MT-BALL/imagenes.md`
 
 # MT BALL — Imágenes y video
 
@@ -1301,7 +1338,7 @@ Tirar el disco → se abre en el aire → toca el piso como bola → presionar b
 
 ---
 
-## 📄 `Amazon/MT-BALL/keywords.md`
+## 📄 `E-commerce/Amazon/MT-BALL/keywords.md`
 
 # MT BALL — Keywords
 
@@ -1329,7 +1366,7 @@ Tirar el disco → se abre en el aire → toca el piso como bola → presionar b
 
 ---
 
-## 📄 `Amazon/MT-BALL/listing.md`
+## 📄 `E-commerce/Amazon/MT-BALL/listing.md`
 
 # MT BALL — Listing (carga en Seller Central + copy)
 
@@ -1426,7 +1463,7 @@ metaball magicmeta ufo deformation throwing flat popping bouncing bouncy disc fr
 
 ---
 
-## 📄 `Amazon/MT-BALL/operacion.md`
+## 📄 `E-commerce/Amazon/MT-BALL/operacion.md`
 
 # MT BALL — Operación: FBM → FBA, precios y caja
 
@@ -1474,7 +1511,7 @@ Nota: Amazon calcula el precio tachado con lo que se pagó en los últimos 90 d�
 
 ---
 
-## 📄 `Amazon/MT-BALL/ppc.md`
+## 📄 `E-commerce/Amazon/MT-BALL/ppc.md`
 
 # MT BALL — PPC
 
@@ -1511,7 +1548,7 @@ Nota: Amazon calcula el precio tachado con lo que se pagó en los últimos 90 d�
 
 ---
 
-## 📄 `Amazon/MT-BALL/riesgos.md`
+## 📄 `E-commerce/Amazon/MT-BALL/riesgos.md`
 
 # MT BALL — Riesgos y criterios de corte
 
@@ -1537,7 +1574,7 @@ Deuda y tarifas del 3PL · tests de fábrica · tipo de pila · material · medi
 
 ---
 
-## 📄 `Amazon/MT-BALL/assets/keywords_Q4_tracker.csv`
+## 📄 `E-commerce/Amazon/MT-BALL/assets/keywords_Q4_tracker.csv`
 
 ```csv
 keyword,tier,vol_sep26,tendencia_pct,bid_sug,rank_org_competidor,uso
@@ -1624,7 +1661,7 @@ kids gifts under 25,C-navidad (sin dato),,,,,Medir en Magnet/SQP: Cerebro de sep
 
 ---
 
-## 📄 `Amazon/REFLEX/CLAUDE.md`
+## 📄 `E-commerce/Amazon/REFLEX/CLAUDE.md`
 
 # REFLEX — Reflex Challenge Drop Stick Game (Hand Speed Challenge)
 
@@ -1687,7 +1724,7 @@ Toda decisión de precio, PPC, SEO o compliance se juzga contra ese horizonte de
 
 ---
 
-## 📄 `Amazon/REFLEX/ESTADO.md`
+## 📄 `E-commerce/Amazon/REFLEX/ESTADO.md`
 
 # REFLEX — ESTADO
 
@@ -1749,7 +1786,7 @@ Ejecutar en Seller Central o Ads sin OK puntual · pausar automáticas · reestr
 
 ---
 
-## 📄 `Amazon/REFLEX/competencia.md`
+## 📄 `E-commerce/Amazon/REFLEX/competencia.md`
 
 # REFLEX — Competencia
 
@@ -1814,7 +1851,7 @@ Ejecutar en Seller Central o Ads sin OK puntual · pausar automáticas · reestr
 
 ---
 
-## 📄 `Amazon/REFLEX/compliance.md`
+## 📄 `E-commerce/Amazon/REFLEX/compliance.md`
 
 # REFLEX — Compliance: flag "Children's toys", caja y seguro
 
@@ -1856,7 +1893,7 @@ Importador de registro (a su nombre va el CPC) · tipo de celda de la batería �
 
 ---
 
-## 📄 `Amazon/REFLEX/decisiones.md`
+## 📄 `E-commerce/Amazon/REFLEX/decisiones.md`
 
 # REFLEX — Decisiones, acciones aprobadas e historial
 
@@ -1943,7 +1980,7 @@ No ejecutar en Seller Central ni Ads · no comprar seguro ni pagar quote/bind ·
 
 ---
 
-## 📄 `Amazon/REFLEX/economia.md`
+## 📄 `E-commerce/Amazon/REFLEX/economia.md`
 
 # REFLEX — Economía unitaria y precio
 
@@ -2039,7 +2076,7 @@ El **1,10** es el fee de agencia. Variante con crédito orgánico: × **1,397** 
 
 ---
 
-## 📄 `Amazon/REFLEX/errores-corregidos.md`
+## 📄 `E-commerce/Amazon/REFLEX/errores-corregidos.md`
 
 # REFLEX — Errores de análisis ya corregidos (no re-derivarlos)
 
@@ -2090,7 +2127,7 @@ El **1,10** es el fee de agencia. Variante con crédito orgánico: × **1,397** 
 
 ---
 
-## 📄 `Amazon/REFLEX/historia-19sep.md`
+## 📄 `E-commerce/Amazon/REFLEX/historia-19sep.md`
 
 # REFLEX — Foto al 19-sep, economía por ASIN, stock y resumen
 
@@ -2222,7 +2259,7 @@ Versiones contradictorias: el **stock** tuvo tres cifras sucesivas — ~4.100 es
 
 ---
 
-## 📄 `Amazon/REFLEX/listing-seo.md`
+## 📄 `E-commerce/Amazon/REFLEX/listing-seo.md`
 
 # REFLEX — Listing, imágenes y SEO orgánico
 
@@ -2319,7 +2356,7 @@ Inferencia fuerte de agosto: la brecha de CTR de QW5 era de main image. Confound
 
 ---
 
-## 📄 `Amazon/REFLEX/ppc-keywords.md`
+## 📄 `E-commerce/Amazon/REFLEX/ppc-keywords.md`
 
 # REFLEX — PPC: keywords, duelo de ASINs, product targeting y harvesting
 
@@ -2417,7 +2454,7 @@ El ciclo existe pero se hace **a mano, con 2–9 días de retraso, y sólo sobre
 
 ---
 
-## 📄 `Amazon/REFLEX/ppc.md`
+## 📄 `E-commerce/Amazon/REFLEX/ppc.md`
 
 # REFLEX — PPC: estructura, configuración, métricas y desperdicio
 
@@ -2529,7 +2566,7 @@ La agencia **duplicó el ritmo diario de julio a agosto (+106 %) y lo dejó plan
 
 ---
 
-## 📄 `Amazon/REFLEX/protocolo.md`
+## 📄 `E-commerce/Amazon/REFLEX/protocolo.md`
 
 # REFLEX — Protocolo DELTA-FIRST y fuentes
 
@@ -2598,7 +2635,7 @@ Sin recapitular el histórico.
 
 ---
 
-## 📄 `Amazon/REFLEX/riesgos.md`
+## 📄 `E-commerce/Amazon/REFLEX/riesgos.md`
 
 # REFLEX — Conflictos abiertos y datos faltantes
 
@@ -2645,7 +2682,7 @@ Sin recapitular el histórico.
 
 ---
 
-## 📄 `Amazon/REFLEX/ventas.md`
+## 📄 `E-commerce/Amazon/REFLEX/ventas.md`
 
 # REFLEX — Ventas y conversión por ventana
 
@@ -2788,24 +2825,454 @@ Costo estimado de la caída de conversión: **≈ US$ 4.470/mes** `CALCULATED` �
 
 ---
 
-## 📄 `Amazon/TERPTECH/CLAUDE.md`
+## 📄 `E-commerce/Etsy/CLAUDE.md`
+
+# Ecosistema Etsy
+
+## Resumen
+<!-- tienda(s), nicho, estado -->
+
+## Productos / listings
+<!-- si crecen, una subcarpeta por producto como en ../Amazon/ -->
+
+Notas de detalle compartidas: `_comun/`
+
+---
+
+## 📄 `E-commerce/Etsy/ESTADO.md`
+
+# ETSY — ESTADO
+
+**Actualizado:** 2026-10-08
+
+## Lo que hay en el Gmail principal (cemar4025)
+- **HECHO:** no aparece ningún aviso de Etsy sobre suspensión, bloqueo, verificación ni pagos de tienda. Sólo newsletters de comprador y un aviso de inicio de sesión desde la app **Etsy Seller** (iPhone, Rodeo de la Cruz) el 04-jul-2026.
+- **INFERENCIA:** o la tienda bloqueada está registrada con **otro email**, o el aviso se borró / llegó por la app.
+
+## Datos faltantes (de Santi)
+1. ¿Con qué email está la tienda de Etsy bloqueada? ¿Nombre de la tienda?
+2. ¿Qué dice el aviso (suspensión, "under review", verificación de identidad, pagos retenidos)? ¿Fecha?
+3. ¿Qué vendías ahí? (si era TerpTech/baterías 510: Etsy también prohíbe vapes y accesorios)
+
+## Nota
+- KINA está excluido de Etsy por política de reventa (`../Amazon/KINA/canales.md`).
+
+---
+
+## 📄 `E-commerce/Paginas-Web/CLAUDE.md`
+
+# Páginas web
+
+## Sitios
+<!-- dominio, plataforma (Shopify/WordPress/...), objetivo, estado -->
+
+Notas de detalle compartidas: `_comun/`
+
+---
+
+## 📄 `E-commerce/TERPTECH/CLAUDE.md`
 
 # TERPTECH — TerpTech Premium 650mAh · B0F9SXP5MW (AMZ-P003)
 
-> Batería 510 recargable con diseño de personaje y display digital. Listada en Amazon US bajo "Generic", categoría Soldering Irons.
+> Batería 510 recargable con diseño de personaje y display digital. Ecosistema propio dentro de `E-commerce/`: **Amazon cerrado para siempre** (causó la Sección 3 de DecoHOUSE); canal vigente: **B2B mayorista** a headshops de EE.UU.
 
 ## Archivos
 | Archivo | Para qué |
 |---|---|
 | `FICHA_DE_PRODUCTO.md` | Identidad, specs, variantes, bullets, cómo estuvo expuesto, reviews, datos faltantes |
 | `imagenes/` | 6 imágenes: 3 colores, infografía, listing (Seller Central y público), review 5★ con foto, fábrica |
-| `07_line_sheet_mayorista.pdf` | Line sheet B2B original |
+| `catalogo/TerpTech_Wholesale_Line_Sheet.pdf` | **Line sheet vigente** (fuente: `catalogo/line_sheet.html`) |
+| `07_line_sheet_mayorista.pdf` | Line sheet viejo, NO usar (precio de lote completo debajo del costo) |
+| `canales.md` | Análisis de canales: Shopify DTC descartado, B2B mayorista recomendado (2026-10-08) |
+| `ESTADO.md` | Dónde quedamos y qué sigue |
+| `mayoristas/outreach.md` | Diagnóstico, estrategia, oferta, secuencia de 4 mails (EN), guion para WhatsApp/llamada |
+| `mayoristas/prospectos.csv` | Lista de prospectos y seguimiento (estado, último contacto, próximo paso) |
+| `mayoristas/leads.csv` · `investigacion_*.csv` · `plantillas.md` | Leads, tiendas investigadas por región, plantillas T1–T6 y respuestas |
+| `_CUENTA-DECOHOUSE/` | La cuenta de Amazon bloqueada por TerpTech: historia, estado, apelación, fondos retenidos, **correspondencia** del Gmail cemar4025 |
 
-Sin `ESTADO.md` todavía: no hay registro de estado de cuenta, stock ni objetivo. No inventarlo; preguntar a Santi.
+Estado, stock y decisiones: `ESTADO.md` (**producto prohibido en Amazon**: causó la Sección 3 de DecoHOUSE · canal vigente: B2B mayorista).
 
 ---
 
-## 📄 `Amazon/TERPTECH/FICHA_DE_PRODUCTO.md`
+## 📄 `E-commerce/TERPTECH/ESTADO.md`
+
+# TERPTECH — ESTADO
+
+**Última actualización:** 2026-10-08 (noche, traspaso a sesión nueva)
+
+## ⚠️ Amazon: cerrado para siempre (agregado 2026-10-08, sesión Gmail)
+- **HECHO (Gmail cemar4025, 08-feb-2026):** la cuenta DecoHOUSE de Santi fue desactivada por Sección 3 por una **batería 510 de vaporizador** (ASIN B0DZH23VN8) "de forma que evita la detección". Amazon prohíbe vapes y accesorios aunque no lleven nicotina. B0F9SXP5MW como "Soldering Irons" es la misma conducta.
+- **TerpTech no se vende en Amazon, en ninguna cuenta.** Cuenta, apelación y fondos retenidos: `_CUENTA-DECOHOUSE/`.
+- El punto 0 de "Próxima sesión" (historia con el Gmail cemar4025) quedó **hecho en parte**: la historia de la cuenta Amazon está en `_CUENTA-DECOHOUSE/CLAUDE.md`. Falta lo de fábrica (specs, facturas, certificados).
+
+
+## Dónde estamos
+- 🔴 **URGENTE: vender las 3.300 u antes del 31-dic-2026** (stock comprado con deuda). Plan y puntos de control: `canales.md` › Plan de liquidación.
+- Stock en el 3PL de Miami: **3.300 u (1.100 por color) sin punta de soldar adentro**, aunque la caja la muestra. Confirmado por Santi el 2026-10-08.
+- **+300 u devueltas (de Amazon) con punta de soldar.** Estado y colores sin revisar. Son las unidades para la prueba DTC.
+- Costo puesto en Miami: **máx. $7/u todo incluido** (incluye almacenaje hasta hoy; no incluye el flete al comprador). Capital inmovilizado: **≈ $23.100**.
+- **Precios mayoristas definidos** (FOB Miami, flete a cargo del comprador): ver `canales.md` › Precios mayoristas.
+- No está publicado en ningún canal.
+- **Decisión 2026-10-08: Shopify DTC descartado.** Shopify prohíbe la categoría vape, el PACT Act exige mucho para vender al consumidor y los transportistas no hacen la entrega final. Detalle en `canales.md`.
+
+## Qué sigue (en orden)
+1. 3PL = **Skytrader USA** (Miami, contacto Max). Costos recibidos: $1,50/orden + envío (ver `canales.md`). **Falta:** qué courier usan y si acepta baterías 510 B2B · (el saldo de $1.225 con Skytrader es de otro producto, no de TerpTech: aclarado por Santi el 2026-10-08).
+2. Inspeccionar las 300 devueltas en Skytrader: cuántas están cerradas o como nuevas, cuántas abiertas o falladas, y de qué colores. Sólo las cerradas se venden como nuevas.
+2b. Cotizar puntas de soldar 510 sueltas a la fábrica (costo + flete), por si la prueba DTC funciona y hay que armar kits con las 3.300.
+3. ✅ Line sheet nuevo: `catalogo/TerpTech_Wholesale_Line_Sheet.pdf` (2 páginas, 3 colores, precios $12 / $11 / $9,50, lote completo "Ask us"). El viejo `07_line_sheet_mayorista.pdf` NO se usa más.
+4. Armar web vidriera B2B (catálogo + wholesale inquiry, sin checkout).
+5. ✅ Outreach en marcha (ver abajo).
+6. Pedir a la fábrica UN38.3 y MSDS.
+
+## Qué NO hacer
+- No abrir tienda DTC posicionada como vape/cartuchos. Prueba DTC sólo con el modelo BatteryMods (accesorio real en la caja, mensajes de herramienta) y con 300 u como máximo (ver `canales.md`).
+- No volver a publicarlo en Amazon como "soldering iron" ni bajo "Generic": es una categorización falsa y pone en riesgo la cuenta entera.
+- No usar USPS para ningún envío posicionado como vape.
+- **No vender al consumidor ni en Amazon las 3.300 u sin punta como "soldador":** la caja promete una punta que no trae (producto distinto a lo declarado: reclamos, devoluciones y riesgo de cuenta). Esas van a mayoristas, o se arman kits agregando la punta.
+
+## Outreach online — estado al cierre del 2026-10-08
+- Gmail de TerpTech (terptech.company@gmail.com) conectado como conector. Firma con dirección física: 2970 NW 75th Ave, Miami, FL 33122 (depósito de Skytrader).
+- **50 mails enviados hoy:** 10 seguimientos a los contactados en agosto + 40 primeros contactos (distribuidores, tiendas online con baterías novelty y tanda Florida). Bitácora: `mayoristas/outreach.md` §8.
+- Lista y seguimiento: `mayoristas/leads.csv` (62 leads: 50 contactados, 12 sin contactar). Rotación: `scripts/terptech_cola.py` (toque 1 a toda la lista → después toque 2, mínimo 3 días entre toques, máximo 6).
+- Plantillas T1–T6 + respuestas: `mayoristas/plantillas.md`. Muestra gratis = gancho; el envío lo paga el comprador y se descuenta de la 1.ª caja; se envía sólo a calificados.
+- ⛔ Envío automático (rutina de 10 por hora): bloqueado por los permisos de la sesión. Por ahora los envíos se hacen a mano y a pedido de Santi.
+- ⚠️ eBay "santerp_0": suspensión permanente (no fue un hackeo; los inicios de sesión eran de Santi en Maipú). **No abrir otra cuenta de eBay.** Cambiar la contraseña de ZIK Analytics, que llegó en texto plano.
+
+## Próxima sesión (en orden)
+0. **Historia completa + proyección** (pedido de Santi): con el Gmail **cemar4025** conectado, leer todo lo de TerpTech (Amazon: ventas, pagos, suspensión, mensajes de compradores; fábrica: specs, peso, medidas, certificados, facturas; reviews o capturas). Guardar en `HISTORIA.md`. Después: mini análisis + **proyección de venta al 31-dic-2026** en `proyeccion.md`. Al terminar, volver a conectar **terptech.company** (desde ahí salen los mails y llegan las respuestas).
+1. Revisar respuestas en el Gmail de TerpTech y contestar rápido (plantillas R1–R7). Escalar a Santi pedidos y muestras.
+2. 🔥 NEPA: Basant K Sah (Purchasing Manager). Mail enviado 2026-10-08. Si no responde: WhatsApp el viernes 9-oct 10:00 ET (texto en `mayoristas/outreach.md` §9; lo manda Santi).
+3. Envíos a las 126 tiendas nuevas (`mayoristas/investigacion_*.csv`): Florida → sudeste → resto, ~50 por día. Primero cargarlas en `leads.csv` y sacar los duplicados.
+4. Desde el 2026-10-11: mail fresco en HILO NUEVO a los contactados en agosto, y toque 2 a los que no respondieron.
+5. Pendientes de Santi: con Max (courier B2B, peso y medidas, cotización de envío, retiro en Doral); nombre exacto de la LLC y si Payoneer está a su nombre (para facturar); medio de cobro del envío de muestras (monto fijo propuesto: $15); subir capturas de reviews de su compu a `imagenes/`.
+6. Más tiendas de Florida sin email todavía (17 dominios listados al final del informe de investigación; ej. sky941.com, 13 locales).
+
+## Datos confirmados por Santi el 2026-10-08
+- Cuerpo de silicona **resistente a caídas** (ya está en el catálogo).
+- El cobro depende del cliente y de la cantidad; siempre comparar contra lo que la tienda paga y cobra por su Lookah Bear u Ooze (ver `canales.md`).
+- Cobra en USD por transferencia: Global66, Payoneer, DolarApp.
+- Tiene una LLC en Miami (nombre y EIN a confirmar).
+
+---
+
+## 📄 `E-commerce/TERPTECH/canales.md`
+
+---
+tipo: analisis-canal
+producto: TerpTech Premium 650mAh
+fecha: 2026-10-08
+pregunta: ¿Vale la pena vender TerpTech en Shopify (DTC, EE.UU.) despachando desde el 3PL?
+---
+
+# TERPTECH — ANÁLISIS DE CANALES
+
+## Conclusión
+
+**Shopify DTC: NO.** No es un problema de marketing ni de ejecución: el canal está cerrado para esta
+categoría por la plataforma, por los procesadores de pago, por los transportistas y por la ley federal.
+**Canal recomendado: B2B mayorista** (smoke shops y distribuidores), que ya está armado en
+`07_line_sheet_mayorista.pdf`.
+
+## Por qué no Shopify (HECHO, verificado 2026-10-08 con fuentes externas)
+
+TerpTech es una **batería 510 para cartuchos** (line sheet: "510-Thread Cart Battery"; review 5★: "great for cartridges";
+keyword top del listing: "vape pen"). Para la ley y para las plataformas es un **componente de ENDS** (vapeo),
+aunque no lleve nicotina.
+
+| Bloqueo | Qué dice | Consecuencia |
+|---|---|---|
+| **Shopify** | Desde junio-julio 2026 prohíbe la categoría vape entera, incluido hardware, partes y accesorios, con o sin nicotina | Riesgo alto de que bajen la tienda. Antes ya estaba prohibido en Shopify Payments |
+| **Pagos** | Stripe, PayPal y Square lo restringen. Queda sólo una cuenta "high-risk": ~3,5%+ de comisión, $25–50 por contracargo y reserva retenida de 5–20% durante 90–180 días | Margen y caja comprometidos |
+| **PACT Act** (ley federal) | Cubre ENDS **y sus componentes, incluidas las baterías**, también si se usan con cannabis. Para vender a consumidores exige registro en la ATF, reportes mensuales a cada estado, verificar edad 21+ al comprar **y** al entregar (DNI + firma de un adulto) y no usar USPS | Carga legal y administrativa desproporcionada para 1 SKU |
+| **Transportistas** | USPS tiene prohibido enviarlo a consumidores. FedEx y UPS dejaron de transportar vapes desde 2021. DHL, sólo B2B con aprobación previa | **No hay forma estándar de hacer la entrega final al cliente.** Hay que confirmar si el 3PL siquiera puede despacharlo |
+| **Publicidad** | Meta, Google y TikTok no permiten anunciar productos de vapeo (*a confirmar al lanzar*) | Sin tráfico pago, una tienda propia no vende |
+
+Fuentes: Shopify vape ban (rigbyjs.com, bsscommerce.com); PACT Act (natlawreview.com, cdtfa.ca.gov,
+cstoredecisions.com); transportistas (convenience.org ago-2025, vaping360.com). Son fuentes secundarias:
+antes de cualquier decisión irreversible, confirmar con un abogado en EE.UU.
+
+## Riesgo que hay que mirar: volver a Amazon
+
+- HECHO: el listing anterior estaba como **"Generic" › Soldering Irons** ("Mini Solder") y vendía por "vape pen" y "510 threaded battery".
+- INFERENCIA: Amazon prohíbe los productos de vapeo. Volver a publicarlo como soldador es una **categorización
+  falsa**. Además, las reviews dicen "great for cartridges", así que la evidencia contra el listing está en la página misma.
+- Va contra la regla dura "lo que se declara a Amazon tiene que ser la misma verdad". Con la cuenta personal ya bloqueada
+  por la Sección 3, **arriesgar una cuenta nueva con este producto puede costar la cuenta entera**, no sólo el ASIN.
+
+## Canal recomendado: B2B mayorista
+
+Por qué funciona: la venta a comercios no es venta al consumidor (las exigencias del PACT para consumidores no aplican igual), se despacha
+por caja o pallet (flete LTL o retiro), no necesita anuncios y el line sheet ya existe con la prueba social
+(4,4★, 80+ reviews, ~1.900 u/mes, ~$46K/mes en Amazon, sin guerra de precios porque ya no está publicado).
+
+Precios tentativos del line sheet:
+
+| Tier | Precio/u | 1.100 u | 3.300 u |
+|---|---|---|---|
+| Smoke shop (por caja) | $9–13 | $9.900–14.300 | $29.700–42.900 |
+| Distribuidor (500–1.500 u) | $7–10 | $7.700–11.000 | $23.100–33.000 |
+| Lote completo | $6–8 | $6.600–8.800 | $19.800–26.400 |
+
+*Ingreso bruto. No se puede calcular el margen porque el costo unitario es `UNKNOWN`.*
+
+## Datos faltantes (en orden de impacto)
+
+1. ~~CONFLICT de stock~~ RESUELTO 2026-10-08: 3.300 u (1.100 por color). Santi dice "1.100 unidades en 3 colores". La ficha dice 1.100 de **cada** color y el line sheet dice
+   "3,300 units in stock in Miami, FL". ¿Son 1.100 o 3.300 en total? Cambia el valor del stock entre 1x y 3x.
+2. ~~Costo unitario~~ RESUELTO: máx. $7/u todo incluido (sin flete al comprador).
+3. **3PL:** nombre, si acepta productos de vapeo y si despacha por caja o pallet (LTL).
+4. Documentos que piden los compradores B2B: UN38.3 y MSDS de la batería, specs del lote.
+5. Si no hay comprador: ¿hasta qué precio se acepta liquidar el lote completo para recuperar caja?
+
+## Anexo 2026-10-08 — ¿Web propia (no Shopify) como Yocan / Ooze? ¿O camuflar como soldador?
+
+**Cómo venden esas marcas (HECHO parcial):** venden sobre todo **por mayoristas**: distribuidores, smoke shops y grandes
+tiendas online de vapeo (ej. ElementVape vende Ooze y Yocan). Su web propia es secundaria y funciona con
+plataforma no-Shopify (típicamente WooCommerce), procesador high-risk, verificación de edad y transportistas privados
+caros, sólo en zonas pobladas. Además están registradas según el PACT Act.
+
+**Web propia DTC: números por unidad a $24,99 (HIPÓTESIS, todo a confirmar con cotizaciones):**
+
+| Concepto | $/u |
+|---|---|
+| Precio | 24,99 |
+| Procesador high-risk (~5%) | −1,25 |
+| Verificación de edad | −0,50 a −1 |
+| Pick & pack del 3PL | −3 |
+| Envío con transportista privado + firma de adulto | −8 a −12 |
+| Captación sin Meta/Google (influencers, SEO, cupones) | −5 a −10 |
+| **Queda antes del costo del producto** | **≈ −1 a +7** |
+
+A eso se suman costos fijos: abogado, registro ATF, reportes mensuales a cada estado e impuestos estatales al vapeo.
+**Mayorista a $9–13/u** deja más por unidad, se cobra de una vez, no necesita anuncios ni entrega puerta a puerta y rota
+el stock en semanas, no en meses. **Decisión: mayorista primero.** Web propia sólo como vidriera B2B (catálogo y
+formulario "wholesale inquiry", sin checkout al consumidor).
+
+**Camuflarlo como soldador:** descartado. Que otros lo hagan no lo vuelve seguro. Es declarar algo falso a la plataforma
+(va contra la regla dura "misma verdad"), la evidencia está en las propias reviews y las bajas de Amazon llegan en barridas.
+Con una cuenta ya bloqueada por Sección 3, el riesgo de asociación es cuenta entera más stock retenido.
+
+## Precios mayoristas (2026-10-08, con costo real)
+
+HECHO: 3.300 u · costo máx. $7/u puesto en Miami, todo incluido · capital ≈ $23.100.
+Regla: **precios FOB Miami** (el comprador retira o paga el flete), así el envío no come margen.
+
+| Tier | Precio actual en el line sheet | Margen/u con ese precio | **Precio nuevo** | Margen/u |
+|---|---|---|---|---|
+| Smoke shop (por caja de 50) | $9–13 | $2–6 | **$12** (desde 2 cajas: $11) | $4–5 |
+| Distribuidor (500–1.500 u) | $7–10 | $0–3 | **$9,50** | $2,50 |
+| Lote completo (3.300 u) | $6–8 | **−$1 a +$1 ⚠️** | **$8,50 piso** | $1,50 |
+
+⚠️ El "Full lot $6–8" actual puede perder plata: hay que sacarlo del line sheet.
+Margen del comprador: a $12 contra un MSRP de $24,99, el smoke shop duplica su inversión (keystone), que es lo que el canal espera.
+
+### Escenarios para las 3.300 u (ganancia = precio − $7)
+
+| Escenario | Ingreso | Ganancia | ROI sobre $23.100 | Velocidad |
+|---|---|---|---|---|
+| A. Todo a smoke shops a $11–12 | $36–40K | **$13–16K** | 57–71% | lenta (66 cajas) |
+| B. Mixto: 1.000 smoke shops a $12 + 2.300 a un distribuidor a $9,50 | $33,9K | **$10,8K** | 47% | media |
+| C. Lote completo a $8,50 | $28K | **$5K** | 21% | 1 operación |
+
+INFERENCIA: B es el mejor equilibrio. Las cajas sueltas a smoke shops validan el precio y sirven de prueba social para el
+distribuidor, y el distribuidor rota el grueso del stock. C queda como salida si en ~60 días no hay tracción.
+Referencia de demanda: en Amazon se vendían ~1.900 u/mes, así que el stock equivale a menos de 2 meses de esa demanda.
+
+## Anexo 2026-10-08 — Cómo lo hace BatteryMods (batterymods.com)
+
+Fuentes: snippets de búsqueda (el sitio no se pudo abrir desde la sesión). Separar HECHO / INFERENCIA.
+
+**HECHO**
+- Empresa familiar de Denver, CO. Su web dice vender "510 Threaded Rechargeable Batteries" y "Fun 510 Threaded Accessories".
+- Sus productos son **batería 510 + accesorio real en la caja**: "Versa 510 Soldering Iron Accessory with Mini Battery",
+  "Versa Soldering Iron Accessory with Palm Battery", "Versa Light Mini" (linterna).
+- En Amazon publica **con marca propia** ("BatteryMods Mini Rechargable Soldering Iron", "Palm Solder", "Versa Light")
+  en Tools & Home Improvement.
+- Web propia con envío gratis en EE.UU. por correo normal y entrega en ~1 semana. No aparece verificación de edad.
+
+**INFERENCIA**
+- La URL tipo `/collections/` y `/products/` sugiere Shopify.
+- La clave no es "camuflar": es que **el uso declarado es real**. El soldador viene en la caja, y la web, Amazon y el
+  packaging dicen lo mismo, sin mencionar nunca vape ni cartuchos. Por eso pueden usar correo normal, Shopify y Amazon.
+- Sigue siendo una **zona gris**: el comprador sabe para qué es una batería 510 y una plataforma puede reclasificarlo
+  en cualquier momento. Lo que los protege es que son consistentes en todos los canales.
+
+**Diferencias con TerpTech hoy**
+| | BatteryMods | TerpTech |
+|---|---|---|
+| Accesorio de herramienta en la caja | Sí (punta de soldar, linterna) | `UNKNOWN`: confirmar si la caja trae punta |
+| Marca | Propia, neutra ("Battery Mods", "Versa") | "Terp" remite a terpenos/cannabis, contradice "herramienta" |
+| Mensajes del listing | Sólo herramienta | Keywords "vape pen" y reviews "great for cartridges" |
+| Line sheet B2B | — | Dice "510-Thread **Cart** Battery" |
+
+**Qué haría falta para copiar el modelo de forma honesta**
+1. Que la caja traiga de verdad una punta de soldar 510 (y quizás un accesorio más). Kitting en el 3PL.
+2. Usar una marca o nombre de línea neutro para el canal herramienta. "TerpTech" queda para B2B smoke shops.
+3. Que el listing y la web hablen sólo de usos que el producto cumple (soldar, hobby, reparaciones), sin guiños a cartuchos.
+4. Aceptar el riesgo residual: puede caerse igual. **No usar la cuenta de Amazon principal para probarlo.**
+
+**Números DTC con posicionamiento herramienta (HIPÓTESIS):** $24,99 − costo $7 − punta + kitting ~$1,50 − comisiones ~$0,75
+− pick & pack ~$3 − envío ~$4,50 ≈ **$8 antes de publicidad**. Sólo supera al mayorista ($4–5/u, sin costo de captación)
+si **cada venta cuesta menos de ~$3–4 en anuncios**. Hay que probarlo, no suponerlo.
+
+**Decisión propuesta:** mayorista con ~3.000 u (caja rápida) + **prueba DTC con 300 u (100 por color)** con el modelo
+BatteryMods. Si en 4–6 semanas cada venta cuesta menos de $4 en anuncios, se escala con stock nuevo. Si no, esas 300 u
+también van a mayoristas.
+
+3PL: **Skytrader USA** (Miami). No aparece en búsquedas web. Preguntarle: ¿despacha B2B por caja o pallet (LTL)? ¿hace
+kitting? ¿se integra con Shopify? ¿acepta baterías de litio 510?
+
+## Anexo 2026-10-08 — Punta de soldar: qué cambia
+
+HECHO (Santi): la caja dice "Mini Solder", muestra la punta impresa y trae instrucciones de soldado. En las 3.300 u
+**la punta no viene adentro**. Hay **300 u devueltas que sí la traen**.
+
+| Lote | Canal | Por qué |
+|---|---|---|
+| **300 u con punta** | **Prueba DTC modelo BatteryMods** | Ya cumplen lo que promete la caja: no hace falta armar kits ni comprar puntas. Costo de la prueba ≈ $0 en stock nuevo |
+| **3.300 u sin punta** | **Mayoristas (smoke shops y distribuidores)** | El comprador B2B las compra como batería 510 y la punta no le importa. Venderlas al consumidor como soldador sería entregar algo distinto a lo que promete la caja |
+| 3.300 u (si la prueba funciona) | Kitting: agregar la punta en Skytrader | Costo a cotizar (punta + armado). Vuelve "honesta" la caja y libera stock para DTC |
+
+Riesgo de las 300: son **devoluciones**. Inspeccionar y clasificar en cerradas/como nuevas (se venden como nuevas),
+abiertas (se venden como "open box" con descuento) y falladas (descarte). Recién ahí se sabe cuántas hay de verdad para la prueba.
+Stock total: **3.600 u** (3.300 + 300).
+
+## Plan de liquidación al 31-dic-2026 (decidido 2026-10-08)
+
+HECHO (Santi): stock comprado en enero 2026 **con deuda**. Objetivo: vender las 3.300 u antes del **31-dic-2026** para cancelarla.
+`DATO FALTANTE:` tasa y monto de la deuda. Sin eso no se puede calcular hasta qué precio conviene bajar para cobrar antes.
+
+### Cuenta del embudo (HIPÓTESIS, se recalibra con datos reales a las 2 semanas)
+| Canal | Volumen de contactos | Respuesta | Cierre | Unidades al 31-dic |
+|---|---|---|---|---|
+| Smoke shops, 1 casilla con subida gradual | ~1.000 | 3–8% | 25% de las respuestas → 1 caja | **400–1.000** |
+| Smoke shops, +4 casillas en un dominio secundario | ~3.000–4.000 | 3–8% | ídem | 1.200–3.000 |
+| Distribuidores y tiendas online grandes | 30–50 | 10–20% | 1–3 acuerdos | **500–2.300** |
+
+INFERENCIA: **con smoke shops solas no se llega al 31-dic.** Hacen falta distribuidores en paralelo desde el día 1, o más casillas.
+
+### Puntos de control (con fecha)
+| Fecha | Si se cumple | Si no se cumple |
+|---|---|---|
+| **1-nov** | ≥ 300 u vendidas o ≥ 2 distribuidores negociando | Distribuidor a $8,50 desde 500 u |
+| **20-nov** | ≥ 1.500 u vendidas | Lote restante a distribuidores y compradores de saldos desde $8 |
+| **10-dic** | Resto vendido | Liquidar el remanente al mejor precio (piso según tasa de la deuda) |
+
+### Bloqueo operativo #1: el transportista
+Despachar cajas sueltas a smoke shops de todo el país requiere un transportista que acepte productos de vapeo
+entre comercios (UPS y FedEx no). Preguntarle a **Skytrader** qué usa. Opciones: transportistas regionales, logística
+especializada en vapeo B2B, o retiro/LTL para distribuidores. **No declarar el envío como "soldador".**
+Si no se resuelve, el canal smoke-shop-nacional no funciona y todo va a distribuidores.
+
+### Fuente de leads
+Google Maps (smoke shop, tobacco shop, vape shop, head shop) en los 50 estados, exportado con una herramienta
+tipo Outscraper o Apify (unos pocos USD cada 1.000 resultados; trae web, teléfono y a veces email).
+`scripts/terptech_leads.py EXPORT.csv` limpia, saca duplicados y cerrados, puntúa popularidad (rating + reseñas)
+y arma `mayoristas/leads.csv` con tier A/B/C y el dato real para personalizar.
+Se empieza por el tier A (más populares = mejores candidatos a muestra).
+
+## Costos de Skytrader USA (WhatsApp con Max, 10-sep-2026; cotización pedida para FBM)
+| Concepto | Costo |
+|---|---|
+| Preparar la orden y empacar | $1,00 por orden |
+| Etiqueta, material (bolsa o sobre) y despacho por courier | $0,50 por orden |
+| **Total por orden despachada** | **$1,50** (sin envío) |
+| Almacenaje en estantería (25 ft³, entran ~10 cajas) | $25/mes (≈ $0,01/u) |
+| Pallet adicional | $35/mes |
+| Envío | **No incluido**: depende del destino. El sobre es lo más barato |
+
+Impacto: una caja de 50 u a una smoke shop cuesta **$1,50 de preparación por pedido (≈ $0,03/u) + envío**, así que el margen
+del mayorista casi no se toca. Una muestra gratis cuesta ≈ **$7 (unidad) + $1,50 + envío en sobre ≈ $13–15**.
+Presupuesto sugerido: 30 muestras ≈ $400–450, sólo para tiendas calificadas.
+
+`DATO FALTANTE:` **con qué courier despachan** y si acepta baterías 510 entre comercios. La cotización no lo dice.
+
+~~⚠️ Deuda con Skytrader~~ (ACLARADO 2026-10-08: los $1.225 son de otro producto, no de TerpTech). el chat muestra "Total adeudado: $1225" y un recordatorio de Max sobre el saldo pendiente
+("que NO repitamos lo de la última vez"). INFERENCIA: si no se paga, el 3PL puede frenar despachos o retener stock
+justo cuando empiecen las ventas. Cancelarlo (o acordar un plan de pago) antes del primer pedido.
+
+## Envío desde Miami: estimación por destino (2026-10-08)
+
+**Todo HIPÓTESIS.** El peso y las medidas son `UNKNOWN` y el courier de Skytrader no está confirmado. Se usan como referencia
+las tarifas comerciales terrestres públicas por zona. Un courier que acepte productos de vapeo puede costar igual o más.
+Supuestos: 1 u en su caja ≈ 120 g · caja de 50 u ≈ 7–9 lb · pallet ≈ 1.500–2.500 u.
+
+| Destino desde Miami | Zona aprox. | Muestra (1 u) | Caja de 50 u | Por unidad (caja) | Pallet LTL |
+|---|---|---|---|---|---|
+| Florida | 2 | $8–10 | $12–15 | $0,25–0,30 | $100–200 |
+| GA, Carolinas, AL, TN | 3–4 | $9–11 | $14–18 | $0,28–0,36 | $150–250 |
+| TX, Midwest, Noreste (NY/NJ) | 5–6 | $10–12 | $17–22 | $0,34–0,44 | $200–350 |
+| Oeste (CA, AZ, NV, WA) | 7–8 | $12–15 | $22–28 | $0,44–0,56 | $300–500 |
+
+Lectura: **el envío de una caja pesa entre $0,25 y $0,56 por unidad.** A $12/u la ganancia pasa de $5 a ~$4,45–4,75/u.
+Ofrecer **envío gratis en la caja** cuesta poco y saca una objeción. Conviene ponerlo en la oferta.
+Muestra completa (unidad $7 + despacho $1,50 + envío) ≈ **$16,50–23,50**. Por eso sólo va a tiendas calificadas.
+
+Ganancia por caja de 50 a $12 (−$7 costo, −$1,50 despacho, −envío):
+- Florida: ≈ $233–236 · Texas/Noreste: ≈ $226–231 · California: ≈ $220–226
+
+Para confirmar con Skytrader: peso y medidas de 1 u y de la caja master, courier, y una cotización real a 3 destinos (FL, TX, CA).
+
+**Decisión de Santi (2026-10-08): el envío de la muestra lo paga quien la pide.** La unidad es gratis.
+- Costo para TerpTech por muestra: $7 + $1,50 = **$8,50**. 30 muestras ≈ $255.
+- Además sirve de filtro: el que paga $8–15 de envío está interesado en serio.
+- Para que no se caigan por eso: **el envío pagado se descuenta del primer pedido de una caja.** Ya está en las plantillas T1 y R2.
+- Cobro: link de pago antes del despacho (medio de pago a definir).
+
+### Tarifas UPS Ground 2026 publicadas (lista, sin descuento) — referencia
+Fuentes: UPS daily rates 2026 (1 lb) y atoship.com (5 y 10 lb). Caja de 50 ≈ 8 lb, interpolado entre 5 y 10 lb.
+
+| Desde Miami a | Zona | Muestra 1 lb | Caja ~8 lb | Por unidad |
+|---|---|---|---|---|
+| Florida | 2 | $11,99 | ≈ $15 | $0,30 |
+| GA / Carolinas | 3–4 | $12,38–13,51 | ≈ $17–19 | $0,34–0,38 |
+| Texas | 5–6 | $14,10–14,60 | ≈ $20–22 | $0,40–0,44 |
+| California | 8 | $15,03 | ≈ $28 | $0,56 |
+
+⚠️ **UPS no se puede usar:** su política oficial dice que no acepta "any Vaping Product … regardless of nicotine content"
+dentro de EE.UU. FedEx tampoco. DHL acepta sólo envíos entre empresas **con aprobación previa**. USPS sólo entre empresas con
+"mailing exception" aprobada. Los números sirven para presupuestar: un courier habilitado debería estar en un rango
+parecido o algo más caro. **El bloqueo sigue siendo encontrar un courier habilitado** (preguntar a Skytrader o pedir aprobación a DHL).
+
+## Precio según cliente y cantidad + referencia de la competencia (2026-10-08)
+
+Regla de Santi: el precio depende del cliente y de la cantidad, y **siempre hay que tener de referencia a cuánto vende la tienda
+los Yocan, Lookah, etc.** Si vende baterías a $10 al público, no se le compite por precio: se le explica por qué TerpTech es premium.
+
+**Precios de venta al público de la competencia** (HECHO: listados públicos, oct-2026):
+| Batería | Precio al público | Posición |
+|---|---|---|
+| Lookah Bear (personaje) | $19,99–40 | **Competidor directo** (novelty premium) |
+| Ooze Hoot / Duet | $19,99–24,99 | novelty / premium |
+| Ooze Digit / HILO | $11,99–12,99 | básica |
+| Yocan Kodo Pro | $14–16 | básica con display |
+| **TerpTech** | **$24,99 sugerido** | novelty premium, igual que Lookah Bear |
+
+INFERENCIA: el mayorista suele pagar ~40–50% del precio al público ("keystone"). Lookah Bear ≈ $9–14 al por mayor,
+Kodo Pro ≈ $6–8. TerpTech a $12 la caja está en la franja del Lookah Bear, no en la de las básicas.
+`DATO FALTANTE:` precio mayorista real de Lookah/Ooze. Se consigue preguntándole a cada tienda en la calificación (pregunta 1).
+
+**Cómo responder si dicen "es caro" o "yo vendo baterías a $10":**
+1. Preguntar a cuánto venden su batería más cara con personaje (Lookah Bear, Ooze Hoot).
+2. Comparar contra ESA, no contra la básica: más mAh (650), display en la boca, personaje coleccionable, 2,9% de devoluciones.
+3. Margen: compran a $12 y venden a $24,99 → duplican.
+4. Recién ahí bajar por cantidad, nunca de entrada.
+
+**Pisos (no se escriben en el primer mensaje):** caja de 50 → $11 · 500+ → $9,50 · lote completo → $8,50.
+
+⚠️ No decir "anti-caídas" ni "drop-proof" hasta confirmarlo (cuerpo de silicona = HIPÓTESIS). Si es cierto, es un gran argumento.
+
+## Facturación y cobro (2026-10-08)
+- Un comprador B2B necesita **factura (invoice) a nombre de una empresa** y suele pagar por transferencia ACH o wire a una cuenta que coincida con ese nombre.
+- **Recomendado:** facturar desde la LLC de Santi y registrar "TerpTech" como **nombre comercial (fictitious name / DBA)** en Sunbiz (Florida, ~$50). Así la factura dice "<LLC> d/b/a TerpTech" y todo coincide.
+- **Cobros grandes (cajas o lotes):** a la cuenta de la LLC, o a **Payoneer si la cuenta es de la LLC** (permite pedir pagos con ACH de EE.UU.).
+- **Cobros chicos (envío de muestras, ~$15):** Global66 o DolarApp sirven, pero si son cuentas personales el nombre no coincide con la factura. Para cajas, mejor la cuenta de la LLC.
+- **Certificado de reventa:** pedirle a cada comprador su resale certificate (los mayoristas no pagan impuesto a las ventas). Confirmar con el contador si la LLC tiene que registrarse para sales tax en Florida y si algún estado cobra impuestos especiales a las baterías de vapeo.
+- `DATO FALTANTE:` nombre exacto de la LLC de Miami, EIN y qué cuentas están a su nombre.
+
+---
+
+## 📄 `E-commerce/TERPTECH/FICHA_DE_PRODUCTO.md`
 
 ---
 tipo: ficha-producto
@@ -2853,7 +3320,8 @@ fuentes: vault "proyectos 100k" (AMZ-P003 PRODUCT_INFO, VISUAL_EVIDENCE, MASTER_
 | Usos declarados (Amazon) | Electronics Repair, Jewelry Soldering, Residential Use | listing |
 | **Dimensiones** | `UNKNOWN` — no hay ficha dimensional en ningún vault | — |
 | **Peso** | `UNKNOWN` | — |
-| **Packaging / caja / case pack** | `UNKNOWN` (line sheet dice "Case pack: 50 / 100 — definir") | line sheet |
+| **Packaging / caja** | La caja dice "Mini Solder", muestra la punta de soldar impresa y trae instrucciones de soldado. **Lote de 3.300 u: la punta NO viene adentro** (Santi la sacó en esa producción). **Lote de 300 u devueltas: SÍ trae punta.** | Santi 2026-10-08 |
+| Case pack | `UNKNOWN` (line sheet dice "Case pack: 50 / 100 — definir") | line sheet |
 | **Certificados** (FCC, CE, RoHS, UN38.3, MSDS/SDS) | `UNKNOWN` — **no hay ningún certificado en los vaults**. Pedírselos a la fábrica | — |
 | Fábrica / proveedor | `UNKNOWN` — solo foto de la planta (cartelería en chino) | imagen 06 |
 
@@ -2916,28 +3384,746 @@ Descripción larga, A+ Content y backend keywords: `UNKNOWN` (no capturados).
 3. Fotos originales en alta resolución de la galería (las 7 + el video): hoy solo hay capturas de pantalla.
 4. Texto completo del 5.º bullet y de la descripción, y más reviews positivas (se pueden capturar desde la página de reviews del ASIN si sigue pública).
 
----
-
-## 📄 `Etsy/CLAUDE.md`
-
-# Ecosistema Etsy
-
-## Resumen
-<!-- tienda(s), nicho, estado -->
-
-## Productos / listings
-<!-- si crecen, una subcarpeta por producto como en Amazon/ -->
-
-Notas de detalle compartidas: `_comun/`
+## 11. Recuperar las reviews de Amazon (2026-10-08)
+- Amazon no tiene una API pública que devuelva el texto de las reviews, y con el listing suprimido ya no se ven en la web.
+- Formas de recuperarlas: (1) **Wayback Machine** desde el navegador de Santi: `web.archive.org/web/*/amazon.com/*B0F9SXP5MW*` (desde la sesión en la nube está bloqueado); (2) capturas viejas en la compu o en el vault de Obsidian; (3) herramientas que haya usado (Helium 10, Jungle Scout, Keepa, ZIK) pueden tener guardado el historial de rating y reviews.
+- Hoy la única review con texto guardada es la de Reo Clark (5★). Con 4–5 más, el catálogo y los mails mejoran mucho.
 
 ---
 
-## 📄 `Paginas-Web/CLAUDE.md`
+## 📄 `E-commerce/TERPTECH/_CUENTA-DECOHOUSE/CLAUDE.md`
 
-# Páginas web
+# CUENTA DECOHOUSE — cuenta personal de Santi (bloqueada, Sección 3)
 
-## Sitios
-<!-- dominio, plataforma (Shopify/WordPress/...), objetivo, estado -->
+> Lo que se sabe de la cuenta bloqueada, sacado del Gmail principal (cemar4025) el 2026-10-08. Estado y próximos pasos: `ESTADO.md`.
 
-Notas de detalle compartidas: `_comun/`
+## Datos de la cuenta
+| Dato | Valor |
+|---|---|
+| Nombre de tienda | **DecoHOUSE** (titular: Santi Navarria) |
+| Email de la cuenta | Gmail principal de Santi (cemar4025) |
+| Marketplaces | Amazon.com (US) · también Amazon.co.jp y aviso de saldo en Amazon.ca |
+| Estado | **Desactivada permanentemente por Sección 3 del BSA** desde el **08-feb-2026** |
+| Motivo (textual de Amazon) | "listed items that are not permitted for sale on Amazon **in a manner to avoid detection**" = **conducta evasiva** |
+| Producto citado | ASIN **B0DZH23VN8** · "Premium 510 threaded battery vaporizer, 1100mAh…" → política de **cigarrillos electrónicos / vaporizadores y accesorios** (prohibidos aunque no lleven nicotina) |
+| Otro ASIN de la cuenta | **B0F9SXP5MW** (TerpTech 650mAh, batería 510) listado como "Soldering Irons" → ver `../` (carpeta TERPTECH) |
+| Japón | Suspendida el 10-feb-2026 "por infracción en otra tienda de la cuenta" (arrastre de la de US) |
+
+## Cronología (HECHO, de los mails)
+| Fecha | Qué pasó |
+|---|---|
+| 16–27 oct 2025 | CASE 18658172731: investigación FBA de B0F9SXP5MW por "no se parece a lo publicado"; unidades mal etiquetadas, inventario a reservado. Cerrado tras cambiar imágenes |
+| oct–nov 2025 · ene 2026 | Varios avisos de listings desactivados (precio, "account at risk of deactivation") |
+| 30 ene 2026 | Aviso formal de certificar info del negocio → certificado |
+| 31 ene – 4 feb 2026 | Se crean listings nuevos "Terpy / Terp Black / Terp Pink…" (variantes de la batería) |
+| **08 feb 2026** | **Desactivación permanente, Sección 3** (vape / evasiva) |
+| 09 feb 2026 | 1ª apelación rechazada · arranca la **retención de 90 días** de fondos |
+| 09–19 feb 2026 | Reembolsos FBA a clientes (~US$ 23–27 c/u) descontados del saldo |
+| 10 mar 2026 | Amazon borra todos los feeds de producto |
+| feb–abr 2026 | Avisos de inventario FBA **varado** (stranded) |
+| 10 abr 2026 | Amazon avisa: pasaron 60 días, **ya se puede pedir el desembolso** a `disbursement-appeals@amazon.com` |
+| 25 abr – 03 may 2026 | 2ª a 5ª apelación → todas "will remain deactivated" |
+| 23 sep 2026 | Santi reenvía los avisos de suspensión a un tercero (ivofba@gmail.com) · sin respuesta en el Gmail |
+| 07 oct 2026 | Amazon intenta cobrar a la tarjeta un **saldo deudor** de la cuenta y **la tarjeta rechaza** · pide actualizar el medio de cobro |
+
+## Reglas duras de esta cuenta
+1. **No volver a listar baterías 510 / TerpTech en ninguna cuenta de Amazon** (ni con otra categoría ni con otro nombre). Es exactamente lo que Amazon calificó de evasivo; repetirlo en KINAVARGAS o Beauty Michele las vincula y las mata.
+2. **No abrir cuentas nuevas** con datos de Santi ni de la LLC (ya está en `../../Amazon/KINA/CLAUDE.md` y `../../Amazon/_CUENTA-KINAVARGAS/CLAUDE.md`).
+3. No usar esta cuenta para operar nada de las otras cuentas.
+4. Cualquier contacto con Amazon sobre esta cuenta: sólo Seller Central o `disbursement-appeals@amazon.com`. Nada de "agentes" externos que pidan credenciales.
+
+---
+
+## 📄 `E-commerce/TERPTECH/_CUENTA-DECOHOUSE/ESTADO.md`
+
+# CUENTA DECOHOUSE — ESTADO
+
+**Actualizado:** 2026-10-08 (2ª pasada: US$ 3.000 retenidos, objetivo LLC)
+
+## TAREA EN CURSO (stand-by desde 2026-10-08)
+- En pausa por decisión de Santi; se retoma más tarde.
+- Hecho: historia desde el Gmail, plan (Opción 1), borrador de apelación, carpeta E-commerce, tablero privado: https://claude.ai/artifact/117FrTRcikxdUP4ibMjZHD
+- Al retomar, empezar por: (1) ¿se actualizó la tarjeta?; (2) ¿de qué cuenta es el merchant AK0H81VYQPLMY?; (3) datos de las cuentas caídas para la apelación; (4) MT Ball con Maxi.
+- Pendiente de Santi: abrir el repo como carpeta local en la app de Claude (GitHub Desktop → Clone `prueba` → elegir la carpeta en la app).
+
+## Datos confirmados por Santi (2026-10-08)
+- **Retenido: ~US$ 3.000.** Sin deuda (según Santi).
+- Objetivo real: **abrir una cuenta a nombre de la LLC (50% Santi / 50% socio)**. Recuperar DecoHOUSE para vender no es prioridad.
+
+## Cuentas relacionadas caídas (dicho por Santi, 2026-10-08)
+- Además de DecoHOUSE, Amazon bloqueó las cuentas de: socios, un amigo, la novia, la mamá, la hermana y un amigo estadounidense. **Faltan detalles** (titular, fecha, motivo citado, qué vendía cada una, si Santi las operaba).
+- **INFERENCIA:** es la política de cuentas relacionadas. Cada cuenta que cae vinculada a Santi suma al expediente como **evasión de la suspensión**, lo que baja más la chance de reinstalar DecoHOUSE.
+- Las que cayeron lo hicieron por haberse operado desde la misma Mac que DecoHOUSE, **sin haber vendido TerpTech**. Para Amazon el criterio es quién opera la cuenta, no quién vendió el producto.
+- **Beauty Michele (tío) y KINAVARGAS (esposa del socio) siguen activas** (~6 meses) y las opera Santi.
+
+## ✅ Decisión tomada 2026-10-08: Opción 1
+Santi: **no se cierran** Beauty Michele ni KINAVARGAS. Se vende el stock hasta que se acabe y después se deja de pagar el plan Professional (US$ 39,99/mes); ahí se deja de operarlas. Recién entonces: apelación honesta → LLC.
+- La apelación de DecoHOUSE espera a que **las dos** estén sin stock (si AVIE dura más que enero, la apelación se corre).
+- Tip de costo: cuando una cuenta venda **menos de ~40 u/mes**, conviene pasarla a plan Individual (US$ 0,99 por unidad, sin cuota) — pero Individual no permite Sponsored Products.
+- Consecuencia: **MT Ball no se lanza en Beauty Michele** (ver `../../Amazon/MT-BALL/ESTADO.md`).
+
+## (Contexto de la decisión)
+Operar Beauty Michele y KINAVARGAS siendo titular de una cuenta suspendida choca de frente con reinstalar DecoHOUSE: una apelación creíble dice "opero una sola cuenta". Una apelación que lo oculte sería falsa y, si la detectan, cierra la puerta del todo.
+- **Opción 1 (lleva a reinstalar + LLC):** KINAVARGAS termina en dic (ya planeado) y se cierra; Beauty Michele pasa a operarla 100% su titular o Santi sale de ella. Enero 2027: apelación honesta.
+- **Opción 2:** seguir operando las dos → no apelar DecoHOUSE por ahora (la revisión podría alcanzarlas) y la LLC sigue imposible.
+- Recomendación: Opción 1, alineada con el cierre de KINAVARGAS. La decisión real es Beauty Michele.
+
+## Diagnóstico
+- **HECHO:** 5 rechazos de apelación (feb → may 2026). Amazon: la conducta evasiva no tiene camino de reinstalación salvo prueba de cumplimiento.
+- **HECHO (política de Amazon):** quien tiene una cuenta desactivada no puede abrir otra. La LLC tiene que declarar a todo beneficiario final con ≥25% → Santi (50%) aparece con su ID → Amazon la vincula con DecoHOUSE y la desactiva (y retiene sus fondos).
+- **CONCLUSIÓN:** para la LLC **sí o sí hay que reinstalar DecoHOUSE**. Cobrar los US$ 3.000 no "limpia" a Santi. Esconder a Santi en la LLC = la misma conducta evasiva, y arrastra al socio.
+- Lo de la competencia (10–20 listings iguales sin bloquear) puede ser cierto, pero **no sirve en una apelación**: "otros lo hacen" es motivo clásico de rechazo. Amazon juzga la cuenta propia.
+
+## Lo que encontré en el Gmail (2026-10-08)
+| Pendiente | Qué hacer |
+|---|---|
+| 07-oct: "Credit card update required… **Payments will be suspended**" (sin leer) | Actualizar la tarjeta en Seller Central → Configuración → Info de la cuenta → Método de cobro. **Sin tarjeta válida no hay desembolso de los US$ 3.000.** |
+| 07-oct: "Pay your outstanding balance" (sin leer) | Santi dice que no hay deuda → verificar en Payments si hay algún cargo chico (ej. plan Professional) |
+| dic-2025: saldo deudor en **Amazon.ca** (sin leer) | Verificar en Seller Central Canadá que esté en cero |
+| Desembolso: nunca se pidió a disbursement-appeals@amazon.com | Pedirlo (texto abajo) — ver "Orden" |
+| Apelación honesta (Plan of Action) | No hay registro de qué se mandó en las 5 anteriores (fueron por Seller Central) |
+| Japón | Cae por arrastre de US; se resuelve sólo si se reinstala US |
+
+## ⚠️ Señal de riesgo grande (a confirmar por Santi)
+- **06-jun-2026** (4 meses después del bloqueo): desde este Gmail se mandó el texto de un listing "mini rechargeable soldering iron pen" a dos direcciones de un familiar.
+- **09-sep-2026:** Amazon avisa a este Gmail que borró 1 reseña de **B0F9SXP5MW "TerpTech Premium Mini Solder… Pen Battery"** en "tus listings", merchant ID **AK0H81VYQPLMY**. Siguen llegando avisos de capacidad FBA (sep-2026) e informes de Ads (07-sep-2026).
+- **Si la batería se volvió a listar en otra cuenta ligada a Santi**: es otra violación de la misma política + una cuenta relacionada activa. Eso hunde cualquier apelación y la cuenta de la LLC. **Hay que cerrarlo antes de apelar** (sacar el ASIN y el stock).
+- Dato faltante: ¿AK0H81VYQPLMY es DecoHOUSE o es otra cuenta? (se ve en Seller Central → Configuración → Info de la cuenta → Merchant Token)
+
+## Orden recomendado
+1. **Ya:** actualizar la tarjeta; confirmar a qué cuenta corresponde AK0H81VYQPLMY; si hay TerpTech activo en otra cuenta, sacarlo.
+2. **Octubre–diciembre:** armar la apelación honesta (`apelacion.md`) con pruebas (órdenes de eliminación, facturas de otros productos).
+3. **Enero 2027** (con KINAVARGAS ya vacía): mandar apelación + pedido de desembolso. Las dos revisiones pueden mirar "todas las cuentas relacionadas"; esperar 3 meses cuesta poco (los US$ 3.000 no vencen) y protege ~US$ 17.800 de Reflex.
+   - Si Santi prefiere no esperar por la LLC: decisión suya, sabiendo el riesgo para KINAVARGAS.
+4. Recién con DecoHOUSE reinstalada: abrir la cuenta de la LLC declarando a los dos socios.
+
+## Plan para reinstalar (máxima chance, sin atajos)
+1. **Congelar todo:** ninguna cuenta nueva a nombre de nadie, TerpTech fuera de todas. Cada intento nuevo empeora el expediente.
+2. **Inventario de hechos:** tabla de las 7 cuentas caídas (titular, apertura, bloqueo, motivo citado, productos, quién la operaba).
+3. **Llamar a Account Health desde el Seller Central de DecoHOUSE** y preguntar qué exactamente necesitan ver. Anotar nombre del agente y fecha.
+4. **Una sola apelación completa** (`apelacion.md`): producto prohibido + categoría evasiva + reconocer las cuentas relacionadas y comprometerse a operar una sola cuenta. Con pruebas.
+5. Si la rechazan: una escalación ejecutiva (Amazon tiene un equipo de Executive Seller Relations; el canal conocido es jeff@amazon.com) con el mismo POA, una vez.
+6. Si tampoco: consulta con un abogado de EE.UU. especializado en suspensiones de Amazon (cláusula de disputas del BSA). Evaluar costo contra US$ 3.000 + el valor de poder volver a vender.
+- Expectativa honesta: chance baja (vape + "evasivo" + varias cuentas relacionadas). El tiempo sola no la mejora: Amazon no tiene vencimiento para estas sanciones.
+
+## Texto listo para pedir el desembolso (no enviado)
+Para: disbursement-appeals@amazon.com · desde el email de la cuenta (cemar4025)
+
+> Subject: Disbursement request – DecoHOUSE (Amazon.com seller account)
+>
+> Hello,
+>
+> My seller account DecoHOUSE was deactivated on February 8, 2026, and the 90-day settlement period has ended. I am requesting the disbursement of the remaining balance in the account.
+>
+> All customer orders have been fulfilled or refunded, and I have no open A-to-z claims that I am aware of. I am available to provide identity verification, bank account ownership documents, or any other information you need to complete the review.
+>
+> Thank you,
+> Santi Navarria
+
+(No incluye explicaciones del producto a propósito: la decisión ya está tomada y discutirla reabre la revisión.)
+
+## Decisiones abiertas (de Santi)
+- ¿AK0H81VYQPLMY es DecoHOUSE u otra cuenta? ¿Se volvió a vender TerpTech después de febrero?
+- ¿Qué pasó con el inventario FBA varado de DecoHOUSE (eliminado, devuelto, sigue ahí)?
+- ¿Qué decían las 5 apelaciones anteriores? (si argumentaban "es un soldador", la nueva tiene que cambiar el enfoque)
+- ¿Quién es ivofba@gmail.com y qué se le pidió el 23-sep?
+- ¿Esperar a enero o apelar ya?
+
+## Qué NO hacer
+- No mandar otra apelación igual a las anteriores ni mencionar a la competencia.
+- No abrir la cuenta de la LLC antes de reinstalar DecoHOUSE, ni ocultar a Santi como beneficiario.
+- No relistar TerpTech / baterías 510 en ninguna cuenta.
+
+
+## Historial
+- 2026-10-08 · Santi aclara: Beauty Michele (tío) y KINAVARGAS (esposa del socio) activas y operadas por él; las demás cayeron por la Mac compartida. Se abre la decisión Opción 1 / Opción 2.
+- 2026-10-08 · Santi: también cayeron las cuentas de socios, amigo, novia, mamá, hermana y un amigo de EE.UU. Prioridad declarada: reinstalar DecoHOUSE aunque no sea para vender. Plan de máxima chance → sección "Plan para reinstalar".
+- 2026-10-08 · Santi confirma US$ 3.000 retenidos y sin deuda; objetivo = cuenta de la LLC → se concluye que hace falta reinstalar. Se detecta la señal AK0H81VYQPLMY / TerpTech activo en sep-2026.
+- 2026-10-08 · Carpeta creada a partir del Gmail principal: cronología, motivo, avisos de deuda (oct-2026) y texto de desembolso.
+
+---
+
+## 📄 `E-commerce/TERPTECH/_CUENTA-DECOHOUSE/apelacion.md`
+
+# DECOHOUSE — Apelación (Plan of Action) · BORRADOR
+
+> **No mandar todavía.** Requisitos previos: (1) confirmar que no hay TerpTech / baterías 510 activas en ninguna cuenta ligada a Santi; (2) tener las pruebas de abajo; (3) KINAVARGAS vacía (enero 2027), salvo que Santi decida otra cosa.
+> Se envía por Seller Central → Account Health → "Submit new information". En inglés, corto, sin culpar a nadie, sin mencionar a la competencia.
+
+## Estructura
+**1. Root cause** — admitir el hecho tal cual:
+- We listed a 510-thread rechargeable battery (ASIN B0DZH23VN8, also B0F9SXP5MW) under a soldering category. This product is used with vaporizers and falls under Amazon's Electronic Cigarettes / Vaporizers policy regardless of the category we chose. Choosing a category based on a secondary use, instead of the product's primary use, was our mistake and made the listing look evasive. We take full responsibility.
+
+**2. Corrective actions (ya hechas — sólo poner lo que sea verdad y se pueda probar)**
+- Removed / closed all listings of 510 batteries and any related accessory. [fecha]
+- Removal or disposal order for all remaining FBA units: order ID [___]. [fecha]
+- Stopped purchasing these products from our supplier; no remaining stock offered on Amazon. [factura / mail al proveedor]
+
+**3. Preventive measures**
+- Before creating any listing, we check the product against Amazon's Restricted Products pages (Electronic Cigarettes, Hazmat, Batteries) and classify by primary use.
+- Any product with a battery or that can be used with a regulated product requires a written compliance check before sourcing.
+- Our catalog going forward is limited to [categoría real: belleza / juguetes / …] — attach supplier invoices.
+- The person responsible for compliance reviews listings monthly.
+
+**4. Evidence a adjuntar**
+- Captura de inventario en cero / órdenes de eliminación.
+- Facturas de proveedores de productos permitidos.
+- (No adjuntar nada sobre otras cuentas ni sobre la LLC.)
+
+---
+
+## 📄 `E-commerce/TERPTECH/_CUENTA-DECOHOUSE/correspondencia.md`
+
+# DECOHOUSE — Correspondencia (Gmail cemar4025)
+
+> Registro de los mails de la cuenta bloqueada, leídos el 2026-10-08. Link = abrir en Gmail con la cuenta cemar4025.
+> Mails a mayoristas de TerpTech (desde terptech.company): `../mayoristas/outreach.md`.
+
+| Fecha | De → Para | Asunto | Qué dice | Estado | Link |
+|---|---|---|---|---|---|
+| 16–27 oct 2025 | Amazon FBA → Santi | CASE 18658172731 · B0F9SXP5MW Investigation | Devoluciones "no se parece a lo publicado"; unidades mal etiquetadas; se cambiaron imágenes; caso cerrado | Cerrado | [abrir](https://mail.google.com/mail/#all/199ec3e69a1f8a6d) |
+| 16–17 oct 2025 | Amazon → Santi | Account at risk of deactivation / Listings deactivated | Avisos previos de listings desactivados | Sin leer · ya no aplica | — |
+| 18–21 dic 2025 | Amazon.ca → Santi | Balance Due (Canadá) | Saldo deudor en Canadá, tarjeta rechazada | Sin leer · **verificar que esté en 0** | [abrir](https://mail.google.com/mail/#all/19b4241213f04887) |
+| 31 ene – 4 feb 2026 | Amazon → Santi | Listing Created – Terpy / Terp Black / Terp Pink… | Se crean variantes nuevas de la batería | — | — |
+| **08 feb 2026** | Amazon Appeals → Santi | Your Amazon.com selling account | **Desactivación permanente, Sección 3** · ASIN B0DZH23VN8 · vape · "evasivo" | Apelado y rechazado | [abrir](https://mail.google.com/mail/#all/19c3d8f4883f20d9) |
+| 09 feb 2026 | Amazon Appeals → Santi | (mismo hilo) | 1ª apelación rechazada | — | idem |
+| 09 feb 2026 | Amazon → Santi | Account deactivated – 90 day hold on disbursements | Retención de fondos 90 días | — | [abrir](https://mail.google.com/mail/#all/19c42b652be6989a) |
+| 10 feb 2026 | Amazon.co.jp → Santi | (japonés) Cuenta suspendida por infracción en otra tienda | Japón cae por arrastre de US | Depende de US | [abrir](https://mail.google.com/mail/#all/19c45aa4f7c78226) |
+| feb 2026 | Amazon → Santi | Refund Initiated (varios) | Reembolsos FBA de ~US$ 23–27 c/u | — | — |
+| 10 mar 2026 | Amazon → Santi | Product feeds removed | Borran todos los feeds | — | [abrir](https://mail.google.com/mail/#all/19cd8181f7aee47d) |
+| feb–abr 2026 | Amazon → Santi | Fix or Remove Stranded FBA inventory | Inventario varado | ¿Qué pasó con el stock? | — |
+| **10 abr 2026** | Amazon → Santi | 90 day hold on disbursements | **Ya se puede pedir el desembolso** a disbursement-appeals@amazon.com | **Pendiente: nunca se pidió** | [abrir](https://mail.google.com/mail/#all/19d77b44693748e0) |
+| 25 abr 2026 | Amazon Appeals → Santi | Your Amazon.com selling account | "Estamos revisando tu información" | — | [abrir](https://mail.google.com/mail/#all/19dc6d69005dafe0) |
+| 27 abr · 30 abr · 03 may 2026 | Amazon Appeals → Santi | Your Amazon.com selling account | Apelaciones 2–5 rechazadas | — | [abrir](https://mail.google.com/mail/#all/19ddeca12f62243b) |
+| 06 jun 2026 | Santi → familiar | (sin asunto) | Texto de listing "mini rechargeable soldering iron pen" | ⚠️ ver `ESTADO.md` | — |
+| 09 sep 2026 | Amazon → Santi | We removed product reviews from bad actors | B0F9SXP5MW "TerpTech Mini Solder", merchant AK0H81VYQPLMY | ⚠️ confirmar de qué cuenta es | [abrir](https://mail.google.com/mail/#all/1a084f2a1df44fe8) |
+| 23 sep 2026 | Santi → ivofba@gmail.com | Fwd: avisos de suspensión (US, JP, 90 días) | Reenvío a un tercero; sin respuesta en el Gmail | ¿Quién es? | — |
+| **07 oct 2026** | Amazon → Santi | Credit card update required to resume payments | Tarjeta inválida → **pagos suspendidos** | **Pendiente: actualizar tarjeta** | [abrir](https://mail.google.com/mail/#all/1a1173afb2bddd19) |
+| 07 oct 2026 | Amazon → Santi | Pay your outstanding seller account balance | Cobro rechazado por saldo deudor | Santi dice que no hay deuda → verificar | [abrir](https://mail.google.com/mail/#all/1a1174131682d844) |
+
+## Etsy (mismo Gmail)
+- Sólo newsletters de comprador y un aviso de inicio de sesión desde la app **Etsy Seller** (04-jul-2026). Ningún aviso de suspensión → la tienda debe estar con otro email. Ver `../../Etsy/ESTADO.md`.
+
+---
+
+## 📄 `E-commerce/TERPTECH/mayoristas/contactados_agosto.csv`
+
+```csv
+empresa,email,tipo,fechas_envio,respuesta,accion_2026_10_08
+Discreet Smoker,info@discreetsmoker.com,tienda online,2026-08-06,ninguna,borrador de seguimiento
+Smoke Cartel,contact@smokecartel.com,tienda online,2026-08-06,ninguna,borrador de seguimiento
+Everything 420,support@everything420.com,tienda online,2026-08-06,respuesta automática,borrador de seguimiento
+Up-N-Smoke,marketing@upnsmokeonline.com,cadena de smoke shops,2026-08-06,ninguna,borrador de seguimiento
+Smoke Tokes,sales@smoketokes.com / Sales@smoketokes.com,tienda online,2026-08-06 + 2026-08-17 (y 1 enviado por error a upnsmokeonline),ninguna,borrador de seguimiento
+KINGs Pipe,support@kings-pipe.com,tienda online,2026-08-06,ninguna,borrador de seguimiento
+Vape Batt,info@vapebatt.com / cs@vapebatt.com,tienda online de baterías,2026-08-06 (x2),ninguna,borrador de seguimiento
+Avernic Smoke Shop / o2Vape,support@avernicsmokeshop.com / customerservice@o2vape.com,tienda online,2026-08-06,ninguna,borrador de seguimiento
+Mind Vapes,wecare@mindvapes.com,tienda online,2026-08-18,ninguna,borrador de seguimiento
+Mi-Pod Wholesale (Mi-One Brands),Wholesale@mipod.com / SUPPORT@mipod.com,distribuidor,2026-08-06 + 2026-08-17,ticket automático #302180,borrador de seguimiento
+World of Bongs,shop@worldofbongs.co,tienda online (Alemania/UE),2026-08-06,"""We just drop ship.""",descartado: UE + dropship al consumidor (PACT y couriers)
+Element Vape,(formulario/zendesk),tienda online grande,2026-08-18,ticket zendesk,buscar contacto de compras (vendor)
+Ooze (Oozelife),support@oozelife.com,marca competidora,2026-08-18,ticket automático,descartado: es competidor
+Yocan,support@yocanvaporizer.com,marca competidora,2026-08-17,ninguna,descartado: es competidor
+Hamilton Devices,support@hamiltondevices.com,marca competidora,2026-08-18,ninguna,descartado: es competidor
+Boost,boostmybattery@gmail.com,—,2026-08-17,rebotó (dirección inexistente),descartado
+```
+
+---
+
+## 📄 `E-commerce/TERPTECH/mayoristas/investigacion_florida.csv`
+
+```csv
+nombre,tipo,ciudad,estado_us,web,email,fuente_email,locales,notas
+World of Smoke & Vape,cadena smoke shops,Miami/Fort Lauderdale,FL,worldofsmokenvape.com,info@worldofsmokenvape.com,web propia,15+,cadena grande FL; también brickellcenter@
+Vape & Smoke Shop (VSS),cadena smoke shops,Miami/Boca/West Palm,FL,vapensmokeshop.com,info@vapensmokeshop.com,web propia (vieja),10,también admin@
+New Leaf Vapor Co,cadena smoke shops,Jacksonville,FL,newleafvapor.com,support@newleafvapor.com,web propia,6,mails por local: 5points@ beach@ southside@
+535 Smoke Shop,cadena smoke shops,Orlando/Kissimmee,FL,535smokeshop.com,sales@535smokeshop.com,web propia,5,mail para mayoristas/partners
+All In 1 Smoke Shop,cadena smoke shops,South Miami/Pembroke Pines,FL,allin1smokeshop.com,support@allin1smokeshop.com,web propia,3 FL + Filadelfia,tienda online fuerte
+101 Smoke Shop,cadena smoke shops,Gainesville/Pensacola/Sarasota,FL,101smokeshop.com,info@101smokeshop.com,web propia,muchos (FL/GA/SC/TN),franquicia multi-estado
+Miami Vape Smoke Shop,smoke/vape shop,Miami,FL,miamivapesmoke.com,miamivapedeliveryorders@gmail.com,web propia,3,gmail de delivery
+Rubii Smokeshop,smoke/vape shop,Miami Beach,FL,rubiismokeshop.com,info@rubiismokeshop.com,web propia,1,dueño posible: murat@rubiivape.com
+CloudUp Smoke Shop,smoke/head shop,Fort Lauderdale/Margate,FL,cloudupsmokeshop.com,info@cloudupsmokeshop.com,web propia,3,
+The Smoke House Smoke Shop,smoke shop,Fort Lauderdale,FL,smokehousesmokeshop.com,ecomcustomers23@gmail.com,web propia,2,tiene página para marcas/proveedores
+Vapes N Smoke,smoke/vape shop,Stuart,FL,vapeshopstuart.com,vapeshopmanager@gmail.com,web propia (vieja),1,
+Highly Concentr8ed,smoke shop,Sarasota,FL,highlyconcentr8ed.com,support@highlyconcentr8ed.com,web propia,1,
+Purple Haze,head shop,Daytona/Ormond Beach,FL,purplehazeglass.com,purplehazeglass@gmail.com,web propia,2,
+Bohemian Lair,head shop,Melbourne,FL,bohemianlair.com,bohemianlair@yahoo.com,web propia,1,
+Smokegem,smoke shop + online,Clearwater,FL,smokegem.com,support@smokegem.com,web propia,1,
+Jax Smoke & Vape,smoke/vape shop,Jacksonville,FL,jaxsmokeandvapefl.com,jaxsmokeandvapeinc@gmail.com,web propia,1,
+The Treasure Chest,head shop,Naples/Fort Myers,FL,thetreasurechestfl.com,treasurechest@gmail.com,web propia,3,
+Merlins Dream Smoke Shop,head shop,Fort Myers,FL,merlinsdream.com,merlinsdream786@gmail.com,web propia,2,
+Marley's Smoke Shop,smoke shop,Fort Myers,FL,marleyssmokeshopftmyers.com,info@marleyssmokeshopftmyers.com,web propia,1,
+Up in Smoke in the Cape,head shop,Cape Coral,FL,upinsmokeinthecape.com,tmblair420@upinsmokeinthecape.com,web propia (muy vieja),1,
+Lotus Vape & Smoke Shop,smoke/vape shop,Naples/Fort Myers,FL,lotussmoke.com,lotussmoke2014@gmail.com,web propia,2,tiene sección mayorista
+Asylum Smoke & Stuff,smoke/head shop,St. Petersburg,FL,asylumsmokeandstuff.com,contact@asylumsmokes.com,web propia,3,
+Smoke City Jacksonville,smoke shop,Jacksonville/Gainesville,FL,mysmokecity.com,smokecity1@gmail.com,web propia,varios FL+GA,
+Free Smoke Vape & Smoke Shop,cadena smoke shops,North Miami,FL,freesmokevapeshop.com,rahim@freesmokevapeshop.com,comunicado de prensa,1 FL + ~10 GA,contacto de prensa; prioridad baja
+```
+
+---
+
+## 📄 `E-commerce/TERPTECH/mayoristas/investigacion_oeste_norte.csv`
+
+```csv
+nombre,tipo,ciudad,estado_us,web,email,fuente_email,locales,notas
+Up Smoke Shop,smoke shop,Chicago,IL,,upsmokeshop@gmail.com,facebook (directorio),1,Logan Square
+Smoke Station,smoke/vape shop,Chicago,IL,,smokestationchicago@gmail.com,facebook (directorio),1,Kedzie Ave
+Natural Vibrations Reggae Smoke Shop,smoke shop,Chicago,IL,,naturalvibrations101@gmail.com,facebook (directorio),1,E 75th St
+Purple Turtle (All In One Smoke & Vape),smoke/vape shop,Chicago,IL,,purpleturtleshop@gmail.com,facebook (directorio),1,W Granville Ave
+Tropical Smokes,smoke shop,Chicago,IL,,tropicalsmokes2413@gmail.com,facebook (directorio),1,Logan Square
+Roots Smoke & Vapor Shop,smoke/vape shop,Chicago,IL,rootssmokeshop.com,info@rootssmokeshop.com,facebook (directorio),2,N Sheridan Rd
+King Smoke And Vape,smoke/vape shop,Chicago,IL,,kingsmokeandvape@gmail.com,facebook (directorio),1,N Cicero Ave
+7 Heaven Smoke Shop,smoke shop,Chicago,IL,,7heaventobacconist@gmail.com,facebook (directorio),1,N Broadway
+Smokeday.com,head shop online,Chicago,IL,smokeday.com,smokeday.com@gmail.com,facebook (directorio),online,vende 510
+HTX Smoke Shop,smoke shop,Fort Worth,TX,,htxsmokeshopoffice@gmail.com,facebook (directorio),1,
+City Smoke n Vapor,smoke/vape shop,Fort Worth,TX,,citysmokenmore@gmail.com,facebook (directorio),1,
+Stoney's Smoke Shop,smoke shop online,Fort Worth,TX,,stoneyssmokeshop1@gmail.com,facebook (directorio),online,
+High Limit Smoke Shop,smoke shop,Fort Worth,TX,,highlimitsmokeshop@gmail.com,facebook (directorio),1,
+Smoke City Tobacco & Vape,smoke/vape shop,Fort Worth,TX,,smokecitytx@gmail.com,facebook (directorio),2+,
+Smokey's Paradise,smoke shop,Fort Worth,TX,,smokeysparadise4@yahoo.com,facebook (directorio),4+,cadena chica
+AmpD Smoke Shop,smoke shop,Fort Worth,TX,ampdsmokeshop.com,comments@ampdsmokeshop.com,facebook (directorio),1,
+El Paso Smoke Shop + CBD,smoke shop,El Paso,TX,,elpasosmokeshops@gmail.com,facebook (directorio),1+,
+Mesa Smoke Shop,smoke shop,El Paso,TX,,mesasmokeshopep@gmail.com,facebook (directorio),1,
+Herb N' Legend Smoke Shop,smoke shop,El Paso,TX,,herbnlegendtx@gmail.com,facebook (directorio),1,
+Fox Plaza Smoke Shop,smoke shop,El Paso,TX,,foxplazasmokeshop@gmail.com,facebook (directorio),1,
+The Spot Smoke Shop,smoke shop,El Paso,TX,,thespotsmokeshopne@gmail.com,facebook (directorio),2,no escribir también a thespotep@gmail.com (misma empresa)
+Montana Smoke Shop,smoke shop,El Paso,TX,,montanasmokeshop@gmail.com,facebook (directorio),1,
+Fort Smoke Shop,smoke shop,El Paso,TX,,fortsmokeshop@gmail.com,facebook (directorio),1,
+Tommy's Tobacco Shop,smoke shop,Tucson,AZ,,tommystobaccoshop@gmail.com,facebook (directorio),1,
+Smoke Town AZ,smoke shop,Tucson,AZ,,smoke.town.az@gmail.com,facebook (directorio),1,
+Head East Smoke Shop,smoke shop,Tucson,AZ,,headeastsmokeshop@gmail.com,facebook (directorio),1,
+Moon Smoke Shop,smoke shop,Tucson,AZ,,moon120wgrant@gmail.com,facebook (directorio),1,desde 1976
+Smoke 4 Less,smoke shop,Tucson,AZ,azsmoke4less.com,azsmoke4less@gmail.com,facebook (directorio),1,
+Chico's Smoke Shop,smoke shop,Tucson,AZ,chicossmokeshop.com,contactus@chicossmokeshop.com,facebook (directorio),1+,confirmar ciudad
+KP Smoke Shop,smoke shop,Tucson,AZ,kpsmokeshop.com,support@kpsmokeshop.com,facebook (directorio),1+,confirmar ciudad
+Midtown Smoke Shop Reno,smoke shop,Reno,NV,,midtownsmokeshopreno@gmail.com,facebook (directorio),1,
+Cloud City Smoke and Vape,smoke/vape shop,Sparks,NV,,cloudcityreno@gmail.com,facebook (directorio),1,
+Lavi Smoke Shop,smoke shop,Reno,NV,lavissmokeshop.com,info@lavissmokeshop.com,facebook (directorio),1,
+Sunshine Smoke Shop Sacramento,head shop,Sacramento,CA,,sunshinesmokeshopsacramento@gmail.com,facebook (directorio),1,
+Arden Smoke Shop,smoke shop,Sacramento,CA,,ardensmokeshop@gmail.com,facebook (directorio),1,FB poco activo
+MZ Smoke Shop,smoke shop,Carmichael,CA,,smokeshopmz@gmail.com,facebook (directorio),1,
+Hella Glass,head shop,Sacramento,CA,hellaglass.com,john@hellaglass.com,facebook (directorio),1,dueño John
+Sahara Hookah,distribuidor,Sacramento,CA,,saharahookah@gmail.com,facebook (directorio),,mayorista hookah
+AK's Smoke City,smoke/vape shop,Brooklyn,NY,,akssmokecity@gmail.com,facebook (directorio),1,
+Brooklyn Smoke Shop,head shop,Brooklyn,NY,,brooklynsmokeshop198@gmail.com,facebook (directorio),1,Park Slope
+Master Piece Smoke Shop,head shop,Brooklyn,NY,mpsmokeshop.com,masterpiecesmokeshop@gmail.com,facebook (directorio),1,Greenpoint
+Corktown Smoke Shop,smoke/vape shop,Detroit,MI,,corktownsmokeshop@gmail.com,facebook (directorio),1,
+313 Smoke Shop,smoke/hookah shop,Detroit,MI,313smokeshop.com,info@313smokeshop.com,facebook (directorio),1,
+Detroit Choices Smoke & Vape,smoke/vape shop,Detroit,MI,,choicesdetroit313@gmail.com,facebook (directorio),1,
+Tha Head Shop,head shop,Ferndale,MI,thaheadshop.com,thaheadshop@yahoo.com,web propia,1 + online,
+The Hookah Shop,hookah/smoke shop,Dearborn,MI,thehookahshop.com,thehookahshoponline@gmail.com,web propia,1 + online,
+Zaza Smoke Shop,smoke shop,Eastpointe,MI,,zazasmokersshop@gmail.com,facebook (directorio),1+,
+Shatter House,head shop,Columbus,OH,shatterhousesmokeshop.com,shatterhouse0816@gmail.com,facebook (directorio),1,
+Puff Palace,head shop,Columbus,OH,,puffpalace1@gmail.com,facebook (directorio),2,
+Smoke FX,smoke shop,Cleveland,OH,,smokefxcle@gmail.com,facebook (directorio),1,
+Harvard Smoke Shop,smoke shop,Cleveland,OH,,harvardsmokeshop@gmail.com,facebook (directorio),1,
+Midtowne Smoke Shop,smoke/vape shop,Grand Rapids,MI,,midtownsmokeshopgr@gmail.com,facebook (directorio),1,
+Pipe Dreams,head shop,Grand Rapids,MI,,pipedreamsdg@gmail.com,facebook (directorio),1,
+Vape City Smoke Shop,smoke/vape shop,Wyoming,MI,,vapycity.co@gmail.com,facebook (directorio),1,
+My Smoke Shop NJ,smoke/hookah shop,Jersey City,NJ,,mysmokeshopnj@gmail.com,facebook (directorio),1,
+Smoker's Heaven,smoke/vape shop,Jersey City,NJ,,smokersheaven2@gmail.com,facebook (directorio),2+,
+Smoking Sales,distribuidor,NJ,NJ,,smokingsales001@gmail.com,facebook (directorio),,distribuidor para smoke shops; confirmar
+```
+
+---
+
+## 📄 `E-commerce/TERPTECH/mayoristas/investigacion_sudeste.csv`
+
+```csv
+nombre,tipo,ciudad,estado_us,web,email,fuente_email,locales,notas
+Smoke Token Smoke Shop,smoke shop,Nashville,TN,smoketokenreviewsnashville.com,smoketokenshop@gmail.com,web propia,1,
+Planet 615 Smoke Shop,smoke shop,Nashville,TN,planet615smokeshop.com,planet615smokeshop@gmail.com,web propia,1,
+Pressure Smoke & Vape,smoke/vape shop,Nashville,TN,pressurenashville.com,operations@pressurenashville.com,web propia,2,
+Smoke & Vape 4 Less,smoke/vape shop,Nashville,TN,smokeandvape4less.com,smokeandvapeforless@gmail.com,web propia,1,
+Elevated Smoke and Vape,smoke/vape shop,Nashville,TN,elevated615.com,elevated615@gmail.com,web propia,1+,
+Smoke Depot of Nashville,smoke shop,Nashville,TN,,nashvillesmokedepot@gmail.com,directorio,1,
+Uptown's Smoke Shop,smoke shop,Nashville,TN,uptowns.com,info@uptowns.com,directorio (viejo),1,
+Choice Smoke Shop,smoke shop,Knoxville,TN,choicesmokeshops.com,choicesmokeshop1@gmail.com,web propia,1,
+Buzzin Smoke Shop,smoke shop,Memphis,TN,,buzzinsmokeshop@gmail.com,web propia,1,
+Cloud9 Smoke Shop Memphis,smoke shop,Memphis,TN,cloud9shop.net,cam@cloud9shop.net,facebook,1,no es la cadena de GA
+One Love / High Life Smoke,cadena smoke shops,Charlotte,NC,highlifesmoke.com,onelove@highlifesmoke.com,web propia,6-10,cadena NC/SC; mails por local: greenville@ wilmington@ asheville@highlifesmoke.com
+Vapor Smoke Shop,cadena smoke shops,Charlotte,NC,vaporsmokeshop.com,info@vaporsmokeshop.com,web propia,varios,
+Smoke Rings Raleigh,smoke shop,Raleigh,NC,,smokeringsraleigh@gmail.com,facebook,1,
+Kitsch Smoke Shop,head shop,Raleigh,NC,,kitsch919@gmail.com,directorio (viejo),1,
+Six Forks Tobacco,smoke shop,Raleigh,NC,,sixforkstobacco7400@gmail.com,directorio,1,
+Maxx Tobacco & Vapor,smoke/vape shop,Raleigh,NC,maxxtobaccovapor.com,mlek@maxxtobaccovapor.com,web propia,1,también ammar@
+The Plug Smoke Shop,cadena smoke shops,Asheville,NC,theplugsmokeshops.com,plugsmokeshopavl@gmail.com,web propia,varios,
+Blue Dreams Smoke Shop,smoke shop,Asheville,NC,bluedreams-smokeshop.com,bluedreamstobacco@gmail.com,web propia,1-2,
+Smoke Rings Asheville,smoke shop,Asheville,NC,,smokeringsash@gmail.com,directorio,1,
+Instant Karma Asheville,head shop,Asheville,NC,instantkarmaasheville.com,contact@instantkarmaasheville.com,directorio,1,
+Octopus Garden Smoke Shop,head shop,Asheville,NC,octopusgardensmokeshops.com,info.octopusgarden@gmail.com,directorio,2+,desde 1993
+777 Smoke Shop,smoke shop,Wilmington,NC,,777smokeshopnc@gmail.com,facebook,1,
+Charleston Head Shop,head shop,Charleston,SC,charlestonheadshop.com,headshop@bellsouth.net,directorio (viejo),1,
+The Smoking Lamp,head shop,Charleston,SC,smokinglamp.com,smokinglamp@charleston.com,directorio (viejo),1,puede estar desactualizado
+Charleston Kratom Vape & CBD,vape shop,Summerville,SC,charlestonkratomcbd.com,540cbdkratom@gmail.com,web propia,1,
+Illuminati Smoke Shop,smoke shop,Columbia,SC,illuminatisc.com,illuminatismokeshop@gmail.com,web propia,2,
+The Bizarre Bazaar,head shop,Columbia,SC,,bizarrebazaarlimited@gmail.com,facebook,1,
+AJ Tobacco and Vapes,smoke/vape shop,Columbia,SC,ajtobaccoandvapes.com,alisaleemgz@gmail.com,web propia,1,
+Savannah Smoke and Beverage,smoke shop,Savannah,GA,,savannahsmokeandbeverage@gmail.com,directorio,1,
+Smoke City Savannah,smoke shop,Savannah,GA,,smokecitygeorgia@gmail.com,directorio,1-2,
+The Exotic Smoker,smoke/vape shop,Augusta,GA,theexoticsmoker.com,info@theexoticsmoker.com,web propia,1,
+Augusta Smoke Shop,smoke shop,Martinez,GA,,mac092088@aol.com,facebook,1,
+Cloud 5 Smoke Shop,smoke/vape shop,Huntsville,AL,cloud5smoke.com,muadamar024@gmail.com,web propia,1,
+Gallery Smoke,head shop,Birmingham,AL,gallerysmoke.com,orders@gallerysmoke.com,directorio,?,
+Vapors Smoke Shop,cadena smoke shops,Tuscaloosa,AL,vsmokeshop.com,vaporstuscaloosa@gmail.com,web propia,2-3,Mobile: vaporssmokeshop13@gmail.com
+SMOKE EZ Tuscaloosa,smoke/vape shop,Tuscaloosa,AL,,smoke.ez.tuscaloosa1@gmail.com,facebook,1,
+Up N Smoke Mobile,smoke shop,Mobile,AL,,malekwholesale@yahoo.com,directorio,1,posible mail mayorista del dueño
+Jackson Tobacco & Vape,smoke/vape shop,Jackson,MS,,jacksontobaccoandvape@gmail.com,facebook,1,
+Vapor Smoke Shop Hattiesburg,smoke/vape shop,Hattiesburg,MS,hburgsmokeshop.com,akramalhamidi20@gmail.com,web propia,1,
+Smoke Shop MS,smoke shop,Hattiesburg,MS,smokeshop.ms,info@smokeshop.ms,web propia,1-2,
+Simply Tobacco Club,smoke shop,Gulfport,MS,simplytobaccoclub.com,info@simplytobaccoclub.com,web propia,?,
+LIT Clouds Smoke Shop,smoke/vape shop,Lafayette,LA,,litcloud.la@gmail.com,facebook,1,
+King Vaperz,smoke/vape shop,Shreveport,LA,kingvaperzofficial.com,freedom4all524@gmail.com,web propia,1,
+318 Cloudz Smoke & Vape,cadena smoke shops,Shreveport,LA,318cloudz.com,youree.318cloudz@gmail.com,directorio,2-3,alternativa solo@318cloudz.com
+Pipes Emporium,smoke shop,Shreveport,LA,pipesemporium.com,dylanspipesemporium@gmail.com,web propia,1,
+```
+
+---
+
+## 📄 `E-commerce/TERPTECH/mayoristas/leads.csv`
+
+```csv
+prioridad,nombre,tipo,ciudad,estado_us,web,email,fuente_email,detalle_real,notas,toques,ultimo_contacto,thread_id,etapa
+A,NEPA Wholesale,distribuidor,West Palm Beach,FL,nepawholesale.com,care@nepawholesale.com,https://www.nepawholesale.com/contactus,NEPA Wholesale supplies a lot of shops,"5 FL + Dallas | 2026-10-08: Suraj (Member Care) derivó a Basant K Sah, Purchasing Manager, Basant.sah@nepawholesale.com, (561) 345-5227. Le escribí el 2026-10-08",1,2026-10-08,1a119e602b2c976b,respondio
+A,SW Distro,distribuidor,Oldsmar,FL,swdistro.com,sales@swdistro.com,https://swdistro.com/contact-us/,SW Distro supplies a lot of shops,,1,2026-10-08,1a119e615a3f3f4a,contactado
+A,International Wholesale Supply,distribuidor,Maryland Heights,MO,shopiws.com,info@shopiws.com,https://www.shopiws.com/programs/,International Wholesale Supply supplies a lot of shops,Smoke Shop Accessories program | 2026-10-08: dirección inexistente (550),1,2026-10-08,1a119e62108b4cc7,rebote
+A,Tokers Hub,distribuidor,Ontario,CA,tokershub.com,info@tokershub.com,https://tokershub.com/contact-us/,Tokers Hub supplies a lot of shops,,1,2026-10-08,1a119e62dcab03c9,contactado
+A,Demand Vape,distribuidor,Buffalo,NY,demandvape.com,info@demandvape.com,https://demandvape.com/,Demand Vape supplies a lot of shops,,1,2026-10-08,1a119e639d106e4d,contactado
+A,Midwest Goods,distribuidor,Bensenville,IL,midwestgoods.com,purchasing@midwestgoods.com,https://www.midwestgoods.com/become-a-product-supplier/,Midwest Goods supplies a lot of shops,"supplier page: catalog by email, samples by mail",1,2026-10-08,1a119e64624282bf,contactado
+A,Greenlane Wholesale,distribuidor,Boca Raton,FL,wholesale.greenlane.com,wholesale@greenlane.com,https://wholesale.greenlane.com/pages/contact,Greenlane Wholesale supplies a lot of shops,large distributor,1,2026-10-08,1a119e65380763cb,contactado
+A,Got Vape Wholesale,distribuidor,,CA,gotvapewholesale.com,jjackson@gotvapewholesale.com,https://www.gotvapewholesale.com/pages/privacy-policy,Got Vape Wholesale supplies a lot of shops,,1,2026-10-08,1a119e65e8991c56,contactado
+A,Smoker Friendly,cadena smoke shops,Boulder,CO,smokerfriendly.com,tradeshow@smokerfriendly.com,https://smokerfriendly.com/contact-us/,Smoker Friendly runs multiple locations,vendor trade show: tradeshow@smokerfriendly.com,1,2026-10-08,1a119e66d889b32c,contactado
+A,Discount Vape Pen,tienda online,Kenilworth,NJ,discountvapepen.com,questions@discountvapepen.com,https://discountvapepen.com/shipping-and-handling/,I saw Discount Vape Pen already carries character 510 batteries,"Lookah Bear/Cat, Ooze Shroom",1,2026-10-08,1a119e679beeffb9,contactado
+A,Elyxr,tienda online,,CA,elyxr.com,shop@elyxr.com,https://www.elyxr.com/contact-us/,I saw Elyxr already carries character 510 batteries,Lookah Bear,1,2026-10-08,1a119e88c470163c,contactado
+A,ProCannabis,tienda online,New York,NY,procannabis.com,procannabisnyc@gmail.com,https://procannabis.com/ooze/,I saw ProCannabis already carries character 510 batteries,"Lookah Bear, Ooze",1,2026-10-08,1a119e898a8baa98,contactado
+A,Nikk Drips,tienda online + local,Post Falls,ID,nikkdrips.com,support@nikkdrips.com,https://nikkdrips.com/pages/contact,I saw Nikk Drips already carries character 510 batteries,Ooze Bot character battery,1,2026-10-08,1a119e8a50c24f8e,contactado
+A,SnowTree Worldwide,tienda online,,NY,snowtreeworldwide.com,help@snowtreeworldwide.com,https://snowtreeworldwide.com/pages/contact-us,I saw SnowTree Worldwide already carries character 510 batteries,"Ooze Bot, Penjamin novelty",1,2026-10-08,1a119e8af1004d70,contactado
+A,KC Smoke Shop,tienda online + local,Kansas City,MO,kcsmokeshop.com,customerservice@kcsmokeshop.com,https://kcsmokeshop.com/pages/wholesale,I saw KC Smoke Shop already carries character 510 batteries,Lookah Egg | 2026-10-08: dirección inexistente (550),1,2026-10-08,1a119e8bb1900238,rebote
+A,MyVpro,tienda online,,,myvpro.com,service@myvpro.com,https://myvpro.com/pages/contact-us,I saw MyVpro already carries character 510 batteries,Lookah Egg/Cat/Guitar,1,2026-10-08,1a119e8c7cbe4ff4,contactado
+A,Fog Factory Smoke Shop,tienda online + local,New London,CT,fogfactorysmokeshop.com,support@fogfactoryhr.com,https://www.fogfactorysmokeshop.com/pages/contact-us,I saw Fog Factory Smoke Shop already carries character 510 batteries,Lookah Cat,1,2026-10-08,1a119e8d2e384fed,contactado
+A,420Buy,tienda online,,,420buy.com,service@420buy.com,https://www.420buy.com/pages/shipping,I saw 420Buy already carries character 510 batteries,Lookah partner,1,2026-10-08,1a119e8dd98a2157,contactado
+A,Kush Cargo,tienda online,,,kushcargo.com,aircontrol@kushcargo.com,https://kushcargo.com/pages/contact-us,I saw Kush Cargo already carries character 510 batteries,pop-culture novelty 510 collection,1,2026-10-08,1a119e8e82e76533,contactado
+A,RI-Ecig & Vapes,tienda online + local,,RI,riecig.com,info@riecig.com,https://www.riecig.com/service/,I saw RI-Ecig & Vapes already carries character 510 batteries,Lookah Cat/Bear,1,2026-10-08,1a119e8f39951c33,contactado
+A,Smokerolla,tienda online,Los Angeles,CA,smokerolla.com,info@smokerolla.com,https://smokerolla.com/pages/dropshipping-services,I saw Smokerolla already carries character 510 batteries,retail + wholesale,1,2026-10-08,1a119fed349a2d0b,contactado
+A,Human Sucks,tienda online,,,humansucks.com,support@humansucks.com,https://humansucks.com/pages/privacy-policy,I saw Human Sucks already carries character 510 batteries,Lookah Cat,1,2026-10-08,1a119fee40b5f039,contactado
+A,SMOKEA,tienda online,O'Fallon,MO,smokea.com,support@smokea.com,https://smokea.com/pages/contact-us,I saw SMOKEA already carries character 510 batteries,Ooze Shroom; wholesale.smokea.com,1,2026-10-08,1a119feea1276335,contactado
+A,Inline Vape,tienda online + local,Warren,MI,inlinevape.com,sales@inlinevape.com,https://www.inlinevape.com/contact-us/,I saw Inline Vape already carries character 510 batteries,several MI stores,1,2026-10-08,1a119fef793b3783,contactado
+A,Waterbeds 'n' Stuff,tienda online + local,Grove City,OH,waterbedsnstuff.com,sales@waterbedsnstuff.com,https://waterbedsnstuff.com/contact-us/,I saw Waterbeds 'n' Stuff already carries character 510 batteries,Novelty Vape Batteries category; 13 OH stores,1,2026-10-08,1a119ff03a9761e9,contactado
+A,Angie's Boutique,tienda online + local,Los Angeles,CA,angies.boutique,info@angies.boutique,https://angies.boutique/pages/contact-us,I saw Angie's Boutique already carries character 510 batteries,"Lookah Bear, Penjamin",1,2026-10-08,1a119ff0f4d9c821,contactado
+A,BOOM Headshop,tienda online,,,boomheadshop.com,support@boomheadshop.com,https://boomheadshop.com/,I saw BOOM Headshop already carries character 510 batteries,Lookah Guitar,1,2026-10-08,1a119ff1ea791977,contactado
+A,OLOFLY,tienda online,,,olofly.com,support@olofly.com,https://olofly.com/contact-us/,I saw OLOFLY already carries character 510 batteries,Lookah Guitar/Bear,1,2026-10-08,1a119ff246c48c5a,contactado
+A,Huff and Puffers,tienda online,,CA,huffandpuffers.com,info@huffandpuffers.com,https://www.huffandpuffers.com/contact-us,I saw Huff and Puffers already carries character 510 batteries,Lookah Guitar,1,2026-10-08,1a119ff301502d5a,contactado
+A,Midtown Direct Smoke Shop,tienda online + local,Bend,OR,midtowndirect.us,contact@midtowndirect.us,https://midtowndirect.us/contact-us-2,I saw Midtown Direct Smoke Shop already carries character 510 batteries,Lookah Guitar,1,2026-10-08,1a119ff3a5369462,contactado
+A,Platte Hemp Co.,tienda online + local,Casper,WY,plattehempwy.com,casper@plattehemp.com,https://www.plattehempwy.com/,I saw Platte Hemp Co. already carries character 510 batteries,3 WY stores,1,2026-10-08,1a11c201bb0b22ec,contactado
+A,520 Hemp,tienda online,Greenville,NC,520hemp.com,info@520hemp.com,https://520hemp.com/privacy-policy/,I saw 520 Hemp already carries character 510 batteries,,1,2026-10-08,1a11c202758c64ae,contactado
+A,Harbor City Hemp,tienda online,Sanford,FL,harborcityhemp.com,help@harborcityhemp.com,https://harborcityhemp.com/about/contact-us/,I saw Harbor City Hemp already carries character 510 batteries,,1,2026-10-08,1a119ea003443ec7,contactado
+A,BattSkins,tienda online,,TX,battskins.com,info@battskins.com,https://battskins.com/,I saw BattSkins already carries character 510 batteries,Penjamin cart pens,1,2026-10-08,1a11c203063a2500,contactado
+B,DankStop,tienda online,Edison,NJ,dankstop.com,support@dankstop.com,https://dankstop.com/pages/sell-on-dankstop,I came across DankStop's 510 battery selection,High Tide group (same as Smoke Cartel); vendor page,1,2026-10-08,1a11c203f0e164a8,contactado
+B,Toker Supply,tienda online,,,tokersupply.com,support@tokersupply.com,https://www.tokersupply.com/,I came across Toker Supply's 510 battery selection,,1,2026-10-08,1a11c204887f0626,contactado
+B,The Glass Warehouse,tienda online + local,Temecula,CA,theglasswarehouse.com,info@theglasswarehouse.com,https://www.theglasswarehouse.com/pages/contact-us,I came across The Glass Warehouse's 510 battery selection,Temecula/Riverside/Anaheim stores,1,2026-10-08,1a11c2054830ea67,contactado
+B,Stoked Smoke Shop,tienda online + local,Bridgeport,CT,stokedct.com,customerservice@stokedct.com,https://stokedct.com/policies/contact-information,I came across Stoked Smoke Shop's 510 battery selection,,1,2026-10-08,1a11c2060f1d7fdc,contactado
+B,Shag Alternative Superstore,tienda online + local,Des Moines,IA,shopshag.com,contact@shopshag.com,https://www.shopshag.com/,I came across Shag Alternative Superstore's 510 battery selection,Iowa chain,1,2026-10-08,1a11c206c612f5ed,contactado
+B,Badass Glass,tienda online,Buena Park,CA,badassglass.com,info@badassglass.com,https://www.badassglass.com/pages/shipping-options,I came across Badass Glass's 510 battery selection,,1,2026-10-08,1a11c20e8fddd5db,contactado
+B,Brothers With Glass,tienda online,,OR,brotherswithglass.com,contact@brotherswithglass.com,https://brotherswithglass.com/pages/payment-methods,I came across Brothers With Glass's 510 battery selection,,1,2026-10-08,1a11c2082faafca6,contactado
+B,Aqua Lab Technologies,tienda online,,,aqualabtechnologies.com,info@aqualabtechnologies.com,https://aqualabtechnologies.com/pages/contact-us,I came across Aqua Lab Technologies's 510 battery selection,,1,2026-10-08,1a11c208ec1adddf,contactado
+B,Thick Ass Glass,tienda online,Colorado Springs,CO,thickassglass.com,info@thickassglass.com,https://www.thickassglass.com/pages/contact-us,I came across Thick Ass Glass's 510 battery selection,,1,2026-10-08,1a11c2099bf8bcb7,contactado
+A,NWG Smoke Shop,smoke shop,Miami,FL,,info@nwgsmokeshop.com,,,tanda Florida (cerca del stock),1,2026-10-08,1a119e9947fb357e,contactado
+A,Smoke Shop Plus,smoke shop,North Miami Beach,FL,,roman@smokeshopplusmiami.com,,,tanda Florida (cerca del stock),1,2026-10-08,1a119e99f981db8c,contactado
+A,LB Smoke Shop,smoke shop,Miami,FL,,hello@lbsmokeshop.com,,,tanda Florida (cerca del stock) | 2026-10-08: dirección inexistente (550),1,2026-10-08,1a119e9aa26aaf81,rebote
+A,Lifted Smoke Shops,cadena smoke shops,Orlando,FL,,liftedsmokeshops@gmail.com,,,tanda Florida (cerca del stock),1,2026-10-08,1a119e9b9c47bae2,contactado
+A,Elite Vape & Smoke Shop,cadena smoke shops,Orlando,FL,,orlandovapeandsmoke@gmail.com,,,tanda Florida (cerca del stock),1,2026-10-08,1a119e9c5635e43f,contactado
+A,Sunshine Smoke,cadena smoke shops,Orlando,FL,,contact@sunshinesmoke.com,,,tanda Florida (cerca del stock),1,2026-10-08,1a119e9d23aa993c,contactado
+A,iSmokee,smoke shop,Orlando,FL,,info@ismokee.com,,,tanda Florida (cerca del stock) | 2026-10-08: dirección inexistente (550),1,2026-10-08,1a119e9dc9caabf7,rebote
+A,Puff Stuff Smoke Shop,cadena smoke shops,Orlando,FL,,puffstuffgeneral@gmail.com,,,tanda Florida (cerca del stock),1,2026-10-08,1a119e9e84a61338,contactado
+A,Rapture Vapor,vape shop,Valrico,FL,,rapturevapor@gmail.com,,,tanda Florida (cerca del stock),1,2026-10-08,1a119e9f5eef9fae,contactado
+A,Discreet Smoker,tienda online,,,,info@discreetsmoker.com,,,"contactado mal en agosto (mails largos, sin seguimiento); seguimiento OK el 2026-10-08 en hilo viejo; PRÓXIMO: mail fresco en HILO NUEVO con otro asunto (pedido de Santi)",1,2026-10-08,,contactado
+A,Smoke Cartel,tienda online,,,,contact@smokecartel.com,,,"contactado mal en agosto (mails largos, sin seguimiento); seguimiento OK el 2026-10-08 en hilo viejo; PRÓXIMO: mail fresco en HILO NUEVO con otro asunto (pedido de Santi)",1,2026-10-08,,contactado
+A,Everything 420,tienda online,,,,support@everything420.com,,,"contactado mal en agosto (mails largos, sin seguimiento); seguimiento OK el 2026-10-08 en hilo viejo; PRÓXIMO: mail fresco en HILO NUEVO con otro asunto (pedido de Santi)",1,2026-10-08,,contactado
+A,Up-N-Smoke,tienda online,,,,marketing@upnsmokeonline.com,,,"contactado mal en agosto (mails largos, sin seguimiento); seguimiento OK el 2026-10-08 en hilo viejo; PRÓXIMO: mail fresco en HILO NUEVO con otro asunto (pedido de Santi)",1,2026-10-08,,contactado
+A,Smoke Tokes,tienda online,,,,sales@smoketokes.com,,,"contactado mal en agosto (mails largos, sin seguimiento); seguimiento OK el 2026-10-08 en hilo viejo; PRÓXIMO: mail fresco en HILO NUEVO con otro asunto (pedido de Santi)",1,2026-10-08,,contactado
+A,KINGs Pipe,tienda online,,,,support@kings-pipe.com,,,"contactado mal en agosto (mails largos, sin seguimiento); seguimiento OK el 2026-10-08 en hilo viejo; PRÓXIMO: mail fresco en HILO NUEVO con otro asunto (pedido de Santi)",1,2026-10-08,,contactado
+A,Vape Batt,tienda online,,,,info@vapebatt.com,,,"contactado mal en agosto (mails largos, sin seguimiento); seguimiento OK el 2026-10-08 en hilo viejo; PRÓXIMO: mail fresco en HILO NUEVO con otro asunto (pedido de Santi)",1,2026-10-08,,contactado
+A,Avernic Smoke Shop / o2Vape,tienda online,,,,support@avernicsmokeshop.com,,,"contactado mal en agosto (mails largos, sin seguimiento); seguimiento OK el 2026-10-08 en hilo viejo; PRÓXIMO: mail fresco en HILO NUEVO con otro asunto (pedido de Santi)",1,2026-10-08,,contactado
+A,Mind Vapes,tienda online,,,,wecare@mindvapes.com,,,"contactado mal en agosto (mails largos, sin seguimiento); seguimiento OK el 2026-10-08 en hilo viejo; PRÓXIMO: mail fresco en HILO NUEVO con otro asunto (pedido de Santi)",1,2026-10-08,,contactado
+A,Mi-Pod Wholesale,distribuidor,,,,wholesale@mipod.com,,,"contactado mal en agosto (mails largos, sin seguimiento); seguimiento OK el 2026-10-08 en hilo viejo; PRÓXIMO: mail fresco en HILO NUEVO con otro asunto (pedido de Santi)",1,2026-10-08,,contactado
+A,NEPA Wholesale — Basant K Sah (Purchasing Manager),distribuidor,West Palm Beach,FL,,basant.sah@nepawholesale.com,,,Lead caliente: derivado por Member Care. Tel (561) 345-5227. Stock a ~1 h.,1,2026-10-08,1a11c1fd36090564,calificando
+```
+
+---
+
+## 📄 `E-commerce/TERPTECH/mayoristas/outreach.md`
+
+---
+tipo: kit-outreach-mayoristas
+producto: TerpTech Premium 650mAh
+fecha: 2026-10-08
+---
+
+# TERPTECH — KIT PARA CONSEGUIR MAYORISTAS
+
+Lista de prospectos y seguimiento: `prospectos.csv`. Precios: `../canales.md` › Precios mayoristas.
+
+## 1. Por qué los mails anteriores no funcionaron (HIPÓTESIS hasta ver uno)
+
+`DATO FALTANTE:` pegar 1 o 2 de los mails que se mandaron y a quién. La cuenta de Gmail conectada a Claude no es
+la de TerpTech, así que no aparecen.
+
+Causas típicas en este rubro, de más a menos probable:
+1. **Un solo mail sin seguimiento.** La mayoría de las respuestas llega entre el 2.º y el 4.º contacto.
+2. **Canal equivocado.** Los compradores de smoke shops compran por teléfono, WhatsApp, visitas de vendedores y ferias.
+   El mail frío desde una casilla nueva con PDF adjunto suele terminar en spam.
+3. **Destinatario equivocado.** A un distribuidor grande le llegan decenas de marcas por semana. Responde más rápido
+   una tienda online que ya tiene una sección "novelty 510", porque el producto le completa una góndola que ya tiene.
+4. **Oferta sin reducción de riesgo.** Marca desconocida + compra mínima de 500 u = "no". Hay que hacer fácil el
+   primer pedido: 1 caja, muestras, precio de prueba.
+5. **Prueba social que no se puede verificar.** "~1.900 u/mes en Amazon" sin captura parece inventado. Adjuntar la
+   captura de las reviews (4,4★ / 80+) y la foto del cliente.
+
+## 2. Estrategia (en orden de velocidad para hacer caja)
+
+| # | Frente | A quién | Canal | Por qué |
+|---|---|---|---|---|
+| 1 | **Tiendas online con sección novelty** | Discount Vape Pen, Discreet Smoker, ElementVape (prioridad A en el CSV) | Mail al comprador + seguimiento | Ya venden baterías con personaje. Pedido inicial chico, recompran |
+| 2 | **Distribuidores de Miami** | Miami K, VaporFi Wholesale + los otros 4 del directorio SmokeAxis | **Teléfono/WhatsApp primero**, después el mail | El stock está en Miami: retiran sin flete. Pueden llevarse 500–2.300 u |
+| 3 | **Smoke shops del sur de Florida** | Locales de Miami-Dade y Broward | **Visita con muestras** | Mejor precio ($11–12). Necesita alguien en el lugar: ¿Pablo? ¿un vendedor a comisión del 10–15%? |
+| 4 | Feria | **TPE 2027, 24–26 feb, Las Vegas** (fecha a confirmar en la web oficial) | Recorrer la feria, sin stand | Concentra compradores. Sólo si a febrero queda stock |
+| 5 | Salida | Compradores de saldos | Mail | Escenario C: lote completo a ≥ $8,50, si a los 60 días no hay tracción |
+
+Comisión de un vendedor al 12% sobre $12 = $1,44/u, así que te quedan ~$3,50/u. Sigue siendo mejor que el lote completo ($1,50).
+
+## 3. Oferta para el primer pedido (lo que hace decir "sí")
+
+- **Pedido de prueba: 1 caja de 50 u** (se pueden mezclar colores) a **$12/u**. Retiro o entrega en el sur de Florida.
+- Si recompra dentro de 60 días: **$11/u**.
+- Distribuidor: **$9,50/u desde 500 u**.
+- Muestras: 3 u (una por color) para quienes están en el sur de Florida.
+- Argumento de margen para el comprador: precio de reventa sugerido $24,99 = **duplica su inversión**.
+
+## 4. Secuencia de mails (en inglés, para copiar)
+
+Reemplazar `{Name}`, `{Store}` y la firma. Mandar **sin adjuntos en el 1.er mail** (mejor llegada a la bandeja de entrada). El line
+sheet va cuando responden o en el mail 2.
+
+### Mail 1 — día 0
+**Subject:** Character 510 battery for {Store}'s novelty section
+
+Hi {Name},
+
+I saw {Store} carries novelty 510 batteries, so I'll keep this short.
+
+We make **TerpTech**: a 650mAh character battery with a **digital voltage display** (most novelty batteries are 400–500mAh with no display). Three colors: orange, black, pink.
+
+It sold on Amazon at ~$24 with **4.4★ across 80+ verified reviews** before it sold out, and it is no longer listed there. So there's no marketplace price war undercutting you.
+
+- Trial case: 50 units at $12 (MSRP $24.99)
+- Stock ready in Miami, FL
+
+Want me to send the line sheet and review screenshots?
+
+{Your name}
+TerpTech · {WhatsApp} · {email}
+
+### Mail 2 — día 3 (responder en el mismo hilo)
+**Subject:** Re: Character 510 battery for {Store}'s novelty section
+
+Hi {Name}, quick follow-up with the line sheet attached, plus a photo a customer posted with their review.
+
+The display and 650mAh are what get reorders. Happy to do a mixed-color trial case so you can test which color moves fastest.
+
+{Your name}
+
+### Mail 3 — día 7
+**Subject:** Re: Character 510 battery for {Store}'s novelty section
+
+Hi {Name}, is there someone else at {Store} who handles new hardware brands? I'd be glad to reach out to them instead.
+
+{Your name}
+
+### Mail 4 — día 14 (cierre)
+**Subject:** Re: Character 510 battery for {Store}'s novelty section
+
+Hi {Name}, I'll close the loop here. We're placing the remaining Miami stock with a few retailers this month. If a trial case at $12 makes sense later, just reply "interested" and I'll hold one for you.
+
+{Your name}
+
+## 5. Guion para WhatsApp / llamada (distribuidores de Miami)
+
+> Hi, this is {name} from TerpTech. Who handles purchasing for 510 batteries?
+> […] We have 3,300 units of a character 510 battery, 650mAh with a digital display, sitting in Miami. It sold at ~$24 on Amazon
+> with 4.4 stars. For distributors it's **$9.50 from 500 units**, and you can pick up locally, so no freight. Can I send you the
+> line sheet by WhatsApp? And when could you see a sample?
+
+Si dicen "no nos interesa": preguntar **"¿qué baterías novelty te están rotando hoy y a qué precio las comprás?"**.
+Esa respuesta vale tanto como una venta: te dice el precio real del mercado.
+
+## 6. Reglas
+
+- Seguimiento obligatorio: cada prospecto recibe los 4 mails, o mail + 2 llamadas, antes de marcarlo como "frío".
+- Registrar todo en `prospectos.csv` (estado, último contacto, próximo paso).
+- **Nunca** describir el producto como "soldador" ante un mayorista ni como "vape" en un canal de herramientas: la misma verdad en cada canal.
+- No prometer en el mail las cifras de "1.900 u/mes" ni "$46K/mes" sin la captura que las respalde.
+
+## 7. Diagnóstico real de los mails de agosto (leído del Gmail de TerpTech, 2026-10-08)
+
+HECHO: 21 mails a ~17 empresas entre el 6 y el 18 de agosto. **Cero respuestas humanas con interés.** Detalle: `contactados_agosto.csv`.
+
+| Problema | Evidencia | Corrección |
+|---|---|---|
+| **Cero seguimientos** | Ningún hilo tiene un 2.º mail de TerpTech | Secuencia de 4 toques (`plantillas.md`) |
+| **Casilla equivocada** | support@, customerservice@, wecare@ → atención al cliente, abren tickets (Mi-Pod, Ooze, Element Vape, Everything 420) | Buscar al comprador (buyer/purchasing/wholesale@) o pedir que lo reenvíen |
+| **Destinatarios equivocados** | Yocan, Ooze, Hamilton Devices son **marcas competidoras**, no compradores | Apuntar a tiendas y distribuidores |
+| **Plantillas sin completar** | Asuntos/saludos "[Boost]", "[MIPOD]", "[Smoke Tokes2]", "[Element Vape]" | Personalización revisada antes de enviar |
+| **Mails largos con adjunto de ~670 KB** | Mails del 17 y 18-ago | 1.er mail corto y sin adjunto |
+| **Duplicados y direcciones mezcladas** | Smoke Tokes x3 (uno a la casilla de Up-N-Smoke), Vape Batt x2 | Registro único en CSV |
+| **Oferta de dropship** | Se ofreció dropship. World of Bongs (UE) contestó "We just drop ship" | Dropship = envío al consumidor: mismo problema de PACT y couriers. No ofrecerlo |
+
+Activos buenos que hay que reusar: datos documentados de Amazon (1.936 u en 30 días, $44,7K, **devoluciones 2,9%**, 4,4★/80+,
+sólo color naranja), LLC en EE.UU. para facturar.
+
+**2026-10-08: 10 borradores de seguimiento creados** en Gmail (tiendas y Mi-Pod), cortos, con emoción + muestra gratis como gancho + 1 pregunta.
+Falta completar `[business address]` en la firma antes de enviarlos.
+
+## 8. Bitácora de envíos
+| Fecha | Qué | A quién | Resultado |
+|---|---|---|---|
+| 2026-10-08 | 10 seguimientos (toque 2, mismo hilo de agosto) | Discreet Smoker, Smoke Cartel, Everything 420, Up-N-Smoke, Smoke Tokes, KINGs Pipe, Vape Batt, Avernic, Mind Vapes, Mi-Pod Wholesale | enviados |
+| 2026-10-08 | **Test: 10 primeros contactos (T1)** | 8 distribuidores (NEPA, SW Distro, IWS, Tokers Hub, Demand Vape, Midwest Goods, Greenlane, Got Vape Wholesale) + Smoker Friendly (canal de proveedores) + Discount Vape Pen | enviados · medir respuestas a 48–72 h |
+| 2026-10-08 | 10 primeros contactos (T1) | Tiendas online que ya venden baterías con personaje: Elyxr, ProCannabis, Nikk Drips, SnowTree, KC Smoke Shop, MyVpro, Fog Factory, 420Buy, Kush Cargo, RI-Ecig | enviados |
+| 2026-10-08 | 10 primeros contactos (T1), **tanda Florida** | NWG, Smoke Shop Plus, LB Smoke Shop (Miami, con retiro local), Lifted (8 locales), Elite Vape, Sunshine Smoke, iSmokee, Puff Stuff (Orlando), Rapture Vapor, Harbor City Hemp | enviados |
+
+Prioridad de Santi (2026-10-08): **arrancar por las zonas cercanas al stock** (Florida primero, después el sudeste).
+| 2026-10-08 | 10 primeros contactos (T1) | Smokerolla, Human Sucks, SMOKEA, Inline Vape, Waterbeds 'n' Stuff (13 locales OH), Angie's Boutique, BOOM Headshop, OLOFLY, Huff and Puffers, Midtown Direct | enviados |
+
+**Total del 2026-10-08: 50 mails** (10 seguimientos + 40 primeros contactos). Tope recomendado por día para esta casilla: ~50.
+**Contactados en agosto:** cargados en `leads.csv` con toques=1. A partir del 2026-10-11 reciben un **mail nuevo en hilo nuevo** (pedido de Santi: el primer contacto de agosto fue malo). Excluidos a propósito: Yocan, Ooze, Hamilton (son marcas competidoras), World of Bongs (UE + dropship) y Boost (rebotó).
+| 2026-10-08 (11:30 ET) | **1.ª respuesta real: NEPA Wholesale** derivó a Basant K Sah (Purchasing Manager, Basant.sah@nepawholesale.com, (561) 345-5227) | Mail directo a Basant, citando a Suraj | enviado · **lead caliente** |
+| 2026-10-08 | Rebotes (dirección inexistente) | iSmokee, LB Smoke Shop, KC Smoke Shop, IWS | marcados `rebote` |
+| 2026-10-08 | Respuestas automáticas (tickets) | Discreet Smoker ("un humano responde en 1 día hábil"), Harbor City Hemp (#21715) | esperar |
+| 2026-10-08 | Últimos 12 de la lista (T1) | Platte Hemp, 520 Hemp, BattSkins, DankStop, Toker Supply, Glass Warehouse, Stoked, Shag, Badass Glass, Brothers With Glass, Aqua Lab, Thick Ass Glass | enviados |
+
+**Total del día: 63 mails.** Tasa de rebote 4/52 ≈ 8% (los emails salieron de búsquedas web sin verificar): con listas nuevas hay que verificar los emails antes de mandar.
+
+## 9. Kit NEPA (Basant K Sah, Purchasing Manager)
+- Canal: por escrito (Santi no habla inglés). Mail enviado 2026-10-08 11:30 ET. Si no responde: WhatsApp al (561) 345-5227 el viernes 9-oct a las 10:00 ET.
+- Texto de WhatsApp (EN):
+  > Hi Basant, this is Santino from TerpTech. Suraj from NEPA Member Care gave me your contact for vendor requests, and I sent you an email yesterday. Quick summary: we have 3,300 units of a character 510 battery (650mAh, digital display) in Doral, Miami, about an hour from your warehouse. It sold ~1,900 units/month on Amazon with 4.4★. I'm the founder and I'm based in Argentina; our company and stock are in Miami. Writing works best for me. Can I send you the line sheet and a free test unit?
+- Si dice que sí: mandar `catalogo/TerpTech_Wholesale_Line_Sheet.pdf`. Precio distribuidor $9,50 (500+), piso $8,50 para el lote completo (no ponerlo por escrito de entrada).
+
+---
+
+## 📄 `E-commerce/TERPTECH/mayoristas/plantillas.md`
+
+---
+tipo: plantillas-outreach
+producto: TerpTech Premium 650mAh
+fecha: 2026-10-08
+estado: BORRADOR — Santi tiene que aprobarlas antes de cualquier envío
+---
+
+# TERPTECH — PLANTILLAS (EN) CON EMOCIÓN Y CALIFICACIÓN
+
+Base emocional (HECHO): review 5★ verificada de Reo Clark: *"Great little battery built well works great had it for awhile it's in
+and out of pockets vehicles and works everytime"*. Santi: los clientes estaban "demasiado agradecidos" porque **dura muchísimo**.
+`DATO FALTANTE:` capturas de más reviews con texto. Sin ellas, **no citar** frases que no estén guardadas.
+
+Variables: `{Name}` `{Store}` `{City}` `{detalle_real}` (un dato verificado de la tienda) · Firma con dirección postal física (CAN-SPAM).
+
+---
+
+## T1 — Primer contacto (día 0)
+**Subject:** the battery your customers stop complaining about
+
+Hi {Name},
+
+{detalle_real} — so I figured {Store} is the right place for this.
+
+Most novelty 510 batteries are cute for a week and dead in a month. TerpTech is the opposite: a 650mAh character battery with a digital voltage display, and the thing people kept telling us is simply that **it doesn't quit**. One verified buyer wrote: *"had it for a while, it's in and out of pockets and vehicles and works every time."*
+
+It held **4.4★ across 80+ verified Amazon reviews** at ~$24 retail before it sold out there, so there's no marketplace price war undercutting you.
+
+If it sounds like a fit, **we can send you a free unit to test**. Just reply and tell me a bit about the shop.
+
+{Your name}
+TerpTech · {email}
+2970 NW 75th Ave, Miami, FL 33122
+*Not interested? Reply "no" and you won't hear from me again.*
+
+## T2 — Seguimiento (día 3, mismo hilo)
+Hi {Name}, bumping this in case it got buried. Quick question that helps me see if it's a fit: **which 510 batteries move best for you right now?**
+
+## T3 — Seguimiento (día 7)
+Hi {Name}, is someone else at {Store} in charge of new hardware? Happy to reach out to them instead.
+
+## T4 — Cierre (día 14)
+Hi {Name}, I'll close the loop. If a free test unit or a trial case makes sense later, just reply "interested" and I'll take care of it.
+
+---
+
+## R1 — Respondió con interés / "send info" (1.ª respuesta → `calificando`)
+> Regla: la muestra gratis es el **gancho** del T1. La condición (envío a cargo del comprador, descontado de la 1.ª caja) se aclara **acá**, antes de pedir cualquier dato o pago, para que nadie lo sienta como trampa.
+Thanks {Name}, love that.
+
+Quick snapshot:
+- 650mAh (most character batteries are 400–500), real-time voltage display, 3 voltage settings
+- Orange, black and pink, all with the same character design
+- Suggested retail $24.99, wholesale **$12/unit by the case of 50**, so your margin roughly doubles
+
+About the free test unit: the unit is on us, you'd just cover shipping from Miami (~$8–15), and we credit that back on your first case. So I can see if it makes sense: **how many locations do you have, and about how many 510 batteries do you sell a month?**
+
+## R2 — Respondió con datos (2.ª respuesta → puntuar)
+**Si puntaje ≥ 6 → `calificado`:**
+Perfect, {Store} is exactly who we want carrying these. The test unit is on us; you just cover shipping from Miami (about ${envio}), and **we credit that back on your first case**. What's the best **business address** and contact name? And do you have a resale license on file?
+
+**Si puntaje < 6 → seguir calificando sin ofrecer muestra todavía:**
+Thanks, super helpful. Which brands are you buying in novelty right now, and at what price? I want to make sure our case price works for you.
+
+## R3 — Pide precio directo (atajo a venta)
+Case of 50 (colors can be mixed): **$12/unit**. Reorder within 60 days: **$11**. 500+ units: **$9.50**. Stock ships from Miami, FL.
+Want me to set up a trial case for you?
+
+## R4 — Objeción "ya tenemos proveedor"
+Totally fair. Most shops we talk to already carry Lookah or Ooze. The reason they add TerpTech is battery life plus the display, which those character lines don't have. A free unit costs you nothing to compare. Want one?
+
+## R5 — Objeción "muy caro"
+Understood. What are you paying now for character batteries? If the case price is the blocker, I can look at a 2-case price.
+→ Antes de bajar: preguntar a cuánto venden su Lookah Bear / Ooze Hoot y comparar contra ESA (ver `../canales.md` › Precio según cliente). Pisos: $11 caja · $9,50 desde 500 u · $8,50 lote. Escalar a Santi.
+
+## R6 — Después de la muestra (día 5 desde la entrega)
+Hey {Name}, did you get a chance to test it? Most people notice the battery life first. If it passed your test, I can ship a mixed-color case of 50 this week.
+
+## R7 — Opt-out
+Got it, I've removed you. Sorry for the bother, {Name}. (→ etapa `baja`, no volver a escribir)
+
+## T5 — Quinto toque (nuevo ángulo: temporada)
+**Subject:** Re: (mismo hilo)
+
+Hi {Name}, holiday season is when character batteries fly off the counter as gifts. If you want TerpTech on your shelf before Black Friday, a mixed-color case of 50 ships from Miami this week. Want the details?
+
+## T6 — Sexto toque (cierre con oferta)
+**Subject:** Re: (mismo hilo)
+
+Hi {Name}, last note from me. We're placing our remaining Miami stock before year-end, so for the first case we can do **$11/unit with free shipping**. If that works, just reply "case" and I'll set it up. Otherwise, thanks for your time!
+
+> Firma de TODOS los mails (CAN-SPAM): `Santino · TerpTech LLC · terptech.company@gmail.com · 2970 NW 75th Ave, Miami, FL 33122` + línea de baja.
+> Cadencia: T1 a toda la lista → después T2 a la lista entera, etc. Mínimo 3 días entre toques a la misma tienda. Máximo 6 toques.
+
+---
+
+## 📄 `E-commerce/TERPTECH/mayoristas/prospectos.csv`
+
+```csv
+prioridad,nombre,tipo,ubicacion,por_que_encaja,canal_contacto,fuente,estado,ultimo_contacto,proximo_paso
+A,Discount Vape Pen,tienda online (retail),EE.UU.,"Tiene colección ""novelty 510 batteries"" con estilo Character/Kawaii: TerpTech encaja directo",formulario/email de proveedores en su web,https://discountvapepen.com/product-category/cartridge-vape-battery/novelty-510-batteries/,sin contactar,,buscar contacto de compras (buyer)
+A,Discreet Smoker,tienda online (retail),EE.UU.,"Colección ""Novelty 510 Battery"" (Lookah Cat/Bear, SeshGear): compra novelty",email de compras,https://discreetsmoker.com/collections/novelty-510-batteries,sin contactar,,buscar contacto de compras
+A,ElementVape,tienda online grande (retail),EE.UU.,"Vende Ooze/Yocan/Lookah, incluidos novelty; pide volumen y marca",vendor/brand submission,https://www.elementvape.com/ooze-650-battery,sin contactar,,buscar programa de vendors
+A,Miami K Distribution,distribuidor full-line,Miami FL,"Distribuidor local de vape/tabaco: retira en Miami, flete ≈ 0",teléfono / visita,https://smokeaxis.com/suppliers/state/florida,sin contactar,,conseguir teléfono y nombre del comprador
+A,VaporFi Wholesale,distribuidor/marca,Miami FL,"Mayorista de hardware en Miami, envío same-day a retailers",teléfono / email wholesale,https://smokeaxis.com/suppliers/state/florida,sin contactar,,conseguir contacto de compras
+A,(otros 4 distribuidores Miami de SmokeAxis),distribuidor,Miami FL,"SmokeAxis lista 6 mayoristas con depósito en Miami",teléfono,https://smokeaxis.com/suppliers/state/florida,sin relevar,,abrir el directorio y completar filas
+B,Got Vape Wholesale,distribuidor nacional,EE.UU.,"2.000+ SKUs incluidas baterías 510; abastece smoke shops",email/teléfono compras,https://www.gotvapewholesale.com/,sin contactar,,
+B,Mi-Pod Wholesale,distribuidor nacional,EE.UU.,"Colección de baterías 510 (CCELL, Lookah, Cartisan)",email compras,https://mipodwholesale.com/collections/510-threaded-batteries/,sin contactar,,
+B,Gotham Distro,distribuidor nacional,EE.UU.,"Vende baterías 510 al por mayor",email/teléfono,https://gothamdistro.com/wholesale-vape-distributor-the-best-wholesale-smoke-distro-bulk-vape-distributor-usa/,sin contactar,,
+B,Golden Eagle Distributors,distribuidor nacional,Lombard IL,"Categoría vape shop; lejos (flete LTL a cargo del comprador)",email,https://goldeneagledistributors.com/product-category/vape-shop/,sin contactar,,
+C,Smoke shops del sur de Florida (calle),retail físico,Miami-Dade / Broward,"Compran por caja de 50 a $11-12; mejor margen",visita con muestras (rep),Google Maps,sin relevar,,definir quién visita
+C,Compradores de saldos (closeout),liquidador,EE.UU.,"Salida del escenario C (lote completo a ≥ $8,50)",email,—,en espera,,"activar sólo si a los 60 días no hay tracción"
+```
 

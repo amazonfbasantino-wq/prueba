@@ -4,8 +4,8 @@
 > El contenido de los productos **ya está en el repo** (ver tabla de `Trabajo/CLAUDE.md`). Este traspaso no repite datos de productos: sólo lo que se decidió sobre cómo trabajar y lo que quedó pendiente.
 
 ## 1. Contexto estable
-- HECHO · Repo GitHub `amazonfbasantino-wq/prueba`. Rama principal: **`claude/hopeful-allen-FxQrV`** (no existe `main`). Rama de trabajo de la mudanza: `claude/obsidian-data-migration-i9q4nd`.
-- HECHO · Estructura: `Trabajo/` → ecosistema (`Amazon/`, `Etsy/`, `Paginas-Web/`) → una carpeta por producto. Cada producto: `CLAUDE.md` (estable) + `ESTADO.md` (dónde quedamos) + archivos temáticos + `assets/`. Regla **write once, reference many**.
+- HECHO · Repo GitHub `amazonfbasantino-wq/prueba`. Rama principal: **`claude/hope-main-negocios`** (antes `claude/hopeful-allen-FxQrV`; no existe `main`). Rama de trabajo de la mudanza: `claude/obsidian-data-migration-i9q4nd`.
+- HECHO · Estructura: `Trabajo/E-commerce/` → ecosistema (`Amazon/`, `TERPTECH/`, `Etsy/`, `Paginas-Web/`) → una carpeta por producto. Cada producto: `CLAUDE.md` (estable) + `ESTADO.md` (dónde quedamos) + archivos temáticos + `assets/`. Regla **write once, reference many**.
 - HECHO · `CLAUDE.md` en la raíz del repo: al empezar, leer sólo `CLAUDE.md` + `ESTADO.md` del producto; al cerrar, actualizar `ESTADO.md` y commitear; CSV grandes con scripts.
 - HECHO · Fuente principal = carpeta local en la compu de Santi (clon del repo). **Google Drive `AMAZON/` = copia espejo de lectura** para Claude en Cowork/app (decisión 2026-10-08; antes se había dicho "Drive no se usa" y se revirtió).
 - HECHO · `scripts/migrar_obsidian.py RUTA_VAULT [--aplicar]`: clasifica notas de un vault (carpeta o .zip) en `Trabajo/` por palabras clave (`REGLAS`); sin `--aplicar` sólo muestra el plan; nunca pisa archivos.
@@ -13,21 +13,16 @@
   `git clone https://github.com/amazonfbasantino-wq/prueba.git ~/Trabajo-Santi`
 
 ## 2. Estado actual
-**Migrado y verificado (tamaño + codificación):** Amazon madre, AVIE, MT-BALL (+ `keywords_Q4_tracker.csv`), REFLEX, KINA, `_CUENTA-KINAVARGAS`, TerpTech (ficha + 6 imágenes + line sheet PDF; las imágenes y el PDF los subió Santi por git, commit `1432368`).
+**Migrado y verificado (tamaño + codificación):** Amazon madre, AVIE, MT-BALL (+ `keywords_Q4_tracker.csv`), REFLEX, KINA, `_CUENTA-KINAVARGAS`, TerpTech (ficha + 6 imágenes + line sheet; imágenes y PDF subidos por Santi por git, commit `1432368`).
+Después otras sesiones reorganizaron todo bajo `E-commerce/` y sacaron TerpTech de Amazon (`E-commerce/TERPTECH/`, con su `ESTADO.md` y `_CUENTA-DECOHOUSE/`). Para el estado de TerpTech, mandan esos archivos, no este traspaso.
 
-**En Drive `AMAZON/TERPTECH/`:** `CLAUDE.md` y `07_line_sheet_mayorista.pdf` (subidos 2026-10-08). La ficha está suelta en `AMAZON/` como `TERPTECH_FICHA_DE_PRODUCTO.md`.
+**En Drive `AMAZON/TERPTECH/`:** `CLAUDE.md` y `07_line_sheet_mayorista.pdf` (subidos 2026-10-08; ese line sheet ya no se usa, ver `E-commerce/TERPTECH/ESTADO.md`). La ficha está suelta en `AMAZON/` como `TERPTECH_FICHA_DE_PRODUCTO.md`.
 
-**Pendientes (por orden):**
-1. Santi: arrastrar `TERPTECH/imagenes/` a Drive `AMAZON/TERPTECH/` (muy pesadas para subirlas desde la nube).
-2. Santi: abrir el PDF en Drive y confirmar que se ve bien (sólo se verificó el tamaño, 4907 bytes).
-3. Reemplazar el `CLAUDE.md` de Drive `AMAZON/` por la versión del repo (la de Drive es vieja: sin TerpTech). Pendiente de OK de Santi.
-4. `Amazon/TERPTECH/ESTADO.md`: no hay datos de stock, estado de cuenta ni objetivo → preguntar a Santi, no inventar.
-5. Traspasar los chats viejos con `PROMPT_TRASPASO.md`: Shopify/TerpTech DTC, cuenta personal bloqueada, Etsy, RapiPet y cualquier otro.
-6. `Amazon/_ARCHIVO/`: copiar los vaults crudos (`obsidian c`, `PROYECTOS 100K`) desde la compu (sólo consulta).
-7. `Paginas-Web/`: migrar `02 Negocios/` del vault.
-8. Commit "Drive vuelve como copia espejo…" y los archivos de `_inbox/` están en la rama de trabajo; fusionar a la rama principal si todavía no se hizo.
-
-**Decisiones abiertas (de Santi):** punto 3; cómo mantener el espejo de Drive al día (a mano al cerrar cada sesión, o sólo cuando haga falta para Cowork).
+**Pendientes de la mudanza:**
+1. Espejo de Drive: quedó con la estructura vieja (`AMAZON/…`). Decidir si se mantiene al día y cómo (decisión de Santi).
+2. Traspasar los chats viejos con `PROMPT_TRASPASO.md` (los que no se hayan pasado todavía).
+3. `E-commerce/Amazon/_ARCHIVO/`: copiar los vaults crudos (`obsidian c`, `PROYECTOS 100K`) desde la compu (sólo consulta).
+4. `E-commerce/Paginas-Web/`: migrar `02 Negocios/` del vault.
 
 ## 3. Detalle
 ### Cómo trabajar con poco contexto
@@ -42,7 +37,6 @@
 - La carpeta `TERPTECH_TRANSFER_2026-10-07` de Drive quedó vacía (la subida desde la compu no llegó); se resolvió subiendo por git.
 
 ## 5. Datos faltantes
-- TerpTech: stock, estado de cuenta/listing, objetivo, economía (→ Santi).
 - Nombres reales de las carpetas/sitios de Páginas Web y tiendas de Etsy (→ chats viejos / vault).
 
 ## 6. Archivos adjuntos
