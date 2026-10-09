@@ -18,7 +18,7 @@ a TODO; lo específico vive en su carpeta (regla: **write once, reference many**
 | `Etsy/` | Ecosistema Etsy | ⏳ pendiente |
 | `Paginas-Web/` | TerpTech / DTC, RapiPet y otros sitios | ⏳ pendiente: migrar desde `02 Negocios/` del vault |
 | `_compartido/` | Lo transversal a todos los ecosistemas | vacío |
-| `_inbox/` | Notas importadas sin clasificar | vacío |
+| `_inbox/` | Traspasos de chats viejos a repartir (ver `_inbox/LEEME.md`) | 1 traspaso |
 
 Cada producto sigue la misma estructura: `CLAUDE.md` (lo estable) + `ESTADO.md` (dónde quedamos)
 + archivos temáticos (`listing.md`, `ppc.md`, `keywords.md`, `riesgos.md`, …) + `assets/`.
