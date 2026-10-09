@@ -135,6 +135,14 @@ Estado, stock y decisiones: `ESTADO.md` (**producto prohibido en Amazon**: caus�
 - El punto 0 de "Próxima sesión" (historia con el Gmail cemar4025) quedó **hecho en parte**: la historia de la cuenta Amazon está en `_CUENTA-DECOHOUSE/CLAUDE.md`. Falta lo de fábrica (specs, facturas, certificados).
 
 
+## TAREA EN CURSO — traer lo de TerpTech que está en la Mac (2026-10-09)
+Este repo ya está en la Mac como `Documentos/ecosistema de negocios nuevo/`. Falta revisar lo que haya de TerpTech **fuera del repo** y sumarlo acá.
+1. Buscar TerpTech en `~/Documents/ecosistema de negocios`, `~/Documents/Obsidian Vault`, `~/Documents/PROYECTOS 100K` y `~/Documents/amazon 1` (nombre o contenido: `terptech`, `510`, `B0F9SXP5MW`, `skytrader`, `wholesale`, `line sheet`).
+2. Mostrarle a Santi la lista (archivo · fecha · qué es) antes de copiar nada.
+3. Lo aprobado: copiar (nunca mover ni borrar el original) a la subcarpeta que toque (`imagenes/`, `catalogo/`, `mayoristas/`, `_CUENTA-DECOHOUSE/`, o `assets/` para lo demás). Si es texto con datos nuevos, volcarlo en el `.md` que corresponda sin duplicar; si contradice lo que hay, anotarlo abajo en "Contradicciones" en vez de pisar.
+3b. **Drive, carpeta compartida "SANTINO"** (dueño `espinaza.biotec@gmail.com`, compartida con Santi el 07-oct-2026): 13 PNG de diseño de 2025 (~50 MB) → raíz: `PRINCIPAL-Final`, `PRINCIPAL-Final (1)`, `ESQUEMA-Final`, `TEMPERATURA-Final`, `UNIÓN-Final`, `VOLTAJE-Final`, `CARGANDO-Final` (may-2025); subcarpeta `NUEVAS/`: `PRINCIPAL`, `COMPONENTS`, `HEATING`, `UNION`, `VOLTAGE`, `CHARGING` (jul-2025). HIPÓTESIS: imágenes de listing de TerpTech (voltaje, calentamiento, carga y unión encajan con una batería 510 con punta de soldar). **Confirmar con Santi** de qué producto son; si son de TerpTech, bajarlas desde Drive a `imagenes/diseno-2025/` (no entran por el chat: desde la Mac).
+4. Commitear y pushear. Borrar esta sección al terminar.
+
 ## Dónde estamos
 - 🔴 **URGENTE: vender las 3.300 u antes del 31-dic-2026** (stock comprado con deuda). Plan y puntos de control: `canales.md` › Plan de liquidación.
 - Stock en el 3PL de Miami: **3.300 u (1.100 por color) sin punta de soldar adentro**, aunque la caja la muestra. Confirmado por Santi el 2026-10-08.
@@ -1683,6 +1691,13 @@ Después otras sesiones reorganizaron todo bajo `E-commerce/` y sacaron TerpTech
 2. Traspasar los chats viejos con `PROMPT_TRASPASO.md` (los que no se hayan pasado todavía).
 3. `E-commerce/Amazon/_ARCHIVO/`: copiar los vaults crudos (`obsidian c`, `PROYECTOS 100K`) desde la compu (sólo consulta).
 4. `E-commerce/Paginas-Web/`: migrar `02 Negocios/` del vault.
+
+## Revisión final (2026-10-09)
+- HECHO · Los 44 archivos de Drive (`AMAZON/` + `TERPTECH/`) están en el repo: 39 idénticos byte a byte; 3 con agregados posteriores de otras sesiones (AVIE y MT-BALL `ESTADO.md`: modo salida de Beauty Michele; `FICHA_DE_PRODUCTO.md` de TerpTech: packaging y cómo recuperar reviews). No se perdió nada.
+- HECHO · 62 `.md` + CSV: todo UTF-8 válido, sin caracteres raros, sin links relativos rotos, todas las carpetas de producto con `CLAUDE.md` + `ESTADO.md`.
+- HECHO · Encontrado y **no** migrado: carpeta compartida de Drive "SANTINO" (diseñador `espinaza.biotec`, 13 PNG de 2025). Anotado como paso 3b de la tarea en curso de `TERPTECH/ESTADO.md` (confirmar de qué producto son).
+- Falta (no está en Drive ni en el repo, sólo en la Mac): vaults crudos para `_ARCHIVO/`, notas de `02 Negocios/` para Páginas Web (sin `ESTADO.md` todavía), email de la tienda de Etsy, y lo de TerpTech que haya en las carpetas viejas de la Mac.
+- El espejo de Drive (`AMAZON/…`) quedó con la estructura vieja y no tiene lo nuevo de TerpTech (mayoristas, DecoHOUSE, catálogo). Decisión de Santi si se sigue manteniendo.
 
 ## 3. Detalle
 ### Cómo trabajar con poco contexto

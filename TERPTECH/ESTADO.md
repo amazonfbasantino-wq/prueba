@@ -13,6 +13,7 @@ Este repo ya está en la Mac como `Documentos/ecosistema de negocios nuevo/`. Fa
 1. Buscar TerpTech en `~/Documents/ecosistema de negocios`, `~/Documents/Obsidian Vault`, `~/Documents/PROYECTOS 100K` y `~/Documents/amazon 1` (nombre o contenido: `terptech`, `510`, `B0F9SXP5MW`, `skytrader`, `wholesale`, `line sheet`).
 2. Mostrarle a Santi la lista (archivo · fecha · qué es) antes de copiar nada.
 3. Lo aprobado: copiar (nunca mover ni borrar el original) a la subcarpeta que toque (`imagenes/`, `catalogo/`, `mayoristas/`, `_CUENTA-DECOHOUSE/`, o `assets/` para lo demás). Si es texto con datos nuevos, volcarlo en el `.md` que corresponda sin duplicar; si contradice lo que hay, anotarlo abajo en "Contradicciones" en vez de pisar.
+3b. **Drive, carpeta compartida "SANTINO"** (dueño `espinaza.biotec@gmail.com`, compartida con Santi el 07-oct-2026): 13 PNG de diseño de 2025 (~50 MB) → raíz: `PRINCIPAL-Final`, `PRINCIPAL-Final (1)`, `ESQUEMA-Final`, `TEMPERATURA-Final`, `UNIÓN-Final`, `VOLTAJE-Final`, `CARGANDO-Final` (may-2025); subcarpeta `NUEVAS/`: `PRINCIPAL`, `COMPONENTS`, `HEATING`, `UNION`, `VOLTAGE`, `CHARGING` (jul-2025). HIPÓTESIS: imágenes de listing de TerpTech (voltaje, calentamiento, carga y unión encajan con una batería 510 con punta de soldar). **Confirmar con Santi** de qué producto son; si son de TerpTech, bajarlas desde Drive a `imagenes/diseno-2025/` (no entran por el chat: desde la Mac).
 4. Commitear y pushear. Borrar esta sección al terminar.
 
 ## Dónde estamos

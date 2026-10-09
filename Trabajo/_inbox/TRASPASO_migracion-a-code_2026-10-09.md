@@ -24,6 +24,13 @@ Después otras sesiones reorganizaron todo bajo `E-commerce/` y sacaron TerpTech
 3. `E-commerce/Amazon/_ARCHIVO/`: copiar los vaults crudos (`obsidian c`, `PROYECTOS 100K`) desde la compu (sólo consulta).
 4. `E-commerce/Paginas-Web/`: migrar `02 Negocios/` del vault.
 
+## Revisión final (2026-10-09)
+- HECHO · Los 44 archivos de Drive (`AMAZON/` + `TERPTECH/`) están en el repo: 39 idénticos byte a byte; 3 con agregados posteriores de otras sesiones (AVIE y MT-BALL `ESTADO.md`: modo salida de Beauty Michele; `FICHA_DE_PRODUCTO.md` de TerpTech: packaging y cómo recuperar reviews). No se perdió nada.
+- HECHO · 62 `.md` + CSV: todo UTF-8 válido, sin caracteres raros, sin links relativos rotos, todas las carpetas de producto con `CLAUDE.md` + `ESTADO.md`.
+- HECHO · Encontrado y **no** migrado: carpeta compartida de Drive "SANTINO" (diseñador `espinaza.biotec`, 13 PNG de 2025). Anotado como paso 3b de la tarea en curso de `TERPTECH/ESTADO.md` (confirmar de qué producto son).
+- Falta (no está en Drive ni en el repo, sólo en la Mac): vaults crudos para `_ARCHIVO/`, notas de `02 Negocios/` para Páginas Web (sin `ESTADO.md` todavía), email de la tienda de Etsy, y lo de TerpTech que haya en las carpetas viejas de la Mac.
+- El espejo de Drive (`AMAZON/…`) quedó con la estructura vieja y no tiene lo nuevo de TerpTech (mayoristas, DecoHOUSE, catálogo). Decisión de Santi si se sigue manteniendo.
+
 ## 3. Detalle
 ### Cómo trabajar con poco contexto
 - Un chat/sesión por frente (un producto o una cuenta). No mezclar.
