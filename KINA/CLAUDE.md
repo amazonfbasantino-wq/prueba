@@ -1,6 +1,9 @@
 # KINA — Lymphatic Drainage Face Brush (B0GQJLP4TB)
 
-> Ecosistema del producto. Lo estable vive acá; lo que cambia, en `ESTADO.md`. Cuenta: `../_CUENTA-KINAVARGAS/`.
+> Contexto madre de Amazon (quién es Santi, meta, cuentas, reglas duras), se carga con esta línea:
+@../Trabajo/E-commerce/Amazon/CLAUDE.md
+
+> Ecosistema del producto. Lo estable vive acá; lo que cambia, en `ESTADO.md`. Cuenta: `../Trabajo/E-commerce/Amazon/_CUENTA-KINAVARGAS/`.
 
 ## ⚠️ Objetivo vigente: LIQUIDAR EL INVENTARIO FUERA DE AMAZON
 Desde el 03-sep (DEC-018 / DEC-019): KINA **no se construye como marca**. Se liquida el stock y se recupera capital.

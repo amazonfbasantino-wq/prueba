@@ -20,10 +20,10 @@
 ## Mapa de carpetas
 | Carpeta | Producto | ASIN | Estado de la mudanza |
 |---|---|---|---|
-| `AVIE/` | AVIE Lymphatic Contour Face Brush | B0GT75CR86 | ✅ migrado 2026-10-06 |
-| `MT-BALL/` | MT Ball (meta ball, con Maxi) | — | ✅ migrado 2026-10-06 |
-| `REFLEX/` | Reflex Game (KINAVARGAS) · **modo liquidación** | B0GR46X8Y8 · B0GQW5F2LL | ✅ migrado 2026-10-06 |
-| `KINA/` | KINA Lymphatic Drainage Face Brush · **liquidación fuera de Amazon** | B0GQJLP4TB | ✅ migrado 2026-10-06 |
+| `../../../AVIE/` (raíz) | AVIE Lymphatic Contour Face Brush | B0GT75CR86 | ✅ migrado 2026-10-06 |
+| `../../../MT-BALL/` (raíz) | MT Ball (meta ball, con Maxi) | — | ✅ migrado 2026-10-06 |
+| `../../../REFLEX/` (raíz) | Reflex Game (KINAVARGAS) · **modo liquidación** | B0GR46X8Y8 · B0GQW5F2LL | ✅ migrado 2026-10-06 |
+| `../../../KINA/` (raíz) | KINA Lymphatic Drainage Face Brush · **liquidación fuera de Amazon** | B0GQJLP4TB | ✅ migrado 2026-10-06 |
 | `../../../TERPTECH/` | TerpTech: **fuera de Amazon** (prohibido) · ecosistema propio en `TERPTECH/` (raíz del repo) | B0F9SXP5MW | movido 2026-10-08 |
 | `_CUENTA-KINAVARGAS/` | Cuenta KINAVARGAS: titular, seguro, casos, reglas | — | ✅ migrado 2026-10-06 |
 | `../../../TERPTECH/_CUENTA-DECOHOUSE/` | Cuenta bloqueada de Santi: motivo, fondos retenidos, apelación | — | ✅ 2026-10-08 desde Gmail |

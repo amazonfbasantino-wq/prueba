@@ -1,5 +1,8 @@
 # REFLEX — Reflex Challenge Drop Stick Game (Hand Speed Challenge)
 
+> Contexto madre de Amazon (quién es Santi, meta, cuentas, reglas duras), se carga con esta línea:
+@../Trabajo/E-commerce/Amazon/CLAUDE.md
+
 > Ecosistema del producto. Lo estable vive acá; lo que cambia, en `ESTADO.md`.
 > Antes de trabajar: leer este archivo + `ESTADO.md`. Abrir el resto sólo si la tarea lo pide.
 

@@ -11,7 +11,7 @@
 - **09-oct · guía de Marvin (06-oct):** todas las pujas están a **US$ 0,10** desde el 06-oct (≈ PPC apagado, y PPC era ~70 % de las unidades) · plan: 2 automáticas nuevas a 2×S +40 % TOS, pausar LooseMatch, ataque a Hot Dog Drop `B0FZK1DD6D` · pujas pensadas para ROAS 3 a 22,99 (lógica de margen, no de liquidación) · revisión a 15 días no entra antes del 02-nov. `reflex challenge game` de QW5 cayó de #1 a **#12** orgánico. Detalle y topes de puja: `plan-salida-2nov.md` §9.
 
 ## SIGUIENTE SESIÓN — local, con Claude in Chrome (en el Chrome de Santi)
-**Regla dura:** en el Chrome / compu / IP de Santi **sólo navegar amazon.com como comprador** (páginas públicas). **Nunca entrar a Seller Central ni Ads de KINAVARGAS desde ahí**: es la vía de vínculo con DecoHOUSE (cuentas relacionadas, ver `../../TERPTECH/_CUENTA-DECOHOUSE/ESTADO.md`). Lo de Seller Central (ventas, campañas, aviso del seguro) sale de la compu de Eugenia como export/captura.
+**Regla dura:** en el Chrome / compu / IP de Santi **sólo navegar amazon.com como comprador** (páginas públicas). **Nunca entrar a Seller Central ni Ads de KINAVARGAS desde ahí**: es la vía de vínculo con DecoHOUSE (cuentas relacionadas, ver `../TERPTECH/_CUENTA-DECOHOUSE/ESTADO.md`). Lo de Seller Central (ventas, campañas, aviso del seguro) sale de la compu de Eugenia como export/captura.
 
 Relevar y guardar en `competencia.md` (foto con fecha):
 1. QW5 `B0GQW5F2LL` y R46 `B0GR46X8Y8`: precio, cupón, deal, rating/reviews, "bought in past month", BSR, título, imágenes, variantes, Buy Box.

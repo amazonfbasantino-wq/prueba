@@ -10,7 +10,7 @@
 
 ## Prioridades
 1. **Seguro aceptado por Amazon** → protege ~US$ 17.800 de stock de Reflex en el único trimestre que importa. Prima esperada US$ 1.000–3.500/año: comprar es decisión obvia frente al capital en juego.
-2. **Compliance de Reflex** (`../REFLEX/compliance.md`) — mismo underwriter va a pedir CPC/tests: hacer las dos cosas juntas.
+2. **Compliance de Reflex** (`../../../../REFLEX/compliance.md`) — mismo underwriter va a pedir CPC/tests: hacer las dos cosas juntas.
 3. Mantener la cuenta sana hasta vaciarla (no tocar legal entity, no listings nuevos de KINA).
 
 ## Decisiones abiertas (de Santi)

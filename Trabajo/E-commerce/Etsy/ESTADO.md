@@ -12,4 +12,4 @@
 3. ¿Qué vendías ahí? (si era TerpTech/baterías 510: Etsy también prohíbe vapes y accesorios)
 
 ## Nota
-- KINA está excluido de Etsy por política de reventa (`../Amazon/KINA/canales.md`).
+- KINA está excluido de Etsy por política de reventa (`../../../KINA/canales.md`).

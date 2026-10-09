@@ -1,5 +1,8 @@
 # AVIE — Lymphatic Contour Face Brush · B0GT75CR86
 
+> Contexto madre de Amazon (quién es Santi, meta, cuentas, reglas duras), se carga con esta línea:
+@../Trabajo/E-commerce/Amazon/CLAUDE.md
+
 > Ecosistema completo del producto. Lo estable vive acá; lo que cambia, en `ESTADO.md`.
 > Antes de trabajar: leer este archivo + `ESTADO.md`. Abrir el resto sólo si la tarea lo pide.
 
