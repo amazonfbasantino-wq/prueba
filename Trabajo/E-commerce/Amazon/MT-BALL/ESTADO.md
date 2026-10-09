@@ -3,7 +3,7 @@
 **Actualizado:** 2026-10-06 (migración) · **Último trabajo real:** 2026-09-29 · **Fase:** 0 — prerrequisitos
 
 ## 🛑 Bloqueo (2026-10-08)
-Beauty Michele pasa a modo salida (vender el stock existente hasta agotarlo y dejar de operarla → `../../TERPTECH/_CUENTA-DECOHOUSE/ESTADO.md`). **No lanzar MT Ball en Beauty Michele**: meter 1.000+ u en FBA de una cuenta que se va a dejar de operar contradice la decisión y atrasa la apelación de DecoHOUSE.
+Beauty Michele pasa a modo salida (vender el stock existente hasta agotarlo y dejar de operarla → `../../../../TERPTECH/_CUENTA-DECOHOUSE/ESTADO.md`). **No lanzar MT Ball en Beauty Michele**: meter 1.000+ u en FBA de una cuenta que se va a dejar de operar contradice la decisión y atrasa la apelación de DecoHOUSE.
 Decisión abierta (Santi + Maxi): (a) cuenta propia de **Maxi**, operada por Maxi; (b) venta fuera de Amazon en Q4; (c) esperar a la cuenta de la LLC (depende de reinstalar DecoHOUSE, no antes de 2027).
 
 ## ⚠️ Primero: confirmar (el cronograma ya está corriendo)

@@ -1,6 +1,6 @@
 # TERPTECH — TerpTech Premium 650mAh · B0F9SXP5MW (AMZ-P003)
 
-> Batería 510 recargable con diseño de personaje y display digital. Ecosistema propio dentro de `E-commerce/`: **Amazon cerrado para siempre** (causó la Sección 3 de DecoHOUSE); canal vigente: **B2B mayorista** a headshops de EE.UU.
+> Batería 510 recargable con diseño de personaje y display digital. Ecosistema propio (carpeta en la raíz de *ecosistema de negocios nuevo*): **Amazon cerrado para siempre** (causó la Sección 3 de DecoHOUSE); canal vigente: **B2B mayorista** a headshops de EE.UU.
 
 ## Archivos
 | Archivo | Para qué |

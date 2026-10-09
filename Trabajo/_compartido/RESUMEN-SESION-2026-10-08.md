@@ -16,7 +16,7 @@
 ---
 
 ## 2. DecoHOUSE: la cuenta personal de Santi, bloqueada
-**Carpeta:** `Trabajo/E-commerce/TERPTECH/_CUENTA-DECOHOUSE/` (`CLAUDE.md`, `ESTADO.md`, `apelacion.md`, `correspondencia.md`)
+**Carpeta:** `TERPTECH/_CUENTA-DECOHOUSE/` (raíz del repo desde 2026-10-09) (`CLAUDE.md`, `ESTADO.md`, `apelacion.md`, `correspondencia.md`)
 
 ### Hechos (de los mails)
 - **08-feb-2026:** desactivación permanente por **Sección 3** del contrato de vendedor.
@@ -92,7 +92,7 @@
 ---
 
 ## 3. TerpTech
-**Carpeta:** `Trabajo/E-commerce/TERPTECH/`
+**Carpeta:** `TERPTECH/` (raíz del repo desde 2026-10-09)
 - **Amazon:** cerrado para siempre.
 - **Canal vigente:** B2B mayorista a headshops de EE.UU.
   - Shopify DTC quedó descartado: Shopify prohíbe vapes y la ley PACT Act complica la venta al consumidor.

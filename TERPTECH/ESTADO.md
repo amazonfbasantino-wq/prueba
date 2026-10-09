@@ -8,6 +8,13 @@
 - El punto 0 de "Próxima sesión" (historia con el Gmail cemar4025) quedó **hecho en parte**: la historia de la cuenta Amazon está en `_CUENTA-DECOHOUSE/CLAUDE.md`. Falta lo de fábrica (specs, facturas, certificados).
 
 
+## TAREA EN CURSO — traer lo de TerpTech que está en la Mac (2026-10-09)
+Este repo ya está en la Mac como `Documentos/ecosistema de negocios nuevo/`. Falta revisar lo que haya de TerpTech **fuera del repo** y sumarlo acá.
+1. Buscar TerpTech en `~/Documents/ecosistema de negocios`, `~/Documents/Obsidian Vault`, `~/Documents/PROYECTOS 100K` y `~/Documents/amazon 1` (nombre o contenido: `terptech`, `510`, `B0F9SXP5MW`, `skytrader`, `wholesale`, `line sheet`).
+2. Mostrarle a Santi la lista (archivo · fecha · qué es) antes de copiar nada.
+3. Lo aprobado: copiar (nunca mover ni borrar el original) a la subcarpeta que toque (`imagenes/`, `catalogo/`, `mayoristas/`, `_CUENTA-DECOHOUSE/`, o `assets/` para lo demás). Si es texto con datos nuevos, volcarlo en el `.md` que corresponda sin duplicar; si contradice lo que hay, anotarlo abajo en "Contradicciones" en vez de pisar.
+4. Commitear y pushear. Borrar esta sección al terminar.
+
 ## Dónde estamos
 - 🔴 **URGENTE: vender las 3.300 u antes del 31-dic-2026** (stock comprado con deuda). Plan y puntos de control: `canales.md` › Plan de liquidación.
 - Stock en el 3PL de Miami: **3.300 u (1.100 por color) sin punta de soldar adentro**, aunque la caja la muestra. Confirmado por Santi el 2026-10-08.

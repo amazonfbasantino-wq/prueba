@@ -17,8 +17,8 @@ Cuando Santi diga "procesá el inbox":
 |---|---|
 | AVIE / MT Ball / Reflex / KINA (Amazon) | `E-commerce/Amazon/<PRODUCTO>/` |
 | Cuenta KINAVARGAS (seguro, casos, salud de cuenta) | `E-commerce/Amazon/_CUENTA-KINAVARGAS/` |
-| TerpTech (mayoristas, catálogo, leads, 3PL, Shopify/DTC) | `E-commerce/TERPTECH/` (TerpTech ya no va en Amazon) |
-| Cuenta Amazon bloqueada (DecoHOUSE, Sección 3), apelación, fondos retenidos | `E-commerce/TERPTECH/_CUENTA-DECOHOUSE/` |
+| TerpTech (mayoristas, catálogo, leads, 3PL, Shopify/DTC) | `TERPTECH/` en la raíz (TerpTech ya no va en Amazon) |
+| Cuenta Amazon bloqueada (DecoHOUSE, Sección 3), apelación, fondos retenidos | `TERPTECH/_CUENTA-DECOHOUSE/` (raíz) |
 | RapiPet u otro sitio | `E-commerce/Paginas-Web/<SITIO>/` (crear) |
 | Etsy | `E-commerce/Etsy/` (una subcarpeta por tienda/producto si crece) |
 | Transversal (LLC VirtualMed, impuestos, banco, meta 100k) | `_compartido/` |

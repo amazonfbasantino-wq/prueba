@@ -16,8 +16,8 @@ Todo lo de venta online vive en **`E-commerce/`**. Un ecosistema = una carpeta.
 | `E-commerce/Amazon/KINA/` | KINA Face Brush · B0GQJLP4TB · liquidación fuera de Amazon | ✅ |
 | `E-commerce/Amazon/_CUENTA-KINAVARGAS/` | Cuenta KINAVARGAS: titular, seguro, casos | ✅ |
 | `E-commerce/Amazon/_ARCHIVO/` | Vaults de Obsidian en crudo (sólo consulta) | ⏳ copiar desde la compu |
-| `E-commerce/TERPTECH/` | TerpTech (batería 510) · **fuera de Amazon** · B2B mayorista, catálogo, leads, outreach | ✅ |
-| `E-commerce/TERPTECH/_CUENTA-DECOHOUSE/` | Cuenta Amazon bloqueada (Sección 3): historia, apelación, US$ 3.000 retenidos, correspondencia | ✅ 2026-10-08 |
+| `../TERPTECH/` (raíz del repo) | TerpTech (batería 510) · **fuera de Amazon** · B2B mayorista, catálogo, leads, outreach | ✅ |
+| `../TERPTECH/_CUENTA-DECOHOUSE/` | Cuenta Amazon bloqueada (Sección 3): historia, apelación, US$ 3.000 retenidos, correspondencia | ✅ 2026-10-08 |
 | `E-commerce/Etsy/` | Ecosistema Etsy | ⏳ falta el email de la tienda |
 | `E-commerce/Paginas-Web/` | Sitios (RapiPet y otros) | ⏳ migrar desde `02 Negocios/` del vault |
 | `_compartido/` | Lo transversal: `RESUMEN-SESION-2026-10-08.md` (Gmail, DecoHOUSE, LLC, E-commerce) | ✅ |
