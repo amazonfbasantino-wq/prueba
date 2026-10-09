@@ -44,7 +44,8 @@ fuentes: vault "proyectos 100k" (AMZ-P003 PRODUCT_INFO, VISUAL_EVIDENCE, MASTER_
 | Usos declarados (Amazon) | Electronics Repair, Jewelry Soldering, Residential Use | listing |
 | **Dimensiones** | `UNKNOWN` — no hay ficha dimensional en ningún vault | — |
 | **Peso** | `UNKNOWN` | — |
-| **Packaging / caja / case pack** | `UNKNOWN` (line sheet dice "Case pack: 50 / 100 — definir") | line sheet |
+| **Packaging / caja** | La caja dice "Mini Solder", muestra la punta de soldar impresa y trae instrucciones de soldado. **Lote de 3.300 u: la punta NO viene adentro** (Santi la sacó en esa producción). **Lote de 300 u devueltas: SÍ trae punta.** | Santi 2026-10-08 |
+| Case pack | `UNKNOWN` (line sheet dice "Case pack: 50 / 100 — definir") | line sheet |
 | **Certificados** (FCC, CE, RoHS, UN38.3, MSDS/SDS) | `UNKNOWN` — **no hay ningún certificado en los vaults**. Pedírselos a la fábrica | — |
 | Fábrica / proveedor | `UNKNOWN` — solo foto de la planta (cartelería en chino) | imagen 06 |
 
@@ -106,3 +107,8 @@ Descripción larga, A+ Content y backend keywords: `UNKNOWN` (no capturados).
 2. Certificados: FCC, CE, RoHS, UN38.3, MSDS/SDS de la batería de litio → pedir a la fábrica.
 3. Fotos originales en alta resolución de la galería (las 7 + el video): hoy solo hay capturas de pantalla.
 4. Texto completo del 5.º bullet y de la descripción, y más reviews positivas (se pueden capturar desde la página de reviews del ASIN si sigue pública).
+
+## 11. Recuperar las reviews de Amazon (2026-10-08)
+- Amazon no tiene una API pública que devuelva el texto de las reviews, y con el listing suprimido ya no se ven en la web.
+- Formas de recuperarlas: (1) **Wayback Machine** desde el navegador de Santi: `web.archive.org/web/*/amazon.com/*B0F9SXP5MW*` (desde la sesión en la nube está bloqueado); (2) capturas viejas en la compu o en el vault de Obsidian; (3) herramientas que haya usado (Helium 10, Jungle Scout, Keepa, ZIK) pueden tener guardado el historial de rating y reviews.
+- Hoy la única review con texto guardada es la de Reo Clark (5★). Con 4–5 más, el catálogo y los mails mejoran mucho.
