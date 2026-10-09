@@ -1,6 +1,6 @@
 # CUENTA KINAVARGAS (ACC-002) — lo que es de la cuenta, no de un producto
 
-> Seguro, titular, documentos, seguridad. Los productos de esta cuenta tienen su carpeta: `../REFLEX/` (liquidación activa) y `../KINA/` (fuera de Amazon, liquidación multicanal).
+> Seguro, titular, documentos, seguridad. Los productos de esta cuenta tienen su carpeta: `../../../../REFLEX/` (liquidación activa) y `../../../../KINA/` (fuera de Amazon, liquidación multicanal).
 
 ## Archivos
 | Archivo | Para qué |
@@ -29,9 +29,9 @@
 ## Casos
 | Caso | Estado |
 |---|---|
-| CASE-001 · patente de diseño D1063405 (complaint 20503982181) | ABIERTO · appeal despriorizado → `../KINA/patente.md` |
+| CASE-001 · patente de diseño D1063405 (complaint 20503982181) | ABIERTO · appeal despriorizado → `../../../../KINA/patente.md` |
 | CASE-003 · INFORM Act (bug de verificación de CUIT) | ✅ Resuelto |
-| Children's toys (QW5, aviso 22-sep, plazo 06-dic) | ABIERTO → `../REFLEX/compliance.md` |
+| Children's toys (QW5, aviso 22-sep, plazo 06-dic) | ABIERTO → `../../../../REFLEX/compliance.md` |
 | Seguro de responsabilidad civil (deadline 01-oct) | ABIERTO / vencido → `seguro.md` |
 
 ## Objetivo de la cuenta

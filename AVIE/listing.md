@@ -1,5 +1,8 @@
 # AVIE — Listing (copy vigente, listo para pegar)
 
+> **2026-10-08 · EN VIVO (lo subió Marvin, basado en este v3):** título "Lymphatic Contour Face Brush - Gua Sha Glow, Massager, Drainage, Pink." (71 car., sin "AVIE", con "Drainage") + destacado idéntico al v3. Resultado: Amazon's Choice + gua sha brush #33 + familia glow #23-73.
+> **Decisión: NO tocar el título hasta el 22-oct** (14 días de PPC). Quedan sólo 3 caracteres antes del límite de 74; cambiarlo en medio del empuje mezcla los datos de 24 h y arriesga el Choice. Título v4 entre el 22-oct y el 10-nov (para que indexe antes de Black Friday), sólo si un término con ≥ 20 clics y CVR ≥ 15 % no está en título ni destacado. Mientras tanto se trabaja lo invisible: backend, bullets, Recommended Uses (regalo y temporada), Público "Women", límite de compra 30.
+
 > Versión v3 del 2026-09-21. Anula el título de 196 car. del 16-sep. Estado: **pendiente de ejecución** (confirmar en `ESTADO.md`).
 
 ## Regla de los 75 caracteres

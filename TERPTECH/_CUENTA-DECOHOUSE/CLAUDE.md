@@ -33,6 +33,6 @@
 
 ## Reglas duras de esta cuenta
 1. **No volver a listar baterías 510 / TerpTech en ninguna cuenta de Amazon** (ni con otra categoría ni con otro nombre). Es exactamente lo que Amazon calificó de evasivo; repetirlo en KINAVARGAS o Beauty Michele las vincula y las mata.
-2. **No abrir cuentas nuevas** con datos de Santi ni de la LLC (ya está en `../../Trabajo/E-commerce/Amazon/KINA/CLAUDE.md` y `../../Trabajo/E-commerce/Amazon/_CUENTA-KINAVARGAS/CLAUDE.md`).
+2. **No abrir cuentas nuevas** con datos de Santi ni de la LLC (ya está en `../../KINA/CLAUDE.md` y `../../Trabajo/E-commerce/Amazon/_CUENTA-KINAVARGAS/CLAUDE.md`).
 3. No usar esta cuenta para operar nada de las otras cuentas.
 4. Cualquier contacto con Amazon sobre esta cuenta: sólo Seller Central o `disbursement-appeals@amazon.com`. Nada de "agentes" externos que pidan credenciales.

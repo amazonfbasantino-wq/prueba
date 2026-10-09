@@ -15,7 +15,7 @@ Cuando Santi diga "procesá el inbox":
 
 | Tema del chat | Carpeta destino |
 |---|---|
-| AVIE / MT Ball / Reflex / KINA (Amazon) | `E-commerce/Amazon/<PRODUCTO>/` |
+| AVIE / MT Ball / Reflex / KINA (Amazon) | `<PRODUCTO>/` en la raíz del repo |
 | Cuenta KINAVARGAS (seguro, casos, salud de cuenta) | `E-commerce/Amazon/_CUENTA-KINAVARGAS/` |
 | TerpTech (mayoristas, catálogo, leads, 3PL, Shopify/DTC) | `TERPTECH/` en la raíz (TerpTech ya no va en Amazon) |
 | Cuenta Amazon bloqueada (DecoHOUSE, Sección 3), apelación, fondos retenidos | `TERPTECH/_CUENTA-DECOHOUSE/` (raíz) |

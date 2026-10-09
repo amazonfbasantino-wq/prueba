@@ -10,10 +10,10 @@ Todo lo de venta online vive en **`E-commerce/`**. Un ecosistema = una carpeta.
 | Carpeta | Qué hay | Estado |
 |---|---|---|
 | `E-commerce/Amazon/` | Contexto madre de Amazon (quién soy, meta, cuentas, reglas duras) | ✅ |
-| `E-commerce/Amazon/AVIE/` | AVIE Lymphatic Contour Face Brush · B0GT75CR86 (Beauty Michele) · vender stock hasta agotar | ✅ |
-| `E-commerce/Amazon/MT-BALL/` | MT Ball con Maxi · **no lanzar en Beauty Michele** | ✅ |
-| `E-commerce/Amazon/REFLEX/` | Reflex Game R46 / QW5 (KINAVARGAS) · liquidación | ✅ |
-| `E-commerce/Amazon/KINA/` | KINA Face Brush · B0GQJLP4TB · liquidación fuera de Amazon | ✅ |
+| `../AVIE/` (raíz del repo) | AVIE Lymphatic Contour Face Brush · B0GT75CR86 (Beauty Michele) · vender stock hasta agotar | ✅ |
+| `../MT-BALL/` (raíz del repo) | MT Ball con Maxi · **no lanzar en Beauty Michele** | ✅ |
+| `../REFLEX/` (raíz del repo) | Reflex Game R46 / QW5 (KINAVARGAS) · liquidación | ✅ |
+| `../KINA/` (raíz del repo) | KINA Face Brush · B0GQJLP4TB · liquidación fuera de Amazon | ✅ |
 | `E-commerce/Amazon/_CUENTA-KINAVARGAS/` | Cuenta KINAVARGAS: titular, seguro, casos | ✅ |
 | `E-commerce/Amazon/_ARCHIVO/` | Vaults de Obsidian en crudo (sólo consulta) | ⏳ copiar desde la compu |
 | `../TERPTECH/` (raíz del repo) | TerpTech (batería 510) · **fuera de Amazon** · B2B mayorista, catálogo, leads, outreach | ✅ |

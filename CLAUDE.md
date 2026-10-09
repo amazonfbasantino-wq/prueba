@@ -1,9 +1,9 @@
 # Repo de trabajo de Santi
 
 - En la Mac, este repo es la carpeta **`Documentos/ecosistema de negocios nuevo/`**. Objetivo: **una carpeta por producto en la raíz** (`TERPTECH/`, `AVIE/`, `KINA/`, `MT-BALL/`, `REFLEX/`), cada una con todo su desarrollo adentro.
-- Mudanza en curso, de a un producto: ✅ `TERPTECH/` (2026-10-09) · ⏳ AVIE, KINA, MT-BALL, REFLEX siguen en `Trabajo/E-commerce/Amazon/`. Al mover uno: `git mv`, corregir las rutas relativas (`../`) que lo apuntan y actualizar esta lista.
-- Lo que todavía no se movió vive en `Trabajo/` (vault migrado desde Obsidian). Mapa y estado: `Trabajo/CLAUDE.md`.
-- Al empezar una tarea: leer **sólo** el `CLAUDE.md` y el `ESTADO.md` de la carpeta del producto que toque (ej. `Trabajo/E-commerce/Amazon/AVIE/`). Abrir el resto sólo si la tarea lo pide.
+- ✅ Las 5 carpetas de producto ya están en la raíz (2026-10-09). Cada `CLAUDE.md` de Amazon (AVIE, KINA, MT-BALL, REFLEX) importa el contexto madre `Trabajo/E-commerce/Amazon/CLAUDE.md`.
+- Lo transversal sigue en `Trabajo/` (contexto madre de Amazon, cuenta KINAVARGAS, Etsy, Páginas Web, `_compartido/`, `_inbox/`) (vault migrado desde Obsidian). Mapa y estado: `Trabajo/CLAUDE.md`.
+- Al empezar una tarea: leer **sólo** el `CLAUDE.md` y el `ESTADO.md` de la carpeta del producto que toque (ej. `AVIE/`). Abrir el resto sólo si la tarea lo pide.
 - Al cerrar la sesión: actualizar el `ESTADO.md` de ese producto y commitear.
 - CSV/exports grandes se procesan con scripts (python), nunca se leen fila por fila.
 
