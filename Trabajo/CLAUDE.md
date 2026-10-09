@@ -20,7 +20,7 @@ Todo lo de venta online vive en **`E-commerce/`**. Un ecosistema = una carpeta.
 | `E-commerce/TERPTECH/_CUENTA-DECOHOUSE/` | Cuenta Amazon bloqueada (Sección 3): historia, apelación, US$ 3.000 retenidos, correspondencia | ✅ 2026-10-08 |
 | `E-commerce/Etsy/` | Ecosistema Etsy | ⏳ falta el email de la tienda |
 | `E-commerce/Paginas-Web/` | Sitios (RapiPet y otros) | ⏳ migrar desde `02 Negocios/` del vault |
-| `_compartido/` | Lo transversal a todos los ecosistemas | vacío |
+| `_compartido/` | Lo transversal: `RESUMEN-SESION-2026-10-08.md` (Gmail, DecoHOUSE, LLC, E-commerce) | ✅ |
 | `_inbox/` | Traspasos de chats viejos a repartir (ver `_inbox/LEEME.md`) | 1 traspaso |
 
 Cada producto sigue la misma estructura: `CLAUDE.md` (lo estable) + `ESTADO.md` (dónde quedamos)
