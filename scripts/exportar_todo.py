@@ -1,4 +1,4 @@
-"""Junta todo Trabajo/ en un solo Markdown (foto del momento, para pasarlo a otra sesión).
+"""Junta todo el trabajo (carpetas de producto + Trabajo/) en un solo Markdown (foto del momento, para pasarlo a otra sesión).
 
 Uso: python scripts/exportar_todo.py [SALIDA]   (por defecto Trabajo/_inbox/TODO_TRABAJO_<fecha>.md)
 """
@@ -8,7 +8,9 @@ from datetime import date
 from pathlib import Path
 
 RAIZ = Path(__file__).resolve().parent.parent
-TRABAJO = RAIZ / "Trabajo"
+TRABAJO = RAIZ
+IGNORAR = {".git", "scripts", "templates"}
+FUERA = {"README.md"}  # README de la app de descargas
 PRIMERO = ["CLAUDE.md", "ESTADO.md"]  # dentro de cada carpeta, estos van antes que el resto
 
 
@@ -20,16 +22,17 @@ def orden(p: Path):
 
 
 def main() -> None:
-    salida = Path(sys.argv[1]) if len(sys.argv) > 1 else TRABAJO / "_inbox" / f"TODO_TRABAJO_{date.today()}.md"
+    salida = Path(sys.argv[1]) if len(sys.argv) > 1 else TRABAJO / "Trabajo" / "_inbox" / f"TODO_TRABAJO_{date.today()}.md"
     archivos = sorted(
         (p for p in TRABAJO.rglob("*") if p.is_file() and p.suffix in {".md", ".csv"}
+         and not IGNORAR & set(p.relative_to(TRABAJO).parts) and str(p.relative_to(TRABAJO)) not in FUERA
          and p.resolve() != salida.resolve() and not p.name.startswith("TODO_TRABAJO_")),
         key=orden,
     )
     partes = [
         f"# TODO TRABAJO — foto del {date.today()}",
         "",
-        "> Archivo generado con `scripts/exportar_todo.py`: junta en uno solo todos los archivos de `Trabajo/`.",
+        "> Archivo generado con `scripts/exportar_todo.py`: junta en uno solo todos los archivos de trabajo del repo.",
         "> **No editar acá.** La versión que manda es cada archivo en su carpeta; esto es sólo para leer o pasar a otra sesión.",
         "> Cada sección empieza con `## 📄 <ruta>` = el archivo original.",
         "",

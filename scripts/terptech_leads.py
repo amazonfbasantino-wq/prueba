@@ -3,7 +3,7 @@
 Uso:
     python scripts/terptech_leads.py ENTRADA.csv [SALIDA.csv]
 
-Salida por defecto: Trabajo/E-commerce/TERPTECH/mayoristas/leads.csv
+Salida por defecto: TERPTECH/mayoristas/leads.csv
 - Se queda sólo con smoke / tobacco / vape / head shops.
 - Saca duplicados (por email, sitio web o teléfono) y los cerrados.
 - Calcula `popularidad` (0-4) según rating y reseñas, y el `tier` (A/B/C).
@@ -15,7 +15,7 @@ import re
 import sys
 from pathlib import Path
 
-SALIDA_DEFAULT = Path("Trabajo/E-commerce/TERPTECH/mayoristas/leads.csv")
+SALIDA_DEFAULT = Path("TERPTECH/mayoristas/leads.csv")
 RUBROS = re.compile(r"smoke|tobacco|vape|vapor|head ?shop|cbd|hookah|cigar", re.I)
 EMAIL = re.compile(r"^[^@\s]+@[^@\s]+\.[a-z]{2,}$", re.I)
 

@@ -13,7 +13,7 @@
 |---|---|---|
 | **Beauty Michele** | Vendedor individual, persona natural, titular en Luján de Cuyo (Mendoza) · titular: tío de Santi · operada por Santi | AVIE (50/50 con mi pareja) · MT Ball (en preparación) |
 | **KINAVARGAS** (ACC-002) | Titular Maria Eugenia Vargas, esposa del socio (no es parte de la LLC) · operada por Santi | KINA (discontinuado), Reflex Game (liquidación) |
-| **DecoHOUSE** (cuenta personal de Santi) | Desactivada permanente por Sección 3 (08-feb-2026, batería 510 / vape) → `../TERPTECH/_CUENTA-DECOHOUSE/` | — (TerpTech, prohibido) |
+| **DecoHOUSE** (cuenta personal de Santi) | Desactivada permanente por Sección 3 (08-feb-2026, batería 510 / vape) → `../../../TERPTECH/_CUENTA-DECOHOUSE/` | — (TerpTech, prohibido) |
 | **VIRTUALMED SOLUTIONS LLC** | LLC de Florida (domicilio Sarasota) · miembros: Santi + Pablo · banco: Bank of America | — |
 | Socio externo | Maxi (vive en Utah) | MT Ball |
 
@@ -24,9 +24,9 @@
 | `MT-BALL/` | MT Ball (meta ball, con Maxi) | — | ✅ migrado 2026-10-06 |
 | `REFLEX/` | Reflex Game (KINAVARGAS) · **modo liquidación** | B0GR46X8Y8 · B0GQW5F2LL | ✅ migrado 2026-10-06 |
 | `KINA/` | KINA Lymphatic Drainage Face Brush · **liquidación fuera de Amazon** | B0GQJLP4TB | ✅ migrado 2026-10-06 |
-| `../TERPTECH/` | TerpTech: **fuera de Amazon** (prohibido) · ecosistema propio en `E-commerce/TERPTECH/` | B0F9SXP5MW | movido 2026-10-08 |
+| `../../../TERPTECH/` | TerpTech: **fuera de Amazon** (prohibido) · ecosistema propio en `TERPTECH/` (raíz del repo) | B0F9SXP5MW | movido 2026-10-08 |
 | `_CUENTA-KINAVARGAS/` | Cuenta KINAVARGAS: titular, seguro, casos, reglas | — | ✅ migrado 2026-10-06 |
-| `../TERPTECH/_CUENTA-DECOHOUSE/` | Cuenta bloqueada de Santi: motivo, fondos retenidos, apelación | — | ✅ 2026-10-08 desde Gmail |
+| `../../../TERPTECH/_CUENTA-DECOHOUSE/` | Cuenta bloqueada de Santi: motivo, fondos retenidos, apelación | — | ✅ 2026-10-08 desde Gmail |
 | `_ARCHIVO/` | Los dos vaults de Obsidian completos, en crudo (sólo consulta) | — | ver `_ARCHIVO/LEEME.md` |
 
 ## Estructura de cada producto

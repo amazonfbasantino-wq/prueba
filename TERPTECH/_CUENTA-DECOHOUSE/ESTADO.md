@@ -22,7 +22,7 @@
 Santi: **no se cierran** Beauty Michele ni KINAVARGAS. Se vende el stock hasta que se acabe y después se deja de pagar el plan Professional (US$ 39,99/mes); ahí se deja de operarlas. Recién entonces: apelación honesta → LLC.
 - La apelación de DecoHOUSE espera a que **las dos** estén sin stock (si AVIE dura más que enero, la apelación se corre).
 - Tip de costo: cuando una cuenta venda **menos de ~40 u/mes**, conviene pasarla a plan Individual (US$ 0,99 por unidad, sin cuota) — pero Individual no permite Sponsored Products.
-- Consecuencia: **MT Ball no se lanza en Beauty Michele** (ver `../../Amazon/MT-BALL/ESTADO.md`).
+- Consecuencia: **MT Ball no se lanza en Beauty Michele** (ver `../../Trabajo/E-commerce/Amazon/MT-BALL/ESTADO.md`).
 
 ## (Contexto de la decisión)
 Operar Beauty Michele y KINAVARGAS siendo titular de una cuenta suspendida choca de frente con reinstalar DecoHOUSE: una apelación creíble dice "opero una sola cuenta". Una apelación que lo oculte sería falsa y, si la detectan, cierra la puerta del todo.

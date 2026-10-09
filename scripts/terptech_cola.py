@@ -15,7 +15,7 @@ import sys
 from datetime import date, datetime
 from pathlib import Path
 
-LEADS = Path("Trabajo/E-commerce/TERPTECH/mayoristas/leads.csv")
+LEADS = Path("TERPTECH/mayoristas/leads.csv")
 MAX_TOQUES = 6
 DIAS_ENTRE_TOQUES = 3
 # Etapas en las que la secuencia automática se frena (la conversación sigue a mano o terminó)

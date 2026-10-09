@@ -14,9 +14,9 @@
 
 ## 2. Estado actual
 **Migrado y verificado (tamaño + codificación):** Amazon madre, AVIE, MT-BALL (+ `keywords_Q4_tracker.csv`), REFLEX, KINA, `_CUENTA-KINAVARGAS`, TerpTech (ficha + 6 imágenes + line sheet; imágenes y PDF subidos por Santi por git, commit `1432368`).
-Después otras sesiones reorganizaron todo bajo `E-commerce/` y sacaron TerpTech de Amazon (`E-commerce/TERPTECH/`, con su `ESTADO.md` y `_CUENTA-DECOHOUSE/`). Para el estado de TerpTech, mandan esos archivos, no este traspaso.
+Después otras sesiones reorganizaron todo bajo `E-commerce/` y sacaron TerpTech de Amazon (hoy `TERPTECH/` en la raíz del repo, con su `ESTADO.md` y `_CUENTA-DECOHOUSE/`). Para el estado de TerpTech, mandan esos archivos, no este traspaso.
 
-**En Drive `AMAZON/TERPTECH/`:** `CLAUDE.md` y `07_line_sheet_mayorista.pdf` (subidos 2026-10-08; ese line sheet ya no se usa, ver `E-commerce/TERPTECH/ESTADO.md`). La ficha está suelta en `AMAZON/` como `TERPTECH_FICHA_DE_PRODUCTO.md`.
+**En Drive `AMAZON/TERPTECH/`:** `CLAUDE.md` y `07_line_sheet_mayorista.pdf` (subidos 2026-10-08; ese line sheet ya no se usa, ver `TERPTECH/ESTADO.md`). La ficha está suelta en `AMAZON/` como `TERPTECH_FICHA_DE_PRODUCTO.md`.
 
 **Pendientes de la mudanza:**
 1. Espejo de Drive: quedó con la estructura vieja (`AMAZON/…`). Decidir si se mantiene al día y cómo (decisión de Santi).

@@ -26,4 +26,4 @@
 | 07 oct 2026 | Amazon → Santi | Pay your outstanding seller account balance | Cobro rechazado por saldo deudor | Santi dice que no hay deuda → verificar | [abrir](https://mail.google.com/mail/#all/1a1174131682d844) |
 
 ## Etsy (mismo Gmail)
-- Sólo newsletters de comprador y un aviso de inicio de sesión desde la app **Etsy Seller** (04-jul-2026). Ningún aviso de suspensión → la tienda debe estar con otro email. Ver `../../Etsy/ESTADO.md`.
+- Sólo newsletters de comprador y un aviso de inicio de sesión desde la app **Etsy Seller** (04-jul-2026). Ningún aviso de suspensión → la tienda debe estar con otro email. Ver `../../Trabajo/E-commerce/Etsy/ESTADO.md`.
