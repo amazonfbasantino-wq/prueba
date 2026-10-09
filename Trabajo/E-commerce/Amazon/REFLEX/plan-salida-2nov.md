@@ -74,3 +74,21 @@ Fórmula: caja Amazon = precio − (4,87 + 15 % precio). **Regla de corte:** una
 - Seller Forums: "New Commercial Liability Insurance Requirements effective November 2, 2026" · EcommerceBytes 10-sep-2026 · SellerEssentials / NVINC (45 días, nivel listing) · PPC Land (plazo no explícito en el aviso).
 - Precios Walmart (genéricos con control remoto US$ 10,59–21,38, varios en liquidación).
 - FBA Liquidations: recupero bruto típico 5–10 % del valor (Seller Forums).
+
+## 9 · Cruce con la guía de campañas de Marvin (v1.1, 06-oct) — leída 09-oct
+**HECHOS (de la guía):**
+- El 06-oct Santi dejó **todas las campañas y targets a US$ 0,10**. Con PPC ≈ 70 % de las unidades (W1), eso equivale a **apagar casi toda la publicidad**: la velocidad de octubre probablemente cayó, justo cuando hay que vaciar antes del 02-nov.
+- Plan de Marvin: 1 automática nueva por ASIN (`AUTO_<ASIN>_REFLEX-…`), puja **2 × S** (S = sugerida de Amazon, **todavía sin cargar**), pujas fijas, **+40 % top of search**, presupuestos propuestos 20 (QW5) / 15 (R46). Pausar las dos `SP-(LooseMatch)` (coincide con D-13). Resto a 0,10. Revisión a 15 días (→ ~21-oct si arrancó el 06-oct; fecha real de arranque UNKNOWN).
+- Ataque a **Hot Dog Drop `B0FZK1DD6D`** (product targeting exacto): QW5 0,75 · R46 0,40 · 10 + 5 US$/día. Lo pidió Santi, no Marvin. Pujas calculadas para **ROAS 3 a US$ 22,99**.
+- Helium 06-oct (sólo QW5), orgánico: `reaction time game` #3 · `drop stick challenge` #10 · **`reflex challenge game` #12 (era #1 en septiembre)** · `reflex drop sticks game` #60 · `reflex game` #83. Patrocinado >96 en casi todo (consistente con pujas a 0,10).
+
+**Dónde choca con el corte del 02-nov:**
+1. **ROAS 3 es lógica de margen, no de liquidación.** Con costo hundido, el tope de PPC por pedido es `precio − fee − valor de salida (~3)`, ÷1,10 por la agencia: a 22,99 → **~10,6/pedido (ROAS ≈ 2,2)**; a 16,99 → **~5,4/pedido (ROAS ≈ 3,1)**. A precio alto se puede pujar más agresivo de lo que propone la guía.
+2. **Tope de puja por CVR, no por sugerida.** CPC máx = tope/pedido × CVR. QW5 (CVR 13,5 %): ~1,43 a 22,99 · ~0,73 a 16,99. R46 (6,9 %): ~0,73 · ~0,37. **2 × S con +40 % arriba puede superarlo** si S > ~0,50 (QW5 a 16,99) o > ~1,00 (QW5 a 22,99). Usar `min(2 × S, CPC máx)`.
+3. **15 días de aprendizaje + 7 de atribución no entran en 24 días.** Revisar a los 5–7 días con reglas de corte, no a los 15.
+4. **Dejar las 6 automáticas viejas y las manuales ganadoras a 0,10 desperdicia lo que ya convertía** (`reflex challenge game`, `reaction game`, `reaction time game`, `reflex drop sticks game`, PT Tendry): reactivar sólo las exact/phrase con historial ≥ 5 pedidos, a `min(CPC histórico, CPC máx)`.
+5. **El precio define todo lo anterior:** la guía asume 22,99. ¿Es el precio vigente? Si sí, choca con la baja a 16,99 del §4 → decidir: **22,99 con PPC más fuerte** vs **16,99 con PPC más fino**. Sin datos de velocidad post-06-oct no se puede elegir con números.
+
+## 10 · Archivos recibidos el 09-oct
+- `REFLEX-guia-campanas-Marvin-2026-10-06.html` → resumido en §9.
+- `US_AMAZON_cerebro_B0H5MBL5PY_2026-10-04.csv` → **no es de Reflex**: B0H5MBL5PY es **Kitsch** (cepillo linfático), competidor de **AVIE**. 4.567 keywords. Se procesa en una sesión de AVIE.

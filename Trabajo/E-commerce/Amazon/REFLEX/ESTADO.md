@@ -8,6 +8,7 @@
 - **Hallazgo central:** el pico (BF 27-nov, diciembre) cae **después** del corte. Sin seguro las 3.700 u rinden ~US$ 10–14k; con seguro ~US$ 27–30k. **El seguro vale ~US$ 14–18k** → reabrir la decisión esta semana.
 - Costo hundido: cada unidad se compara contra su valor fuera de Amazon (~2–4 B2B), no contra 5,94. **Sin seguro, la escalera de subida queda anulada**: bajar precio (QW5 16,99 · R46 14,99) + cupón + PPC sólo en exact de CVR ≥ 20 % (tope ~6,5/pedido).
 - **3.700 no cierra** con 5.000 − 1.501 vendidas al 04-sep (máx. 3.499) → C-28 se agrava.
+- **09-oct · guía de Marvin (06-oct):** todas las pujas están a **US$ 0,10** desde el 06-oct (≈ PPC apagado, y PPC era ~70 % de las unidades) · plan: 2 automáticas nuevas a 2×S +40 % TOS, pausar LooseMatch, ataque a Hot Dog Drop `B0FZK1DD6D` · pujas pensadas para ROAS 3 a 22,99 (lógica de margen, no de liquidación) · revisión a 15 días no entra antes del 02-nov. `reflex challenge game` de QW5 cayó de #1 a **#12** orgánico. Detalle y topes de puja: `plan-salida-2nov.md` §9.
 
 ## ⚠️ Primero: confirmar (todo lo posterior al 28-sep es UNKNOWN)
 1. **Stock FBA por ASIN hoy** (disponible / reservado / en tránsito). Conflicto: 3.400 u el 15-sep vs **3.550 u** citadas el 28-sep.
@@ -47,6 +48,8 @@
 | Título de QW5 (A-18) | **Obsoleto:** Amazon dejó ambos títulos en 32 car. el 4–14 sep |
 
 ## Decisiones abiertas (de Santi)
+- **Precio vigente (¿22,99?) y precio de salida:** 22,99 con PPC fuerte vs 16,99 con PPC fino (§9.5).
+- Reactivar las manuales ganadoras con tope de CPC por CVR, en vez de dejarlas a 0,10.
 - **¿Seguro sí o no antes del 02-nov?** Define plan A (vaciar en octubre + B2B) o B (vender Q4 completo). Ver `plan-salida-2nov.md` §5.
 - Autorizar plan A: precio QW5 16,99 / R46 14,99, cupón 10–15 %, PPC agresivo con tope, y cotizar 3 compradores B2B ya.
 - Vía de compliance de QW5 (y R46, que tiene la misma caja): laboratorio sí/no y quién es el importador de registro (a su nombre va el CPC).
@@ -58,6 +61,7 @@
 Ejecutar en Seller Central o Ads sin OK puntual · pausar automáticas · reestructurar campañas · usar el botón de IA de Amazon para "arreglar" el listing · declarar al seguro algo distinto de lo que dice la caja.
 
 ## Historial
+- 2026-10-09 · Leída la guía de Marvin (06-oct): pujas a 0,10, automáticas nuevas, Hot Dog Drop. Cruce con el corte del 02-nov en `plan-salida-2nov.md` §9. El CSV de Cerebro recibido es de Kitsch (AVIE), no de Reflex.
 - 2026-10-08 · Corte 02-nov + 3.700 u + meta 30k. Investigación del cambio de seguro de Amazon y del mercado (Walmart US$ 10,6–21,4). Plan A/B y escenarios en `plan-salida-2nov.md`. Nada ejecutado.
 - 2026-10-06 · Migrado a `AMAZON/REFLEX/` desde el vault PROYECTOS 100K (índice 17-sep + historia 19-sep) y el expediente de seguro (28-sep). Caja revisada: AGES 3+, batería interna.
 - 2026-09-28 · Flag "Children's toys" en QW5 (aviso del 22-sep, plazo 06-dic). Objetivo confirmado: liquidar y salir.
